@@ -1,0 +1,15 @@
+{
+  "name": "dev-trends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Daily developer news updates from Hacker News",
+
+  "scripts": {
+    "start": "node updateTrends.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+"type": "module"}

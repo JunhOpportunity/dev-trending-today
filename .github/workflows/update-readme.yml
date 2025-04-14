@@ -1,0 +1,33 @@
+name: Update Dev Trends README
+
+on:
+  schedule:
+    - cron: '0 0 * * 1-5'  # 월~금 UTC 00:00 (한국 기준 오전 9시)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update script
+        run: node updateTrends.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📰 오늘의 트렌드 업데이트: $(date '+%Y-%m-%d')" || exit 0
+          git push

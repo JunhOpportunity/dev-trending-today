@@ -1,5 +1,5 @@
 import https from 'https';
-import { writeFile } from 'fs/promises';
+import { readFile, writeFile } from 'fs/promises';
 
 const TOP_STORIES_URL = 'https://hacker-news.firebaseio.com/v0/topstories.json';
 const ITEM_URL = id => `https://hacker-news.firebaseio.com/v0/item/${id}.json`;
@@ -29,9 +29,9 @@ async function fetchTopStories(limit = 5) {
   return stories;
 }
 
-function generateMarkdown(stories) {
+function generateTrendSection(stories) {
   const today = new Date().toISOString().split('T')[0];
-  let md = `# 📰 오늘의 개발 트렌드 (Updated: ${today})\n\n`;
+  let md = `\n---\n\n# 📰 오늘의 개발 트렌드 (Updated: ${today})\n\n`;
 
   stories.forEach((story, i) => {
     const title = story.title || 'No title';
@@ -44,7 +44,16 @@ function generateMarkdown(stories) {
 }
 
 const stories = await fetchTopStories();
-const markdown = generateMarkdown(stories);
-await writeFile('README.md', markdown, 'utf8');
+const trendsMarkdown = generateTrendSection(stories);
+
+// 기존 README 내용 읽기
+const readmePath = 'README.md';
+const originalReadme = await readFile(readmePath, 'utf8');
+
+// --- 이후 내용은 덮어쓰기 (기존 고정 내용 유지)
+const fixedPart = originalReadme.split('---')[0]; // '---' 기준으로 고정 부분 분리
+const updatedReadme = fixedPart.trim() + trendsMarkdown;
+
+await writeFile(readmePath, updatedReadme, 'utf8');
 
 console.log('✅ README.md updated with today’s developer trends!');

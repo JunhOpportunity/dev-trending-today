@@ -10,18 +10,18 @@ node.js
 
 # 📰 오늘의 개발 트렌드 (Updated: 2025-04-15)
 
-### 1. [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
-💬 458 points | 🧑‍💻 by maheshrijal
+### 1. [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+💬 54 points | 🧑‍💻 by walterbell
 
-### 2. [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
-💬 254 points | 🧑‍💻 by c420
+### 2. [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
+💬 37 points | 🧑‍💻 by thm
 
-### 3. [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
-💬 201 points | 🧑‍💻 by voxadam
+### 3. [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
+💬 86 points | 🧑‍💻 by dogacel
 
-### 4. [Tomb Engine](https://tombengine.com/)
-💬 74 points | 🧑‍💻 by ibobev
+### 4. [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
+💬 513 points | 🧑‍💻 by maheshrijal
 
-### 5. [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
-💬 375 points | 🧑‍💻 by Palmik
+### 5. [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
+💬 306 points | 🧑‍💻 by c420
 

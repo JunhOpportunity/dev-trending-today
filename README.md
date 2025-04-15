@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-15)
 
-### 1. [Albert Einstein's theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
-💬 75 points | 🧑‍💻 by signa11
+### 1. [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
+💬 458 points | 🧑‍💻 by maheshrijal
 
-### 2. [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
-💬 74 points | 🧑‍💻 by ChristopherDrum
+### 2. [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
+💬 254 points | 🧑‍💻 by c420
 
-### 3. [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
-💬 189 points | 🧑‍💻 by sshh12
+### 3. [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+💬 201 points | 🧑‍💻 by voxadam
 
-### 4. [Open guide to equity compensation](https://github.com/jlevy/og-equity-compensation)
-💬 419 points | 🧑‍💻 by mooreds
+### 4. [Tomb Engine](https://tombengine.com/)
+💬 74 points | 🧑‍💻 by ibobev
 
-### 5. [Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
-💬 90 points | 🧑‍💻 by kcon
+### 5. [The path to open-sourcing the DeepSeek inference engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+💬 375 points | 🧑‍💻 by Palmik
 

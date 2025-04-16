@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-16)
 
-### 1. [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
-💬 54 points | 🧑‍💻 by walterbell
+### 1. [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
+💬 349 points | 🧑‍💻 by filiph
 
-### 2. [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
-💬 37 points | 🧑‍💻 by thm
+### 2. [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
+💬 88 points | 🧑‍💻 by DonHopkins
 
-### 3. [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
-💬 86 points | 🧑‍💻 by dogacel
+### 3. [Cursor IDE support hallucinates lockout policy, causes user cancellations](https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/)
+💬 685 points | 🧑‍💻 by scaredpelican
 
-### 4. [GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
-💬 513 points | 🧑‍💻 by maheshrijal
+### 4. [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
+💬 226 points | 🧑‍💻 by meetpateltech
 
-### 5. [Meta antitrust trial kicks off in federal court](https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court)
-💬 306 points | 🧑‍💻 by c420
+### 5. [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
+💬 69 points | 🧑‍💻 by alexharri
 

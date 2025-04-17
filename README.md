@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-17)
 
-### 1. [Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator](https://filiph.github.io/unsure/)
-💬 349 points | 🧑‍💻 by filiph
+### 1. [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
+💬 79 points | 🧑‍💻 by RVRX
 
-### 2. [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
-💬 88 points | 🧑‍💻 by DonHopkins
+### 2. [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
+💬 111 points | 🧑‍💻 by coppolaemilio
 
-### 3. [Cursor IDE support hallucinates lockout policy, causes user cancellations](https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/)
-💬 685 points | 🧑‍💻 by scaredpelican
+### 3. [Demolishing the Fry's Electronics in Burbank](https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123)
+💬 46 points | 🧑‍💻 by walterbell
 
-### 4. [Generate videos in Gemini and Whisk with Veo 2](https://blog.google/products/gemini/video-generation/)
-💬 226 points | 🧑‍💻 by meetpateltech
+### 4. [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+💬 324 points | 🧑‍💻 by mfiguiere
 
-### 5. [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
-💬 69 points | 🧑‍💻 by alexharri
+### 5. [Darwin's children drew all over the “On the Origin of Species” manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
+💬 323 points | 🧑‍💻 by arbesman
 

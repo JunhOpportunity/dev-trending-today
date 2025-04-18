@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-18)
 
-### 1. [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
-💬 79 points | 🧑‍💻 by RVRX
+### 1. [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
+💬 536 points | 🧑‍💻 by meetpateltech
 
-### 2. [Jellyfin as a Spotify alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
-💬 111 points | 🧑‍💻 by coppolaemilio
+### 2. [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
+💬 149 points | 🧑‍💻 by mooreds
 
-### 3. [Demolishing the Fry's Electronics in Burbank](https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123)
-💬 46 points | 🧑‍💻 by walterbell
+### 3. [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
+💬 47 points | 🧑‍💻 by jnord
 
-### 4. [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
-💬 324 points | 🧑‍💻 by mfiguiere
+### 4. [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
+💬 24 points | 🧑‍💻 by elashri
 
-### 5. [Darwin's children drew all over the “On the Origin of Species” manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
-💬 323 points | 🧑‍💻 by arbesman
+### 5. [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
+💬 49 points | 🧑‍💻 by JSLegendDev
 

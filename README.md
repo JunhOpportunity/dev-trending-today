@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-21)
 
-### 1. [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
-💬 536 points | 🧑‍💻 by meetpateltech
+### 1. [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
+💬 300 points | 🧑‍💻 by JadedBlueEyes
 
-### 2. [Potatoes in the Mail](https://facts.usps.com/mailing-potatoes/)
-💬 149 points | 🧑‍💻 by mooreds
+### 2. [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
+💬 428 points | 🧑‍💻 by emrah
 
-### 3. [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
-💬 47 points | 🧑‍💻 by jnord
+### 3. [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
+💬 69 points | 🧑‍💻 by wglb
 
-### 4. [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
-💬 24 points | 🧑‍💻 by elashri
+### 4. [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
+💬 30 points | 🧑‍💻 by steventhedev
 
-### 5. [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
-💬 49 points | 🧑‍💻 by JSLegendDev
+### 5. [Find the Odd Disk](https://colors2.alessandroroussel.com/)
+💬 87 points | 🧑‍💻 by layer8
 

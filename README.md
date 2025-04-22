@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-22)
 
-### 1. [Things Zig comptime won't do](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html)
-💬 300 points | 🧑‍💻 by JadedBlueEyes
+### 1. [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
+💬 197 points | 🧑‍💻 by harryvederci
 
-### 2. [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
-💬 428 points | 🧑‍💻 by emrah
+### 2. [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
+💬 30 points | 🧑‍💻 by shakna
 
-### 3. [Crows can recognize geometric regularity](https://phys.org/news/2025-04-crows-geometric-regularity.html)
-💬 69 points | 🧑‍💻 by wglb
+### 3. [Blog hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
+💬 375 points | 🧑‍💻 by edent
 
-### 4. [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
-💬 30 points | 🧑‍💻 by steventhedev
+### 4. ['Immediate red flags': questions raised over 'expert' much quoted in UK press](https://www.theguardian.com/media/2025/apr/19/questions-raised-over-barbara-santini-expert-much-quoted-in-uk-press)
+💬 81 points | 🧑‍💻 by mellosouls
 
-### 5. [Find the Odd Disk](https://colors2.alessandroroussel.com/)
-💬 87 points | 🧑‍💻 by layer8
+### 5. [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
+💬 357 points | 🧑‍💻 by toebee
 

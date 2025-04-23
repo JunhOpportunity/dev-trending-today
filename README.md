@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-23)
 
-### 1. [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
-💬 197 points | 🧑‍💻 by harryvederci
+### 1. [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
+💬 237 points | 🧑‍💻 by freetonik
 
-### 2. [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
-💬 30 points | 🧑‍💻 by shakna
+### 2. [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
+💬 54 points | 🧑‍💻 by lastdong
 
-### 3. [Blog hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
-💬 375 points | 🧑‍💻 by edent
+### 3. [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
+💬 270 points | 🧑‍💻 by adamnemecek
 
-### 4. ['Immediate red flags': questions raised over 'expert' much quoted in UK press](https://www.theguardian.com/media/2025/apr/19/questions-raised-over-barbara-santini-expert-much-quoted-in-uk-press)
-💬 81 points | 🧑‍💻 by mellosouls
+### 4. [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
+💬 132 points | 🧑‍💻 by franciscop
 
-### 5. [Show HN: Dia, an open-weights TTS model for generating realistic dialogue](https://github.com/nari-labs/dia)
-💬 357 points | 🧑‍💻 by toebee
+### 5. [The Illuminated Gospel of St John](https://www.cambridge.org/universitypress/bibles/illuminated-gospel-of-st-john)
+💬 25 points | 🧑‍💻 by ycombinete
 

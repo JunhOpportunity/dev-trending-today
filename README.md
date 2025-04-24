@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-24)
 
-### 1. [Atuin Desktop: Runbooks That Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
-💬 237 points | 🧑‍💻 by freetonik
+### 1. [Shortest walking tour to 81,998 bars in Korea – 178 days on foot (TSP solved)](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+💬 55 points | 🧑‍💻 by geeknews
 
-### 2. [Solidjs: Simple and performant reactivity for building user interfaces](https://www.solidjs.com/)
-💬 54 points | 🧑‍💻 by lastdong
+### 2. [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
+💬 46 points | 🧑‍💻 by ashvardanian
 
-### 3. [Sapphire: Rust based package manager for macOS (Homebrew replacement)](https://github.com/alexykn/sapphire)
-💬 270 points | 🧑‍💻 by adamnemecek
+### 3. [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
+💬 704 points | 🧑‍💻 by todsacerdoti
 
-### 4. [Making a smart bike dumb so it works again](https://francisco.io/blog/making-a-smart-bike-dumb-work-again/)
-💬 132 points | 🧑‍💻 by franciscop
+### 4. [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
+💬 908 points | 🧑‍💻 by yett
 
-### 5. [The Illuminated Gospel of St John](https://www.cambridge.org/universitypress/bibles/illuminated-gospel-of-st-john)
-💬 25 points | 🧑‍💻 by ycombinete
+### 5. [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+💬 27 points | 🧑‍💻 by UnmappedStack
 

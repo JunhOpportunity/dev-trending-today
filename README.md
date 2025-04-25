@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-25)
 
-### 1. [Shortest walking tour to 81,998 bars in Korea – 178 days on foot (TSP solved)](https://www.math.uwaterloo.ca/tsp/korea/index.html)
-💬 55 points | 🧑‍💻 by geeknews
+### 1. [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
+💬 274 points | 🧑‍💻 by themanmaran
 
-### 2. [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
-💬 46 points | 🧑‍💻 by ashvardanian
+### 2. [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
+💬 77 points | 🧑‍💻 by gnabgib
 
-### 3. [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
-💬 704 points | 🧑‍💻 by todsacerdoti
+### 3. [National Airspace System Status](https://nasstatus.faa.gov/)
+💬 95 points | 🧑‍💻 by bookofjoe
 
-### 4. [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
-💬 908 points | 🧑‍💻 by yett
+### 4. [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
+💬 568 points | 🧑‍💻 by ekiauhce
 
-### 5. [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
-💬 27 points | 🧑‍💻 by UnmappedStack
+### 5. [Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
+💬 20 points | 🧑‍💻 by dgs_sgd
 

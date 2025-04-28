@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-28)
 
-### 1. [OpenAI releases image generation in the API](https://openai.com/index/image-generation-api/)
-💬 274 points | 🧑‍💻 by themanmaran
+### 1. [Internet in a Box](https://internet-in-a-box.org/)
+💬 243 points | 🧑‍💻 by homebrewer
 
-### 2. [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
-💬 77 points | 🧑‍💻 by gnabgib
+### 2. [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
+💬 29 points | 🧑‍💻 by gnabgib
 
-### 3. [National Airspace System Status](https://nasstatus.faa.gov/)
-💬 95 points | 🧑‍💻 by bookofjoe
+### 3. [National Archives Releases Unidentified Anomalous Phenomena (UAP) Records](https://www.archives.gov/press/press-releases/2025/nr25-07)
+💬 49 points | 🧑‍💻 by gnabgib
 
-### 4. [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
-💬 568 points | 🧑‍💻 by ekiauhce
+### 4. [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
+💬 23 points | 🧑‍💻 by johnwheeler
 
-### 5. [Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]](https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them)
-💬 20 points | 🧑‍💻 by dgs_sgd
+### 5. [How a single line of code could brick your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
+💬 178 points | 🧑‍💻 by sashk
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-29)
 
-### 1. [Internet in a Box](https://internet-in-a-box.org/)
-💬 243 points | 🧑‍💻 by homebrewer
+### 1. [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
+💬 373 points | 🧑‍💻 by synthwave
 
-### 2. [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
-💬 29 points | 🧑‍💻 by gnabgib
+### 2. [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+💬 99 points | 🧑‍💻 by rguiscard
 
-### 3. [National Archives Releases Unidentified Anomalous Phenomena (UAP) Records](https://www.archives.gov/press/press-releases/2025/nr25-07)
-💬 49 points | 🧑‍💻 by gnabgib
+### 3. [Widespread power outage in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
+💬 1225 points | 🧑‍💻 by lleims
 
-### 4. [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
-💬 23 points | 🧑‍💻 by johnwheeler
+### 4. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+💬 832 points | 🧑‍💻 by hwpythonner
 
-### 5. [How a single line of code could brick your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
-💬 178 points | 🧑‍💻 by sashk
+### 5. [One Million Chessboards](https://eieio.games/blog/one-million-chessboards/)
+💬 118 points | 🧑‍💻 by chunkles
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-04-30)
 
-### 1. [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
-💬 373 points | 🧑‍💻 by synthwave
+### 1. [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
+💬 265 points | 🧑‍💻 by aphyr
 
-### 2. [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
-💬 99 points | 🧑‍💻 by rguiscard
+### 2. [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
+💬 364 points | 🧑‍💻 by miles
 
-### 3. [Widespread power outage in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
-💬 1225 points | 🧑‍💻 by lleims
+### 3. [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
+💬 56 points | 🧑‍💻 by max__dev
 
-### 4. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
-💬 832 points | 🧑‍💻 by hwpythonner
+### 4. [Not a Zombie](https://notazombie.net/landing)
+💬 16 points | 🧑‍💻 by carabiner
 
-### 5. [One Million Chessboards](https://eieio.games/blog/one-million-chessboards/)
-💬 118 points | 🧑‍💻 by chunkles
+### 5. [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
+💬 130 points | 🧑‍💻 by shallow-mind
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-04-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-01)
 
-### 1. [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
-💬 265 points | 🧑‍💻 by aphyr
+### 1. [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
+💬 296 points | 🧑‍💻 by shayneo
 
-### 2. [Chain of Recursive Thoughts: Make AI think harder by making it argue with itself](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)
-💬 364 points | 🧑‍💻 by miles
+### 2. [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
+💬 194 points | 🧑‍💻 by HyprMusic
 
-### 3. [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
-💬 56 points | 🧑‍💻 by max__dev
+### 3. [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
+💬 62 points | 🧑‍💻 by todsacerdoti
 
-### 4. [Not a Zombie](https://notazombie.net/landing)
-💬 16 points | 🧑‍💻 by carabiner
+### 4. [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
+💬 139 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Bamba: An open-source LLM that crosses a transformer with an SSM](https://research.ibm.com/blog/bamba-ssm-transformer-model)
-💬 130 points | 🧑‍💻 by shallow-mind
+### 5. [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
+💬 96 points | 🧑‍💻 by ryandotsmith
 

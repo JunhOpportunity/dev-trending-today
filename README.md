@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-02)
 
-### 1. [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
-💬 296 points | 🧑‍💻 by shayneo
+### 1. [Redis is open source again](https://antirez.com/news/151)
+💬 1218 points | 🧑‍💻 by antirez
 
-### 2. [Mercury, the first commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
-💬 194 points | 🧑‍💻 by HyprMusic
+### 2. [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
+💬 121 points | 🧑‍💻 by DoctorOW
 
-### 3. [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
-💬 62 points | 🧑‍💻 by todsacerdoti
+### 3. [Claude Integrations](https://www.anthropic.com/news/integrations)
+💬 429 points | 🧑‍💻 by bryanh
 
-### 4. [Linux Kernel Exploitation: Attack of the Vsock](https://hoefler.dev/articles/vsock.html)
-💬 139 points | 🧑‍💻 by todsacerdoti
+### 4. [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
+💬 80 points | 🧑‍💻 by lurkersince2013
 
-### 5. [Zhaoxin's KX-7000](https://chipsandcheese.com/p/zhaoxins-kx-7000)
-💬 96 points | 🧑‍💻 by ryandotsmith
+### 5. [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
+💬 17 points | 🧑‍💻 by rguiscard
 

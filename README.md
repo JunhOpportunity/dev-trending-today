@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-05)
 
-### 1. [Redis is open source again](https://antirez.com/news/151)
-💬 1218 points | 🧑‍💻 by antirez
+### 1. [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+💬 514 points | 🧑‍💻 by claytonwramsey
 
-### 2. [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
-💬 121 points | 🧑‍💻 by DoctorOW
+### 2. [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
+💬 390 points | 🧑‍💻 by q3k
 
-### 3. [Claude Integrations](https://www.anthropic.com/news/integrations)
-💬 429 points | 🧑‍💻 by bryanh
+### 3. [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+💬 52 points | 🧑‍💻 by todsacerdoti
 
-### 4. [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
-💬 80 points | 🧑‍💻 by lurkersince2013
+### 4. [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
+💬 34 points | 🧑‍💻 by pseudolus
 
-### 5. [Felix86: Run x86-64 programs on RISC-V Linux](https://felix86.com/)
-💬 17 points | 🧑‍💻 by rguiscard
+### 5. [I turned a 40 year old Apple Mouse into a speech to text button](https://workshop.cjpais.com/projects/handy-m0100)
+💬 14 points | 🧑‍💻 by audionerd
 

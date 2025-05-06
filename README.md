@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-06)
 
-### 1. [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
-💬 514 points | 🧑‍💻 by claytonwramsey
+### 1. [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
+💬 410 points | 🧑‍💻 by rohitpaulk
 
-### 2. [Design for 3D-Printing](https://blog.rahix.de/design-for-3d-printing/)
-💬 390 points | 🧑‍💻 by q3k
+### 2. [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
+💬 213 points | 🧑‍💻 by koljab
 
-### 3. [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
-💬 52 points | 🧑‍💻 by todsacerdoti
+### 3. [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
+💬 45 points | 🧑‍💻 by mfiguiere
 
-### 4. [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
-💬 34 points | 🧑‍💻 by pseudolus
+### 4. [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
+💬 150 points | 🧑‍💻 by birdculture
 
-### 5. [I turned a 40 year old Apple Mouse into a speech to text button](https://workshop.cjpais.com/projects/handy-m0100)
-💬 14 points | 🧑‍💻 by audionerd
+### 5. [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
+💬 168 points | 🧑‍💻 by samclemens
 

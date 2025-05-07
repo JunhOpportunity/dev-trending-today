@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-07)
 
-### 1. [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
-💬 410 points | 🧑‍💻 by rohitpaulk
+### 1. [FTC rule on unfair or deceptive fees to take effect on May 12](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025)
+💬 22 points | 🧑‍💻 by impish9208
 
-### 2. [Show HN: Real-time AI Voice Chat at ~500ms Latency](https://github.com/KoljaB/RealtimeVoiceChat)
-💬 213 points | 🧑‍💻 by koljab
+### 2. [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
+💬 671 points | 🧑‍💻 by felixrieseberg
 
-### 3. [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
-💬 45 points | 🧑‍💻 by mfiguiere
+### 3. [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
+💬 255 points | 🧑‍💻 by willbryk
 
-### 4. [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
-💬 150 points | 🧑‍💻 by birdculture
+### 4. [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
+💬 36 points | 🧑‍💻 by kristianp
 
-### 5. [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
-💬 168 points | 🧑‍💻 by samclemens
+### 5. [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
+💬 35 points | 🧑‍💻 by radeeyate
 

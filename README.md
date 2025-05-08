@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-08)
 
-### 1. [FTC rule on unfair or deceptive fees to take effect on May 12](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025)
-💬 22 points | 🧑‍💻 by impish9208
+### 1. [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
+💬 52 points | 🧑‍💻 by doener
 
-### 2. [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
-💬 671 points | 🧑‍💻 by felixrieseberg
+### 2. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+💬 546 points | 🧑‍💻 by arathore
 
-### 3. [Launch HN: Exa (YC S21) – The web as a database](https://news.ycombinator.com/item?id=43906841)
-💬 255 points | 🧑‍💻 by willbryk
+### 3. [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
+💬 20 points | 🧑‍💻 by ivanbelenky
 
-### 4. [Bloat is still software's biggest vulnerability (2024)](https://spectrum.ieee.org/lean-software-development)
-💬 36 points | 🧑‍💻 by kristianp
+### 4. [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
+💬 380 points | 🧑‍💻 by lfittl
 
-### 5. [VVVVVV Source Code](https://github.com/TerryCavanagh/VVVVVV)
-💬 35 points | 🧑‍💻 by radeeyate
+### 5. [Web search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
+💬 158 points | 🧑‍💻 by cmogni1
 

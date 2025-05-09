@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-09)
 
-### 1. [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
-💬 52 points | 🧑‍💻 by doener
+### 1. [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
+💬 580 points | 🧑‍💻 by sharjeelsayed
 
-### 2. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
-💬 546 points | 🧑‍💻 by arathore
+### 2. [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
+💬 55 points | 🧑‍💻 by Bhulapi
 
-### 3. [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
-💬 20 points | 🧑‍💻 by ivanbelenky
+### 3. [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
+💬 286 points | 🧑‍💻 by chrisdemarco
 
-### 4. [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
-💬 380 points | 🧑‍💻 by lfittl
+### 4. [From: Steve Jobs. "Great idea, thank you."](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html)
+💬 688 points | 🧑‍💻 by mattl
 
-### 5. [Web search on the Anthropic API](https://www.anthropic.com/news/web-search-api)
-💬 158 points | 🧑‍💻 by cmogni1
+### 5. [Progress toward fusion energy gain as measured against the Lawson criteria](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria)
+💬 157 points | 🧑‍💻 by sam
 

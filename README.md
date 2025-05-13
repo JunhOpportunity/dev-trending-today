@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-13)
 
-### 1. [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
-💬 697 points | 🧑‍💻 by andrewrn
+### 1. [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
+💬 32 points | 🧑‍💻 by nhod
 
-### 2. [Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck](https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/)
-💬 13 points | 🧑‍💻 by LorenDB
+### 2. [Air Traffic Control](https://computer.rip/2025-05-11-air-traffic-control.html)
+💬 53 points | 🧑‍💻 by 1317
 
-### 3. [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
-💬 99 points | 🧑‍💻 by areoform
+### 3. [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
+💬 123 points | 🧑‍💻 by LAsteNERD
 
-### 4. [Car companies are in a billion-dollar software war](https://insideevs.com/features/759153/car-companies-software-companies/)
-💬 204 points | 🧑‍💻 by rntn
+### 4. [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
+💬 60 points | 🧑‍💻 by todsacerdoti
 
-### 5. [High-school shop students attract skilled-trades job offers](https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257)
-💬 134 points | 🧑‍💻 by lxm
+### 5. [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
+💬 18 points | 🧑‍💻 by benocodes
 

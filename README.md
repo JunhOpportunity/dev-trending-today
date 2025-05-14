@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-14)
 
-### 1. [FastVLM: Dramatically Faster Vision Language Model from Apple](https://github.com/apple/ml-fastvlm)
-💬 32 points | 🧑‍💻 by nhod
+### 1. [Your fingers wrinkle the same way every time you're in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
+💬 75 points | 🧑‍💻 by gnabgib
 
-### 2. [Air Traffic Control](https://computer.rip/2025-05-11-air-traffic-control.html)
-💬 53 points | 🧑‍💻 by 1317
+### 2. [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
+💬 84 points | 🧑‍💻 by tough
 
-### 3. [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
-💬 123 points | 🧑‍💻 by LAsteNERD
+### 3. [DeepSeek’s ‘tech madman’ founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
+💬 12 points | 🧑‍💻 by blumpy22
 
-### 4. [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
-💬 60 points | 🧑‍💻 by todsacerdoti
+### 4. [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
+💬 327 points | 🧑‍💻 by alberto-m
 
-### 5. [How to avoid P hacking](https://www.nature.com/articles/d41586-025-01246-1)
-💬 18 points | 🧑‍💻 by benocodes
+### 5. [Flattening Rust's learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+💬 74 points | 🧑‍💻 by birdculture
 

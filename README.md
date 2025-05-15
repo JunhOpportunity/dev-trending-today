@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-15)
 
-### 1. [Your fingers wrinkle the same way every time you're in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
-💬 75 points | 🧑‍💻 by gnabgib
+### 1. [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+💬 678 points | 🧑‍💻 by Fysi
 
-### 2. [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
-💬 84 points | 🧑‍💻 by tough
+### 2. [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
+💬 140 points | 🧑‍💻 by edunteman
 
-### 3. [DeepSeek’s ‘tech madman’ founder is threatening US dominance in AI race](https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
-💬 12 points | 🧑‍💻 by blumpy22
+### 3. [isc.ro](https://isc.ro/)
+💬 19 points | 🧑‍💻 by indigodaddy
 
-### 4. [Branch Privilege Injection: Exploiting branch predictor race conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
-💬 327 points | 🧑‍💻 by alberto-m
+### 4. [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
+💬 513 points | 🧑‍💻 by _kush
 
-### 5. [Flattening Rust's learning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
-💬 74 points | 🧑‍💻 by birdculture
+### 5. [Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
+💬 8 points | 🧑‍💻 by DonEsquire
 

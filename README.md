@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-16)
 
-### 1. [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
-💬 678 points | 🧑‍💻 by Fysi
+### 1. [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
+💬 537 points | 🧑‍💻 by jbredeche
 
-### 2. [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
-💬 140 points | 🧑‍💻 by edunteman
+### 2. [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+💬 161 points | 🧑‍💻 by gnabgib
 
-### 3. [isc.ro](https://isc.ro/)
-💬 19 points | 🧑‍💻 by indigodaddy
+### 3. [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
+💬 37 points | 🧑‍💻 by generichuman
 
-### 4. [What is HDR, anyway?](https://www.lux.camera/what-is-hdr/)
-💬 513 points | 🧑‍💻 by _kush
+### 4. [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
+💬 86 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback](https://news.ycombinator.com/item?id=43990868)
-💬 8 points | 🧑‍💻 by DonEsquire
+### 5. [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+💬 87 points | 🧑‍💻 by smartmic
 

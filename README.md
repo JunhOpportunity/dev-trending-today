@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-20)
 
-### 1. [France Becomes First Government to Endorse UN Open Source Principles](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878)
-💬 281 points | 🧑‍💻 by bzg
+### 1. [is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
+💬 110 points | 🧑‍💻 by modinfo
 
-### 2. [Spaced repetition systems have gotten better](https://domenic.me/fsrs/)
-💬 712 points | 🧑‍💻 by domenicd
+### 2. [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
+💬 61 points | 🧑‍💻 by micahflee
 
-### 3. [New research reveals the strongest solar event ever detected, in 12350 BC](https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html)
-💬 29 points | 🧑‍💻 by politelemon
+### 3. [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
+💬 318 points | 🧑‍💻 by LorenDB
 
-### 4. [Show HN: I modeled the Voynich Manuscript with SBERT to test for structure](https://github.com/brianmg/voynich-nlp-analysis)
-💬 277 points | 🧑‍💻 by brig90
+### 4. [A shower thought turned into a beautiful Collatz visualization](https://abstractnonsense.com/collatz/)
+💬 19 points | 🧑‍💻 by abstractbill
 
-### 5. [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
-💬 239 points | 🧑‍💻 by williamsss
+### 5. [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
+💬 1071 points | 🧑‍💻 by pentagrama
 

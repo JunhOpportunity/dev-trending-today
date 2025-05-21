@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-21)
 
-### 1. [is-even-ai – Check if a number is even using the power of AI](https://www.npmjs.com/package/is-even-ai)
-💬 110 points | 🧑‍💻 by modinfo
+### 1. [Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
+💬 459 points | 🧑‍💻 by youssefarizk
 
-### 2. [DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/)
-💬 61 points | 🧑‍💻 by micahflee
+### 2. [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+💬 231 points | 🧑‍💻 by usrme
 
-### 3. [Have I Been Pwned 2.0](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
-💬 318 points | 🧑‍💻 by LorenDB
+### 3. [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+💬 74 points | 🧑‍💻 by cempaka
 
-### 4. [A shower thought turned into a beautiful Collatz visualization](https://abstractnonsense.com/collatz/)
-💬 19 points | 🧑‍💻 by abstractbill
+### 4. [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
+💬 221 points | 🧑‍💻 by meetpateltech
 
-### 5. [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
-💬 1071 points | 🧑‍💻 by pentagrama
+### 5. [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
+💬 60 points | 🧑‍💻 by 0101111101
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-22)
 
-### 1. [Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
-💬 459 points | 🧑‍💻 by youssefarizk
+### 1. [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
+💬 85 points | 🧑‍💻 by mdp2021
 
-### 2. [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
-💬 231 points | 🧑‍💻 by usrme
+### 2. [Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
+💬 42 points | 🧑‍💻 by indigodaddy
 
-### 3. [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
-💬 74 points | 🧑‍💻 by cempaka
+### 3. [Building software on top of large language models](https://simonwillison.net/2025/May/15/building-on-llms/)
+💬 8 points | 🧑‍💻 by gregorymichael
 
-### 4. [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
-💬 221 points | 🧑‍💻 by meetpateltech
+### 4. [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
+💬 187 points | 🧑‍💻 by makira
 
-### 5. [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
-💬 60 points | 🧑‍💻 by 0101111101
+### 5. [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
+💬 22 points | 🧑‍💻 by todsacerdoti
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-23)
 
-### 1. [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
-💬 85 points | 🧑‍💻 by mdp2021
+### 1. [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+💬 95 points | 🧑‍💻 by dxs
 
-### 2. [Display any CSV file as a searchable, filterable, pretty HTML table](https://github.com/derekeder/csv-to-html-table)
-💬 42 points | 🧑‍💻 by indigodaddy
+### 2. [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
+💬 121 points | 🧑‍💻 by kepano
 
-### 3. [Building software on top of large language models](https://simonwillison.net/2025/May/15/building-on-llms/)
-💬 8 points | 🧑‍💻 by gregorymichael
+### 3. [Building Twice: A clone of Once](https://stanko.io/building-twice-a-clone-of-once-gJKxLYCe26Ak)
+💬 9 points | 🧑‍💻 by Kerrick
 
-### 4. [For algorithms, a little memory outweighs a lot of time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
-💬 187 points | 🧑‍💻 by makira
+### 4. [Claude 4](https://www.anthropic.com/news/claude-4)
+💬 1477 points | 🧑‍💻 by meetpateltech
 
-### 5. [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
-💬 22 points | 🧑‍💻 by todsacerdoti
+### 5. [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
+💬 28 points | 🧑‍💻 by mdp2021
 

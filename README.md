@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-26)
 
-### 1. [The Future of Flatpak](https://lwn.net/Articles/1020571/)
-💬 95 points | 🧑‍💻 by dxs
+### 1. [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
+💬 66 points | 🧑‍💻 by mooreds
 
-### 2. [Show HN: Defuddle, an HTML-to-Markdown alternative to Readability](https://github.com/kepano/defuddle)
-💬 121 points | 🧑‍💻 by kepano
+### 2. [Choose tools that make you happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
+💬 39 points | 🧑‍💻 by zdw
 
-### 3. [Building Twice: A clone of Once](https://stanko.io/building-twice-a-clone-of-once-gJKxLYCe26Ak)
-💬 9 points | 🧑‍💻 by Kerrick
+### 3. [Open Source Society University – Path to a free self-taught education in CS](https://github.com/ossu/computer-science)
+💬 194 points | 🧑‍💻 by saikatsg
 
-### 4. [Claude 4](https://www.anthropic.com/news/claude-4)
-💬 1477 points | 🧑‍💻 by meetpateltech
+### 4. [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
+💬 130 points | 🧑‍💻 by david927
 
-### 5. [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
-💬 28 points | 🧑‍💻 by mdp2021
+### 5. [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
+💬 255 points | 🧑‍💻 by marcodiego
 

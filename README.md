@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-27)
 
-### 1. [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
-💬 66 points | 🧑‍💻 by mooreds
+### 1. [15 years after servers shut down, FromSoft's mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
+💬 33 points | 🧑‍💻 by pabs3
 
-### 2. [Choose tools that make you happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
-💬 39 points | 🧑‍💻 by zdw
+### 2. [CSS Minecraft](https://benjaminaster.com/css-minecraft/)
+💬 394 points | 🧑‍💻 by mudkipdev
 
-### 3. [Open Source Society University – Path to a free self-taught education in CS](https://github.com/ossu/computer-science)
-💬 194 points | 🧑‍💻 by saikatsg
+### 3. [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
+💬 183 points | 🧑‍💻 by rh3939
 
-### 4. [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
-💬 130 points | 🧑‍💻 by david927
+### 4. [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+💬 51 points | 🧑‍💻 by gokhan
 
-### 5. [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
-💬 255 points | 🧑‍💻 by marcodiego
+### 5. [Power Failure](https://www.gwintrob.com/power-failure-review/)
+💬 55 points | 🧑‍💻 by gwintrob
 

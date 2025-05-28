@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-28)
 
-### 1. [15 years after servers shut down, FromSoft's mech game Chromehounds back online](https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/)
-💬 33 points | 🧑‍💻 by pabs3
+### 1. [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
+💬 209 points | 🧑‍💻 by simonw
 
-### 2. [CSS Minecraft](https://benjaminaster.com/css-minecraft/)
-💬 394 points | 🧑‍💻 by mudkipdev
+### 2. [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
+💬 46 points | 🧑‍💻 by pietrushnic
 
-### 3. [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
-💬 183 points | 🧑‍💻 by rh3939
+### 3. [Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
+💬 46 points | 🧑‍💻 by ljosifov
 
-### 4. [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
-💬 51 points | 🧑‍💻 by gokhan
+### 4. [Square Theory](https://aaronson.org/blog/square-theory)
+💬 450 points | 🧑‍💻 by aaaronson
 
-### 5. [Power Failure](https://www.gwintrob.com/power-failure-review/)
-💬 55 points | 🧑‍💻 by gwintrob
+### 5. [The Level Design Book](https://book.leveldesignbook.com)
+💬 53 points | 🧑‍💻 by keiferski
 

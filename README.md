@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-29)
 
-### 1. [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
-💬 209 points | 🧑‍💻 by simonw
+### 1. [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
+💬 157 points | 🧑‍💻 by thinkalone
 
-### 2. [A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS](https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution)
-💬 46 points | 🧑‍💻 by pietrushnic
+### 2. [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
+💬 141 points | 🧑‍💻 by notorious_pgb
 
-### 3. [Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
-💬 46 points | 🧑‍💻 by ljosifov
+### 3. [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
+💬 408 points | 🧑‍💻 by katrinarodri
 
-### 4. [Square Theory](https://aaronson.org/blog/square-theory)
-💬 450 points | 🧑‍💻 by aaaronson
+### 4. [Compiler Explorer and the promise of URLs that last forever](https://xania.org/202505/compiler-explorer-urls-forever)
+💬 215 points | 🧑‍💻 by anarazel
 
-### 5. [The Level Design Book](https://book.leveldesignbook.com)
-💬 53 points | 🧑‍💻 by keiferski
+### 5. [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
+💬 269 points | 🧑‍💻 by master_crab
 

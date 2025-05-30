@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-05-30)
 
-### 1. [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
-💬 157 points | 🧑‍💻 by thinkalone
+### 1. [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
+💬 500 points | 🧑‍💻 by adam_gyroscope
 
-### 2. [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
-💬 141 points | 🧑‍💻 by notorious_pgb
+### 2. [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
+💬 268 points | 🧑‍💻 by minimaxir
 
-### 3. [Show HN: I rewrote my Mac Electron app in Rust](https://desktopdocs.com/?v=2025)
-💬 408 points | 🧑‍💻 by katrinarodri
+### 3. [Show HN: I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
+💬 32 points | 🧑‍💻 by nswizzle31
 
-### 4. [Compiler Explorer and the promise of URLs that last forever](https://xania.org/202505/compiler-explorer-urls-forever)
-💬 215 points | 🧑‍💻 by anarazel
+### 4. [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
+💬 5 points | 🧑‍💻 by teleforce
 
-### 5. [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
-💬 269 points | 🧑‍💻 by master_crab
+### 5. [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
+💬 255 points | 🧑‍💻 by petr25102018
 

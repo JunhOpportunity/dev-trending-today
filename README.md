@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-05-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-02)
 
-### 1. [WeatherStar 4000+: Weather Channel Simulator](https://weatherstar.netbymatt.com/)
-💬 500 points | 🧑‍💻 by adam_gyroscope
+### 1. [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
+💬 170 points | 🧑‍💻 by ani_obsessive
 
-### 2. [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
-💬 268 points | 🧑‍💻 by minimaxir
+### 2. [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
+💬 551 points | 🧑‍💻 by stgl
 
-### 3. [Show HN: I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
-💬 32 points | 🧑‍💻 by nswizzle31
+### 3. [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
+💬 3 points | 🧑‍💻 by surprisetalk
 
-### 4. [Practical SDR: Getting Started with Software-Defined Radio](https://nostarch.com/practical-sdr)
-💬 5 points | 🧑‍💻 by teleforce
+### 4. [LibriVox](https://librivox.org/)
+💬 81 points | 🧑‍💻 by bookofjoe
 
-### 5. [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
-💬 255 points | 🧑‍💻 by petr25102018
+### 5. [Cinematography of “Andor”](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
+💬 320 points | 🧑‍💻 by rcarmo
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-03)
 
-### 1. [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
-💬 170 points | 🧑‍💻 by ani_obsessive
+### 1. [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
+💬 725 points | 🧑‍💻 by tabletcorry
 
-### 2. [Root shell on a credit card terminal](https://stefan-gloor.ch/yomani-hack)
-💬 551 points | 🧑‍💻 by stgl
+### 2. [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
+💬 264 points | 🧑‍💻 by whoishiring
 
-### 3. [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
-💬 3 points | 🧑‍💻 by surprisetalk
+### 3. [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
+💬 114 points | 🧑‍💻 by mfiguiere
 
-### 4. [LibriVox](https://librivox.org/)
-💬 81 points | 🧑‍💻 by bookofjoe
+### 4. [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
+💬 44 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Cinematography of “Andor”](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
-💬 320 points | 🧑‍💻 by rcarmo
+### 5. [Show HN: I build one absurd web project every month](https://absurd.website)
+💬 126 points | 🧑‍💻 by absurdwebsite
 

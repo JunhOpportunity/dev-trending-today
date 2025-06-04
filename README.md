@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-04)
 
-### 1. [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
-💬 725 points | 🧑‍💻 by tabletcorry
+### 1. [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
+💬 55 points | 🧑‍💻 by diggan
 
-### 2. [Ask HN: Who is hiring? (June 2025)](https://news.ycombinator.com/item?id=44159528)
-💬 264 points | 🧑‍💻 by whoishiring
+### 2. [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
+💬 288 points | 🧑‍💻 by chmaynard
 
-### 3. [Snowflake to buy Crunchy Data for $250M](https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab)
-💬 114 points | 🧑‍💻 by mfiguiere
+### 3. [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
+💬 61 points | 🧑‍💻 by hardmaru
 
-### 4. [Conformance checking at MongoDB: Testing that our code matches our TLA+ specs](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
-💬 44 points | 🧑‍💻 by todsacerdoti
+### 4. [Human Brain Cells on Chip for Sale – First biocomputing platform hits the market](https://spectrum.ieee.org/biological-computer-for-sale)
+💬 43 points | 🧑‍💻 by mdp2021
 
-### 5. [Show HN: I build one absurd web project every month](https://absurd.website)
-💬 126 points | 🧑‍💻 by absurdwebsite
+### 5. [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
+💬 44 points | 🧑‍💻 by unvalley
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-05)
 
-### 1. [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
-💬 55 points | 🧑‍💻 by diggan
+### 1. [FFmpeg merges WebRTC support](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00)
+💬 549 points | 🧑‍💻 by Sean-Der
 
-### 2. [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
-💬 288 points | 🧑‍💻 by chmaynard
+### 2. [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
+💬 49 points | 🧑‍💻 by gnabgib
 
-### 3. [A deep dive into self-improving AI and the Darwin-Gödel Machine](https://richardcsuwandi.github.io/blog/2025/dgm/)
-💬 61 points | 🧑‍💻 by hardmaru
+### 3. [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
+💬 444 points | 🧑‍💻 by ColinWright
 
-### 4. [Human Brain Cells on Chip for Sale – First biocomputing platform hits the market](https://spectrum.ieee.org/biological-computer-for-sale)
-💬 43 points | 🧑‍💻 by mdp2021
+### 4. [A proposal to restrict sites from accessing a users’ local network](https://github.com/explainers-by-googlers/local-network-access)
+💬 244 points | 🧑‍💻 by doener
 
-### 5. [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
-💬 44 points | 🧑‍💻 by unvalley
+### 5. [Why I wrote the BEAM book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
+💬 422 points | 🧑‍💻 by lawik
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-09)
 
-### 1. [Tokasaurus: An LLM Inference Engine for High-Throughput Workloads](https://scalingintelligence.stanford.edu/blogs/tokasaurus/)
-💬 104 points | 🧑‍💻 by rsehrlich
+### 1. [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
+💬 145 points | 🧑‍💻 by goodburb
 
-### 2. [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
-💬 53 points | 🧑‍💻 by mikebannister
+### 2. [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
+💬 27 points | 🧑‍💻 by pseudolus
 
-### 3. [I do not remember my life and it's fine](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine)
-💬 66 points | 🧑‍💻 by mrcgnc
+### 3. [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
+💬 58 points | 🧑‍💻 by HiPHInch
 
-### 4. [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-💬 397 points | 🧑‍💻 by bdr
+### 4. [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
+💬 73 points | 🧑‍💻 by aberoham
 
-### 5. [APL Interpreter – An implementation of APL, written in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
-💬 56 points | 🧑‍💻 by ofalkaed
+### 5. [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
+💬 116 points | 🧑‍💻 by rbanffy
 

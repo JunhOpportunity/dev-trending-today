@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-10)
 
-### 1. [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
-💬 145 points | 🧑‍💻 by goodburb
+### 1. [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
+💬 1534 points | 🧑‍💻 by dang
 
-### 2. [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
-💬 27 points | 🧑‍💻 by pseudolus
+### 2. [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
+💬 303 points | 🧑‍💻 by gok
 
-### 3. [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
-💬 58 points | 🧑‍💻 by HiPHInch
+### 3. [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
+💬 516 points | 🧑‍💻 by thm
 
-### 4. [Omnimax](https://computer.rip/2025-06-08-Omnimax.html)
-💬 73 points | 🧑‍💻 by aberoham
+### 4. [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
+💬 168 points | 🧑‍💻 by brudgers
 
-### 5. [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
-💬 116 points | 🧑‍💻 by rbanffy
+### 5. [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
+💬 10 points | 🧑‍💻 by todsacerdoti
 

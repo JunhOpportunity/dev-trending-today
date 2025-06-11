@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-11)
 
-### 1. [Tell HN: Help restore the tax deduction for software dev in the US (Section 174)](https://news.ycombinator.com/item?id=44226145)
-💬 1534 points | 🧑‍💻 by dang
+### 1. [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
+💬 303 points | 🧑‍💻 by charleszyong
 
-### 2. [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
-💬 303 points | 🧑‍💻 by gok
+### 2. [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
+💬 190 points | 🧑‍💻 by tsungxu
 
-### 3. [Apple announces Foundation Models and Containerization frameworks, etc](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
-💬 516 points | 🧑‍💻 by thm
+### 3. [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
+💬 639 points | 🧑‍💻 by meetpateltech
 
-### 4. [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-💬 168 points | 🧑‍💻 by brudgers
+### 4. [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
+💬 234 points | 🧑‍💻 by jgrahamc
 
-### 5. [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
-💬 10 points | 🧑‍💻 by todsacerdoti
+### 5. [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
+💬 25 points | 🧑‍💻 by gpi
 

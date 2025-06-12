@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-12)
 
-### 1. [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
-💬 303 points | 🧑‍💻 by charleszyong
+### 1. [Chatterbox TTS](https://github.com/resemble-ai/chatterbox)
+💬 233 points | 🧑‍💻 by pinter69
 
-### 2. [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
-💬 190 points | 🧑‍💻 by tsungxu
+### 2. [How Long it takes to know if a Job Is Right for You or Not](https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/)
+💬 35 points | 🧑‍💻 by zdw
 
-### 3. [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
-💬 639 points | 🧑‍💻 by meetpateltech
+### 3. [Research suggests Big Bang may have taken place inside a black hole](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
+💬 353 points | 🧑‍💻 by zaik
 
-### 4. [Low-background Steel: content without AI contamination](https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html)
-💬 234 points | 🧑‍💻 by jgrahamc
+### 4. [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
+💬 8 points | 🧑‍💻 by miki_tyler
 
-### 5. [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-💬 25 points | 🧑‍💻 by gpi
+### 5. [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
+💬 224 points | 🧑‍💻 by dmarcos
 

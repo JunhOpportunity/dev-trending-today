@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-16)
 
-### 1. [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
-💬 55 points | 🧑‍💻 by jasone
+### 1. [League of Professional System Administrators Board to Dissolve Organization](https://lopsa.org/blog/13510205)
+💬 25 points | 🧑‍💻 by pabs3
 
-### 2. [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
-💬 622 points | 🧑‍💻 by ingve
+### 2. [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
+💬 33 points | 🧑‍💻 by rbanffy
 
-### 3. [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
-💬 54 points | 🧑‍💻 by Bogdanp
+### 3. [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
+💬 93 points | 🧑‍💻 by petecooper
 
-### 4. [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
-💬 71 points | 🧑‍💻 by todsacerdoti
+### 4. [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
+💬 188 points | 🧑‍💻 by zdw
 
-### 5. [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
-💬 776 points | 🧑‍💻 by laurieherault
+### 5. [Lisp-stat: Lisp environment for statistical computing](https://lisp-stat.dev/about/)
+💬 9 points | 🧑‍💻 by oumua_don17
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-17)
 
-### 1. [League of Professional System Administrators Board to Dissolve Organization](https://lopsa.org/blog/13510205)
-💬 25 points | 🧑‍💻 by pabs3
+### 1. [DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
+💬 67 points | 🧑‍💻 by exceptione
 
-### 2. [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
-💬 33 points | 🧑‍💻 by rbanffy
+### 2. [Snorting the AGI with Claude Code](https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code)
+💬 207 points | 🧑‍💻 by beigebrucewayne
 
-### 3. [Telephone Exchanges in the UK](https://telephone-exchanges.org.uk/)
-💬 93 points | 🧑‍💻 by petecooper
+### 3. [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
+💬 52 points | 🧑‍💻 by nomdep
 
-### 4. [Modifying an HDMI dummy plug's EDID using a Raspberry Pi](https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/)
-💬 188 points | 🧑‍💻 by zdw
+### 4. [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
+💬 63 points | 🧑‍💻 by bookofjoe
 
-### 5. [Lisp-stat: Lisp environment for statistical computing](https://lisp-stat.dev/about/)
-💬 9 points | 🧑‍💻 by oumua_don17
+### 5. [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
+💬 171 points | 🧑‍💻 by shiomiru
 

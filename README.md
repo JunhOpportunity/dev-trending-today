@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-18)
 
-### 1. [DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
-💬 67 points | 🧑‍💻 by exceptione
+### 1. [The Grug Brained Developer (2022)](https://grugbrain.dev/)
+💬 502 points | 🧑‍💻 by smartmic
 
-### 2. [Snorting the AGI with Claude Code](https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code)
-💬 207 points | 🧑‍💻 by beigebrucewayne
+### 2. [Honda conducts successful launch and landing of experimental reusable rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
+💬 835 points | 🧑‍💻 by LorenDB
 
-### 3. [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
-💬 52 points | 🧑‍💻 by nomdep
+### 3. [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
+💬 376 points | 🧑‍💻 by k-ian
 
-### 4. [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
-💬 63 points | 🧑‍💻 by bookofjoe
+### 4. [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
+💬 158 points | 🧑‍💻 by Bogdanp
 
-### 5. [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
-💬 171 points | 🧑‍💻 by shiomiru
+### 5. [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
+💬 66 points | 🧑‍💻 by rbanffy
 

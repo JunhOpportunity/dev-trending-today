@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-19)
 
-### 1. [The Grug Brained Developer (2022)](https://grugbrain.dev/)
-💬 502 points | 🧑‍💻 by smartmic
+### 1. [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
+💬 147 points | 🧑‍💻 by psviderski
 
-### 2. [Honda conducts successful launch and landing of experimental reusable rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
-💬 835 points | 🧑‍💻 by LorenDB
+### 2. [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+💬 23 points | 🧑‍💻 by sandslash
 
-### 3. [Resurrecting a dead torrent tracker and finding 3M peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
-💬 376 points | 🧑‍💻 by k-ian
+### 3. [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
+💬 116 points | 🧑‍💻 by gnabgib
 
-### 4. [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
-💬 158 points | 🧑‍💻 by Bogdanp
+### 4. [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
+💬 63 points | 🧑‍💻 by bewuethr
 
-### 5. [3D-printed device splits white noise into an acoustic rainbow without power](https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html)
-💬 66 points | 🧑‍💻 by rbanffy
+### 5. [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
+💬 47 points | 🧑‍💻 by xk3
 

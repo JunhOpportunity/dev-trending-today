@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-20)
 
-### 1. [Show HN: Unregistry – “docker push” directly to servers without a registry](https://github.com/psviderski/unregistry)
-💬 147 points | 🧑‍💻 by psviderski
+### 1. [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
+💬 111 points | 🧑‍💻 by dahrkael
 
-### 2. [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
-💬 23 points | 🧑‍💻 by sandslash
+### 2. [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
+💬 13 points | 🧑‍💻 by LorenDB
 
-### 3. [Websites Are Tracking You via Browser Fingerprinting](https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html)
-💬 116 points | 🧑‍💻 by gnabgib
+### 3. [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+💬 39 points | 🧑‍💻 by kristianp
 
-### 4. [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
-💬 63 points | 🧑‍💻 by bewuethr
+### 4. [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
+💬 156 points | 🧑‍💻 by matt_d
 
-### 5. [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
-💬 47 points | 🧑‍💻 by xk3
+### 5. [Literate programming tool for any language](https://github.com/zyedidia/Literate)
+💬 47 points | 🧑‍💻 by LorenDB
 

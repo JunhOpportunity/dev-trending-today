@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-23)
 
-### 1. [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
-💬 111 points | 🧑‍💻 by dahrkael
+### 1. [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
+💬 623 points | 🧑‍💻 by fellerts
 
-### 2. [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
-💬 13 points | 🧑‍💻 by LorenDB
+### 2. [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
+💬 162 points | 🧑‍💻 by todsacerdoti
 
-### 3. [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
-💬 39 points | 🧑‍💻 by kristianp
+### 3. [Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot](https://www.romanklasen.com/blog/beating-brainrot-by-button/)
+💬 109 points | 🧑‍💻 by remuskaos
 
-### 4. [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
-💬 156 points | 🧑‍💻 by matt_d
+### 4. [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
+💬 37 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Literate programming tool for any language](https://github.com/zyedidia/Literate)
-💬 47 points | 🧑‍💻 by LorenDB
+### 5. [Cross-Account and Cross-Region Backups with AWS Backup (and Friends)](https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/)
+💬 15 points | 🧑‍💻 by terussell85
 

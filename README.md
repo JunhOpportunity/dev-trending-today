@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-25)
 
-### 1. [U.S. Chemical Safety Board Could be Eliminated](https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated)
-💬 156 points | 🧑‍💻 by z991
+### 1. [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
+💬 53 points | 🧑‍💻 by ethanpil
 
-### 2. [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
-💬 279 points | 🧑‍💻 by phsilva
+### 2. [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
+💬 338 points | 🧑‍💻 by deepakjois
 
-### 3. [Backyard Coffee and Jazz in Kyoto](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
-💬 405 points | 🧑‍💻 by wyclif
+### 3. [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
+💬 518 points | 🧑‍💻 by bundie
 
-### 4. ['Dragon prince' dinosaur discovery 'rewrites' T.rex family tree](https://www.bbc.com/news/articles/cy8dzv3vp5jo)
-💬 9 points | 🧑‍💻 by gmays
+### 4. [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
+💬 162 points | 🧑‍💻 by mastermaq
 
-### 5. [A Deep Dive into Solid Queue for Ruby on Rails](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
-💬 53 points | 🧑‍💻 by fbuilesv
+### 5. [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)
+💬 14 points | 🧑‍💻 by Bogdanp
 

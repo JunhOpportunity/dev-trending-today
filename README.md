@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-26)
 
-### 1. [Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust](https://github.com/microsoft/edit)
-💬 53 points | 🧑‍💻 by ethanpil
+### 1. [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
+💬 179 points | 🧑‍💻 by todsacerdoti
 
-### 2. [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
-💬 338 points | 🧑‍💻 by deepakjois
+### 2. [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
+💬 259 points | 🧑‍💻 by robinhouston
 
-### 3. [Writing toy software is a joy](https://blog.jsbarretto.com/post/software-is-joy)
-💬 518 points | 🧑‍💻 by bundie
+### 3. [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
+💬 197 points | 🧑‍💻 by xeonmc
 
-### 4. [ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry](https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry)
-💬 162 points | 🧑‍💻 by mastermaq
+### 4. [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+💬 946 points | 🧑‍💻 by sync
 
-### 5. [Sorry, macOS Tahoe Beta 2 Still Does the Finder Icon Dirty](https://512pixels.net/2025/06/finder-icon-fixed/)
-💬 14 points | 🧑‍💻 by Bogdanp
+### 5. [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
+💬 475 points | 🧑‍💻 by bluedel
 

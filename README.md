@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-27)
 
-### 1. [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
-💬 179 points | 🧑‍💻 by todsacerdoti
+### 1. [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
+💬 372 points | 🧑‍💻 by i_love_limes
 
-### 2. [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
-💬 259 points | 🧑‍💻 by robinhouston
+### 2. [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
+💬 227 points | 🧑‍💻 by mariano54
 
-### 3. [-2000 Lines of code](https://www.folklore.org/Negative_2000_Lines_Of_Code.html)
-💬 197 points | 🧑‍💻 by xeonmc
+### 3. [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
+💬 85 points | 🧑‍💻 by mdhb
 
-### 4. [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
-💬 946 points | 🧑‍💻 by sync
+### 4. [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
+💬 128 points | 🧑‍💻 by smartmic
 
-### 5. [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
-💬 475 points | 🧑‍💻 by bluedel
+### 5. [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
+💬 51 points | 🧑‍💻 by conductor
 

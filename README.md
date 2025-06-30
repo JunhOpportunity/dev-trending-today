@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-06-30)
 
-### 1. [AlphaGenome: AI for better understanding the genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
-💬 372 points | 🧑‍💻 by i_love_limes
+### 1. [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+💬 428 points | 🧑‍💻 by todsacerdoti
 
-### 2. [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
-💬 227 points | 🧑‍💻 by mariano54
+### 2. [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
+💬 99 points | 🧑‍💻 by david927
 
-### 3. [The time is right for a DOM templating API](https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/)
-💬 85 points | 🧑‍💻 by mdhb
+### 3. [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
+💬 34 points | 🧑‍💻 by transpute
 
-### 4. [Alternative Layout System](https://alternativelayoutsystem.com/scripts/#same-sizer)
-💬 128 points | 🧑‍💻 by smartmic
+### 4. [The Book of Shaders](https://thebookofshaders.com/)
+💬 37 points | 🧑‍💻 by max_
 
-### 5. [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
-💬 51 points | 🧑‍💻 by conductor
+### 5. [She Got a Permit for Her Chickens. Now the City Is Fining Her $80k](https://reason.com/2025/06/28/she-got-a-permit-for-her-chickens-now-the-city-is-fining-her-80000/)
+💬 30 points | 🧑‍💻 by fortran77
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-06-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-01)
 
-### 1. [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
-💬 428 points | 🧑‍💻 by todsacerdoti
+### 1. [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
+💬 321 points | 🧑‍💻 by bearsyankees
 
-### 2. [Ask HN: What Are You Working On? (June 2025)](https://news.ycombinator.com/item?id=44416093)
-💬 99 points | 🧑‍💻 by david927
+### 2. [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering)
+💬 393 points | 🧑‍💻 by robotswantdata
 
-### 3. [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
-💬 34 points | 🧑‍💻 by transpute
+### 3. [I write type-safe generic data structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
+💬 230 points | 🧑‍💻 by todsacerdoti
 
-### 4. [The Book of Shaders](https://thebookofshaders.com/)
-💬 37 points | 🧑‍💻 by max_
+### 4. [There are no new ideas in AI only new datasets](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only)
+💬 314 points | 🧑‍💻 by bilsbie
 
-### 5. [She Got a Permit for Her Chickens. Now the City Is Fining Her $80k](https://reason.com/2025/06/28/she-got-a-permit-for-her-chickens-now-the-city-is-fining-her-80000/)
-💬 30 points | 🧑‍💻 by fortran77
+### 5. [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
+💬 9 points | 🧑‍💻 by rajman187
 

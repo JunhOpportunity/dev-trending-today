@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-02)
 
-### 1. [Xfinity using WiFi signals in your house to detect motion](https://www.xfinity.com/support/articles/wifi-motion)
-💬 321 points | 🧑‍💻 by bearsyankees
+### 1. [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
+💬 927 points | 🧑‍💻 by c249709
 
-### 2. [The new skill in AI is not prompting, it's context engineering](https://www.philschmid.de/context-engineering)
-💬 393 points | 🧑‍💻 by robotswantdata
+### 2. [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
+💬 20 points | 🧑‍💻 by nsoonhui
 
-### 3. [I write type-safe generic data structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
-💬 230 points | 🧑‍💻 by todsacerdoti
+### 3. [Figma Files Registration Statement for Proposed Initial Public Offering](https://www.figma.com/blog/s1-public/)
+💬 211 points | 🧑‍💻 by kualto
 
-### 4. [There are no new ideas in AI only new datasets](https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only)
-💬 314 points | 🧑‍💻 by bilsbie
+### 4. [Fakespot shuts down today after 9 years of detecting fake product reviews](https://blog.truestar.pro/fakespot-shuts-down/)
+💬 93 points | 🧑‍💻 by doppio19
 
-### 5. [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
-💬 9 points | 🧑‍💻 by rajman187
+### 5. [Code⇄GUI bidirectional editing via LSP](https://jamesbvaughan.com/bidirectional-editing/)
+💬 126 points | 🧑‍💻 by jamesbvaughan
 

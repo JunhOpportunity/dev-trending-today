@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-04)
 
-### 1. [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
-💬 24 points | 🧑‍💻 by A_D_E_P_T
+### 1. [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
+💬 599 points | 🧑‍💻 by Jtsummers
 
-### 2. [Exploiting the IKKO Activebuds "AI powered" earbuds](https://blog.mgdproductions.com/ikko-activebuds/)
-💬 442 points | 🧑‍💻 by ajdude
+### 2. [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
+💬 156 points | 🧑‍💻 by latentnumber
 
-### 3. [More Efficient Thermoelectric Cooling](https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling)
-💬 10 points | 🧑‍💻 by mcswell
+### 3. [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
+💬 145 points | 🧑‍💻 by codekansas
 
-### 4. [ASCIIMoon: The moon's phase live in ASCII art](https://asciimoon.com/)
-💬 135 points | 🧑‍💻 by zayat
+### 4. [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
+💬 162 points | 🧑‍💻 by CharlesW
 
-### 5. [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
-💬 436 points | 🧑‍💻 by theandrewbailey
+### 5. [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
+💬 76 points | 🧑‍💻 by bschne
 

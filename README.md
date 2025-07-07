@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-07)
 
-### 1. [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
-💬 599 points | 🧑‍💻 by Jtsummers
+### 1. [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
+💬 169 points | 🧑‍💻 by drankl
 
-### 2. [Flounder Mode – Kevin Kelly on a different way to do great work](https://joincolossus.com/article/flounder-mode/)
-💬 156 points | 🧑‍💻 by latentnumber
+### 2. [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
+💬 86 points | 🧑‍💻 by ananddtyagi
 
-### 3. [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
-💬 145 points | 🧑‍💻 by codekansas
+### 3. [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
+💬 76 points | 🧑‍💻 by zdw
 
-### 4. [AV1@Scale: Film Grain Synthesis, The Awakening](https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b)
-💬 162 points | 🧑‍💻 by CharlesW
+### 4. [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
+💬 96 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-💬 76 points | 🧑‍💻 by bschne
+### 5. [There's a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
+💬 31 points | 🧑‍💻 by surprisetalk
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-08)
 
-### 1. [Nobody has a personality anymore: we are products with labels](https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore)
-💬 169 points | 🧑‍💻 by drankl
+### 1. [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+💬 232 points | 🧑‍💻 by pseudolus
 
-### 2. [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
-💬 86 points | 🧑‍💻 by ananddtyagi
+### 2. [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
+💬 42 points | 🧑‍💻 by jw1224
 
-### 3. [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
-💬 76 points | 🧑‍💻 by zdw
+### 3. [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298)
+💬 384 points | 🧑‍💻 by PaulHoule
 
-### 4. [Building the Rust Compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
-💬 96 points | 🧑‍💻 by todsacerdoti
+### 4. [What Microchip doesn't (officially) tell you about the VSC8512](https://serd.es/2025/07/04/Switch-project-pt3.html)
+💬 37 points | 🧑‍💻 by ahlCVA
 
-### 5. [There's a COMPUTER inside my DS flashcart [video]](https://www.youtube.com/watch?v=uq0pJmd7GAA)
-💬 31 points | 🧑‍💻 by surprisetalk
+### 5. [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
+💬 125 points | 🧑‍💻 by TwoFx
 

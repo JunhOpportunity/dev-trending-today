@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-09)
 
-### 1. [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
-💬 232 points | 🧑‍💻 by pseudolus
+### 1. [Supabase MCP can leak your entire SQL database](https://www.generalanalysis.com/blog/supabase-mcp-blog)
+💬 534 points | 🧑‍💻 by rexpository
 
-### 2. [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
-💬 42 points | 🧑‍💻 by jw1224
+### 2. [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
+💬 252 points | 🧑‍💻 by jonkuipers
 
-### 3. [Mercury: Ultra-fast language models based on diffusion](https://arxiv.org/abs/2506.17298)
-💬 384 points | 🧑‍💻 by PaulHoule
+### 3. [Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
+💬 271 points | 🧑‍💻 by dgl
 
-### 4. [What Microchip doesn't (officially) tell you about the VSC8512](https://serd.es/2025/07/04/Switch-project-pt3.html)
-💬 37 points | 🧑‍💻 by ahlCVA
+### 4. [Rules of good writing (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+💬 42 points | 🧑‍💻 by santiviquez
 
-### 5. [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
-💬 125 points | 🧑‍💻 by TwoFx
+### 5. [Smollm3: Smol, multilingual, long-context reasoner LLM](https://huggingface.co/blog/smollm3)
+💬 230 points | 🧑‍💻 by kashifr
 

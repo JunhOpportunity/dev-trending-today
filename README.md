@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-14)
 
-### 1. [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
-💬 288 points | 🧑‍💻 by davidgu
+### 1. [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
+💬 106 points | 🧑‍💻 by 90s_dev
 
-### 2. [Show HN: Pangolin – Open source alternative to Cloudflare Tunnels](https://github.com/fosrl/pangolin)
-💬 22 points | 🧑‍💻 by miloschwartz
+### 2. [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
+💬 196 points | 🧑‍💻 by nateb2022
 
-### 3. [Show HN: Open source alternative to Perplexity Comet](https://www.browseros.com/)
-💬 154 points | 🧑‍💻 by felarof
+### 3. [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
+💬 37 points | 🧑‍💻 by martythemaniak
 
-### 4. [What is Realtalk’s relationship to AI? (2024)](https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI)
-💬 231 points | 🧑‍💻 by prathyvsh
+### 4. [The underground cathedral protecting Tokyo from floods (2018)](https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods)
+💬 60 points | 🧑‍💻 by barry-cotter
 
-### 5. [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
-💬 177 points | 🧑‍💻 by hyperbrainer
+### 5. [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
+💬 116 points | 🧑‍💻 by friggeri
 

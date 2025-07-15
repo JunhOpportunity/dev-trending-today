@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-15)
 
-### 1. [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
-💬 106 points | 🧑‍💻 by 90s_dev
+### 1. [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
+💬 176 points | 🧑‍💻 by nsagent
 
-### 2. [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
-💬 196 points | 🧑‍💻 by nateb2022
+### 2. [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
+💬 180 points | 🧑‍💻 by Eduard
 
-### 3. [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
-💬 37 points | 🧑‍💻 by martythemaniak
+### 3. [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
+💬 22 points | 🧑‍💻 by overload119
 
-### 4. [The underground cathedral protecting Tokyo from floods (2018)](https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods)
-💬 60 points | 🧑‍💻 by barry-cotter
+### 4. [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
+💬 143 points | 🧑‍💻 by josephwegner
 
-### 5. [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
-💬 116 points | 🧑‍💻 by friggeri
+### 5. [Dog Walk: Blender Studio's official game project](https://blenderstudio.itch.io/dogwalk)
+💬 79 points | 🧑‍💻 by doener
 

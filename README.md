@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-16)
 
-### 1. [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
-💬 176 points | 🧑‍💻 by nsagent
+### 1. [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
+💬 63 points | 🧑‍💻 by jonbaer
 
-### 2. [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
-💬 180 points | 🧑‍💻 by Eduard
+### 2. [Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL](https://www.matthieulc.com/posts/shoggoth-mini)
+💬 369 points | 🧑‍💻 by cataPhil
 
-### 3. [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
-💬 22 points | 🧑‍💻 by overload119
+### 3. [NIST ion clock sets new record for most accurate clock](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
+💬 265 points | 🧑‍💻 by voxadam
 
-### 4. [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
-💬 143 points | 🧑‍💻 by josephwegner
+### 4. [Reflections on OpenAI](https://calv.info/openai-reflections)
+💬 366 points | 🧑‍💻 by calvinfo
 
-### 5. [Dog Walk: Blender Studio's official game project](https://blenderstudio.itch.io/dogwalk)
-💬 79 points | 🧑‍💻 by doener
+### 5. [Where's Firefox going next?](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094)
+💬 80 points | 🧑‍💻 by ReadCarlBarks
 

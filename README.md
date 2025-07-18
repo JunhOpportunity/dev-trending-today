@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-18)
 
-### 1. [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
-💬 203 points | 🧑‍💻 by boulos
+### 1. [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
+💬 63 points | 🧑‍💻 by todsacerdoti
 
-### 2. [Onlycats](https://onlycats.gg/)
-💬 26 points | 🧑‍💻 by rustystump
+### 2. [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
+💬 478 points | 🧑‍💻 by Topfi
 
-### 3. [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
-💬 110 points | 🧑‍💻 by asimops
+### 3. [Mistral Releases Deep Research, Voice, Projects in Le Chat](https://mistral.ai/news/le-chat-dives-deep)
+💬 433 points | 🧑‍💻 by pember
 
-### 4. ["Reading Rainbow" Was Created to Combat Summer Reading Slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
-💬 16 points | 🧑‍💻 by arbesman
+### 4. [Perfume reviews](https://gwern.net/blog/2025/perfume)
+💬 156 points | 🧑‍💻 by surprisetalk
 
-### 5. [Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode](https://tendollaradventure.com/sample/)
-💬 72 points | 🧑‍💻 by dskhatri
+### 5. [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
+💬 344 points | 🧑‍💻 by vineethy
 

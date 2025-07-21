@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-21)
 
-### 1. [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
-💬 63 points | 🧑‍💻 by todsacerdoti
+### 1. [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
+💬 47 points | 🧑‍💻 by h2337
 
-### 2. [ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/)
-💬 478 points | 🧑‍💻 by Topfi
+### 2. [LLM Alloying Improves Performance over Single Model](https://xbow.com/blog/alloy-agents/)
+💬 37 points | 🧑‍💻 by summarity
 
-### 3. [Mistral Releases Deep Research, Voice, Projects in Le Chat](https://mistral.ai/news/le-chat-dives-deep)
-💬 433 points | 🧑‍💻 by pember
+### 3. [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
+💬 177 points | 🧑‍💻 by simonebrunozzi
 
-### 4. [Perfume reviews](https://gwern.net/blog/2025/perfume)
-💬 156 points | 🧑‍💻 by surprisetalk
+### 4. [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
+💬 455 points | 🧑‍💻 by mpweiher
 
-### 5. [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
-💬 344 points | 🧑‍💻 by vineethy
+### 5. [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
+💬 253 points | 🧑‍💻 by zdw
 

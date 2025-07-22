@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-22)
 
-### 1. [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
-💬 47 points | 🧑‍💻 by h2337
+### 1. [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
+💬 421 points | 🧑‍💻 by spenvo
 
-### 2. [LLM Alloying Improves Performance over Single Model](https://xbow.com/blog/alloy-agents/)
-💬 37 points | 🧑‍💻 by summarity
+### 2. [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
+💬 111 points | 🧑‍💻 by Bluestein
 
-### 3. [Staying cool without refrigerants: Next-generation Peltier cooling](https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling)
-💬 177 points | 🧑‍💻 by simonebrunozzi
+### 3. [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
+💬 23 points | 🧑‍💻 by pseudolus
 
-### 4. [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
-💬 455 points | 🧑‍💻 by mpweiher
+### 4. [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
+💬 63 points | 🧑‍💻 by whobre
 
-### 5. [New colors without shooting lasers into your eyes](https://dynomight.net/colors/)
-💬 253 points | 🧑‍💻 by zdw
+### 5. [Jujutsu for Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
+💬 52 points | 🧑‍💻 by Bogdanp
 

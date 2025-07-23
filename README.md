@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-23)
 
-### 1. [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
-💬 421 points | 🧑‍💻 by spenvo
+### 1. [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
+💬 293 points | 🧑‍💻 by danielhanchen
 
-### 2. [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
-💬 111 points | 🧑‍💻 by Bluestein
+### 2. [Why you can't color calibrate deep space photos](https://maurycyz.com/misc/cc/)
+💬 43 points | 🧑‍💻 by LorenDB
 
-### 3. [AI comes up with bizarre physics experiments, but they work](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)
-💬 23 points | 🧑‍💻 by pseudolus
+### 3. [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
+💬 192 points | 🧑‍💻 by todsacerdoti
 
-### 4. [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
-💬 63 points | 🧑‍💻 by whobre
+### 4. [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
+💬 63 points | 🧑‍💻 by matt_d
 
-### 5. [Jujutsu for Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
-💬 52 points | 🧑‍💻 by Bogdanp
+### 5. [Android Earthquake Alerts: A global system for early warning](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/)
+💬 182 points | 🧑‍💻 by michaefe
 

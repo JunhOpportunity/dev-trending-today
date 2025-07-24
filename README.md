@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-24)
 
-### 1. [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
-💬 293 points | 🧑‍💻 by danielhanchen
+### 1. [A Small Web July](https://smallcypress.bearblog.dev/a-small-web-july/)
+💬 28 points | 🧑‍💻 by debo_
 
-### 2. [Why you can't color calibrate deep space photos](https://maurycyz.com/misc/cc/)
-💬 43 points | 🧑‍💻 by LorenDB
+### 2. [BGP Tools](https://bgp.tools/)
+💬 21 points | 🧑‍💻 by RGBCube
 
-### 3. [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
-💬 192 points | 🧑‍💻 by todsacerdoti
+### 3. [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
+💬 404 points | 🧑‍💻 by hakonjdjohnsen
 
-### 4. [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
-💬 63 points | 🧑‍💻 by matt_d
+### 4. [The Promised LAN](https://tpl.house/)
+💬 247 points | 🧑‍💻 by Bogdanp
 
-### 5. [Android Earthquake Alerts: A global system for early warning](https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/)
-💬 182 points | 🧑‍💻 by michaefe
+### 5. [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+💬 97 points | 🧑‍💻 by jonbaer
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-28)
 
-### 1. [Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
-💬 33 points | 🧑‍💻 by yurivish
+### 1. [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
+💬 687 points | 🧑‍💻 by segfault22
 
-### 2. [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
-💬 193 points | 🧑‍💻 by MattSayar
+### 2. [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+💬 99 points | 🧑‍💻 by walterbell
 
-### 3. [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
-💬 125 points | 🧑‍💻 by madars
+### 3. [Dumb Pipe](https://www.dumbpipe.dev/)
+💬 587 points | 🧑‍💻 by udev4096
 
-### 4. [Inter-Planetary Network Special Interest Group](https://www.ipnsig.org)
-💬 99 points | 🧑‍💻 by OhMeadhbh
+### 4. [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
+💬 143 points | 🧑‍💻 by JadedBlueEyes
 
-### 5. [Positron – A next-generation data science IDE](https://positron.posit.co/)
-💬 108 points | 🧑‍💻 by amai
+### 5. [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
+💬 47 points | 🧑‍💻 by dagmx
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-29)
 
-### 1. [Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork](https://github.com/segmentationf4u1t/trae_telemetry_research)
-💬 687 points | 🧑‍💻 by segfault22
+### 1. [Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act](https://use-their-id.com/)
+💬 490 points | 🧑‍💻 by timje1
 
-### 2. [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
-💬 99 points | 🧑‍💻 by walterbell
+### 2. [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
+💬 206 points | 🧑‍💻 by Bogdanp
 
-### 3. [Dumb Pipe](https://www.dumbpipe.dev/)
-💬 587 points | 🧑‍💻 by udev4096
+### 3. [FinTech Dystopia](https://fintechdystopia.com/)
+💬 8 points | 🧑‍💻 by LasEspuelas
 
-### 4. [I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
-💬 143 points | 🧑‍💻 by JadedBlueEyes
+### 4. [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions)
+💬 93 points | 🧑‍💻 by healsdata
 
-### 5. [Blender: Beyond Mouse and Keyboard](https://code.blender.org/2025/07/beyond-mouse-keyboard/)
-💬 47 points | 🧑‍💻 by dagmx
+### 5. [Copyparty – Turn almost any device into a file server](https://github.com/9001/copyparty)
+💬 555 points | 🧑‍💻 by saint11
 

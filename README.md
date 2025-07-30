@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-30)
 
-### 1. [Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act](https://use-their-id.com/)
-💬 490 points | 🧑‍💻 by timje1
+### 1. [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
+💬 298 points | 🧑‍💻 by jandrewrogers
 
-### 2. [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
-💬 206 points | 🧑‍💻 by Bogdanp
+### 2. [Study mode](https://openai.com/index/chatgpt-study-mode/)
+💬 722 points | 🧑‍💻 by meetpateltech
 
-### 3. [FinTech Dystopia](https://fintechdystopia.com/)
-💬 8 points | 🧑‍💻 by LasEspuelas
+### 3. [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
+💬 150 points | 🧑‍💻 by fidotron
 
-### 4. [Danish Study: No link between vaccines and autism or 49 other health conditions](https://en.ssi.dk/news/news/2025/large-danish-study-no-link-between-vaccines-and-autism-or-49-other-health-conditions)
-💬 93 points | 🧑‍💻 by healsdata
+### 4. [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+💬 91 points | 🧑‍💻 by lorenstewart
 
-### 5. [Copyparty – Turn almost any device into a file server](https://github.com/9001/copyparty)
-💬 555 points | 🧑‍💻 by saint11
+### 5. [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
+💬 154 points | 🧑‍💻 by yujonglee
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-07-31)
 
-### 1. [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
-💬 298 points | 🧑‍💻 by jandrewrogers
+### 1. [Fast](https://www.catherinejue.com/fast)
+💬 830 points | 🧑‍💻 by gaplong
 
-### 2. [Study mode](https://openai.com/index/chatgpt-study-mode/)
-💬 722 points | 🧑‍💻 by meetpateltech
+### 2. [Ollama's new app](https://ollama.com/blog/new-app)
+💬 191 points | 🧑‍💻 by BUFU
 
-### 3. [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
-💬 150 points | 🧑‍💻 by fidotron
+### 3. [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
+💬 74 points | 🧑‍💻 by nevir
 
-### 4. [URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
-💬 91 points | 🧑‍💻 by lorenstewart
+### 4. [The math is haunted](https://overreacted.io/the-math-is-haunted/)
+💬 126 points | 🧑‍💻 by danabramov
 
-### 5. [Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker](https://news.ycombinator.com/item?id=44725306)
-💬 154 points | 🧑‍💻 by yujonglee
+### 5. [Classic CDE (Common Desktop Environment) Coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+💬 5 points | 🧑‍💻 by susam
 

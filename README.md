@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-07-31)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-01)
 
-### 1. [Fast](https://www.catherinejue.com/fast)
-💬 830 points | 🧑‍💻 by gaplong
+### 1. [Slow](https://michaelnotebook.com/slow/index.html)
+💬 554 points | 🧑‍💻 by calvinfo
 
-### 2. [Ollama's new app](https://ollama.com/blog/new-app)
-💬 191 points | 🧑‍💻 by BUFU
+### 2. [Releasing open weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
+💬 197 points | 🧑‍💻 by vmatsiiako
 
-### 3. [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
-💬 74 points | 🧑‍💻 by nevir
+### 3. [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
+💬 182 points | 🧑‍💻 by rbanffy
 
-### 4. [The math is haunted](https://overreacted.io/the-math-is-haunted/)
-💬 126 points | 🧑‍💻 by danabramov
+### 4. [I made a website that makes you cry](https://www.cryonceaweek.com)
+💬 100 points | 🧑‍💻 by johnnymaroney
 
-### 5. [Classic CDE (Common Desktop Environment) Coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
-💬 5 points | 🧑‍💻 by susam
+### 5. [QUIC for the kernel](https://lwn.net/Articles/1029851/)
+💬 205 points | 🧑‍💻 by Bogdanp
 

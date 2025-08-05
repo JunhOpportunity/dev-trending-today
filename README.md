@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-05)
 
-### 1. [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
-💬 64 points | 🧑‍💻 by hosolmaz
+### 1. [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
+💬 726 points | 🧑‍💻 by benholmen
 
-### 2. [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-💬 373 points | 🧑‍💻 by eustoria
+### 2. [Show HN: I've been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
+💬 101 points | 🧑‍💻 by barbinbrad
 
-### 3. [Writing a good design document](https://grantslatton.com/how-to-design-document)
-💬 172 points | 🧑‍💻 by kiyanwang
+### 3. [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
+💬 307 points | 🧑‍💻 by meetpateltech
 
-### 4. [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors)
-💬 286 points | 🧑‍💻 by itchyjunk
+### 4. [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
+💬 200 points | 🧑‍💻 by emschwartz
 
-### 5. [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
-💬 77 points | 🧑‍💻 by UglyToad
+### 5. [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
+💬 44 points | 🧑‍💻 by Chrisjackson4
 

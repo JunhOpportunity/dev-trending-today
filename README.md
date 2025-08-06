@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-06)
 
-### 1. [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
-💬 726 points | 🧑‍💻 by benholmen
+### 1. [Open models by OpenAI](https://openai.com/open-models/)
+💬 1427 points | 🧑‍💻 by lackoftactics
 
-### 2. [Show HN: I've been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
-💬 101 points | 🧑‍💻 by barbinbrad
+### 2. [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
+💬 64 points | 🧑‍💻 by jainilprajapati
 
-### 3. [Qwen-Image: Crafting with native text rendering](https://qwenlm.github.io/blog/qwen-image/)
-💬 307 points | 🧑‍💻 by meetpateltech
+### 3. [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+💬 1137 points | 🧑‍💻 by bradleyg223
 
-### 4. [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
-💬 200 points | 🧑‍💻 by emschwartz
+### 4. [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
+💬 227 points | 🧑‍💻 by jandeboevrie
 
-### 5. [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
-💬 44 points | 🧑‍💻 by Chrisjackson4
+### 5. [Ollama Turbo](https://ollama.com/turbo)
+💬 262 points | 🧑‍💻 by amram_art
 

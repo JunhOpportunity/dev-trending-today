@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-07)
 
-### 1. [Open models by OpenAI](https://openai.com/open-models/)
-💬 1427 points | 🧑‍💻 by lackoftactics
+### 1. [VIN: The 17-character code that runs the automotive world](https://cardog.app/blog/whats-a-vin)
+💬 23 points | 🧑‍💻 by samsullivan
 
-### 2. [Kitten TTS: 25MB CPU-Only, Open-Source Voice Model](https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/)
-💬 64 points | 🧑‍💻 by jainilprajapati
+### 2. [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
+💬 561 points | 🧑‍💻 by kgwgk
 
-### 3. [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
-💬 1137 points | 🧑‍💻 by bradleyg223
+### 3. [Rules by Which a Great Empire May Be Reduced to a Small One (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
+💬 45 points | 🧑‍💻 by freediver
 
-### 4. [Spotting base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
-💬 227 points | 🧑‍💻 by jandeboevrie
+### 4. [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
+💬 9 points | 🧑‍💻 by pinewurst
 
-### 5. [Ollama Turbo](https://ollama.com/turbo)
-💬 262 points | 🧑‍💻 by amram_art
+### 5. [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
+💬 138 points | 🧑‍💻 by codeulike
 

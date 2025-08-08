@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-08)
 
-### 1. [VIN: The 17-character code that runs the automotive world](https://cardog.app/blog/whats-a-vin)
-💬 23 points | 🧑‍💻 by samsullivan
+### 1. [GPT-5](https://openai.com/gpt-5/)
+💬 1432 points | 🧑‍💻 by rd
 
-### 2. [Claude Code IDE integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
-💬 561 points | 🧑‍💻 by kgwgk
+### 2. [Historical Tech Tree](https://www.historicaltechtree.com/)
+💬 290 points | 🧑‍💻 by louisfd94
 
-### 3. [Rules by Which a Great Empire May Be Reduced to a Small One (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
-💬 45 points | 🧑‍💻 by freediver
+### 3. [GPT-5: Key characteristics, pricing and system card](https://simonwillison.net/2025/Aug/7/gpt-5/)
+💬 446 points | 🧑‍💻 by Philpax
 
-### 4. [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
-💬 9 points | 🧑‍💻 by pinewurst
+### 4. [Cursor CLI](https://cursor.com/cli)
+💬 175 points | 🧑‍💻 by gonzalovargas
 
-### 5. [Project Hyperion: Interstellar ship design competition](https://www.projecthyperion.org)
-💬 138 points | 🧑‍💻 by codeulike
+### 5. [Cursed Knowledge](https://immich.app/cursed-knowledge/)
+💬 144 points | 🧑‍💻 by bqmjjx0kac
 

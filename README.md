@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-12)
 
-### 1. [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
-💬 57 points | 🧑‍💻 by azhenley
+### 1. [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
+💬 585 points | 🧑‍💻 by phlummox
 
-### 2. [Try and](https://ygdp.yale.edu/phenomena/try-and)
-💬 430 points | 🧑‍💻 by treetalker
+### 2. [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
+💬 807 points | 🧑‍💻 by al3rez
 
-### 3. [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
-💬 311 points | 🧑‍💻 by ModelForge
+### 3. [GLM-4.5: Agentic, Reasoning, and Coding (Arc) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
+💬 12 points | 🧑‍💻 by SerCe
 
-### 4. [Digital Foundry Leaves IGN, Now Independent](https://www.digitalfoundry.net/df-direct-special-digital-foundry-leaves-ign-now-fully-independent-so-what-happens-next)
-💬 13 points | 🧑‍💻 by zdw
+### 4. [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
+💬 943 points | 🧑‍💻 by Handy-Man
 
-### 5. [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
-💬 200 points | 🧑‍💻 by purgator
+### 5. [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
+💬 42 points | 🧑‍💻 by danterolle
 

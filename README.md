@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-13)
 
-### 1. [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
-💬 585 points | 🧑‍💻 by phlummox
+### 1. [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
+💬 899 points | 🧑‍💻 by adocomplete
 
-### 2. [I tried every todo app and ended up with a .txt file](https://www.al3rez.com/todo-txt-journey)
-💬 807 points | 🧑‍💻 by al3rez
+### 2. [Search all text in New York City](https://www.alltext.nyc/)
+💬 81 points | 🧑‍💻 by Kortaggio
 
-### 3. [GLM-4.5: Agentic, Reasoning, and Coding (Arc) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
-💬 12 points | 🧑‍💻 by SerCe
+### 3. [Ashet Home Computer](https://ashet.computer/)
+💬 190 points | 🧑‍💻 by todsacerdoti
 
-### 4. [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
-💬 943 points | 🧑‍💻 by Handy-Man
+### 4. [NYC Mayor Adams Uses Free Internet to Expand Police Surveillance at NYCHA](https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance)
+💬 8 points | 🧑‍💻 by h2si
 
-### 5. [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
-💬 42 points | 🧑‍💻 by danterolle
+### 5. [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
+💬 335 points | 🧑‍💻 by wilsonzlin
 

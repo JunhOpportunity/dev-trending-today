@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-14)
 
-### 1. [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
-💬 899 points | 🧑‍💻 by adocomplete
+### 1. [PYX: The next step in Python packaging](https://astral.sh/pyx)
+💬 425 points | 🧑‍💻 by the_mitsuhiko
 
-### 2. [Search all text in New York City](https://www.alltext.nyc/)
-💬 81 points | 🧑‍💻 by Kortaggio
+### 2. [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
+💬 505 points | 🧑‍💻 by phickey
 
-### 3. [Ashet Home Computer](https://ashet.computer/)
-💬 190 points | 🧑‍💻 by todsacerdoti
+### 3. [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
+💬 448 points | 🧑‍💻 by marcjschmidt
 
-### 4. [NYC Mayor Adams Uses Free Internet to Expand Police Surveillance at NYCHA](https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance)
-💬 8 points | 🧑‍💻 by h2si
+### 4. [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
+💬 83 points | 🧑‍💻 by gnabgib
 
-### 5. [Show HN: Building a web search engine from scratch with 3B neural embeddings](https://blog.wilsonl.in/search-engine/)
-💬 335 points | 🧑‍💻 by wilsonzlin
+### 5. [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
+💬 236 points | 🧑‍💻 by nukifw
 

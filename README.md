@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-15)
 
-### 1. [PYX: The next step in Python packaging](https://astral.sh/pyx)
-💬 425 points | 🧑‍💻 by the_mitsuhiko
+### 1. [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
+💬 166 points | 🧑‍💻 by bangonkeyboard
 
-### 2. [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
-💬 505 points | 🧑‍💻 by phickey
+### 2. [Streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
+💬 457 points | 🧑‍💻 by nemoniac
 
-### 3. [VC-backed company just killed my EU trademark for a small OSS project](https://news.ycombinator.com/item?id=44883634)
-💬 448 points | 🧑‍💻 by marcjschmidt
+### 3. [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
+💬 185 points | 🧑‍💻 by tosh
 
-### 4. [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
-💬 83 points | 🧑‍💻 by gnabgib
+### 4. [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+💬 544 points | 🧑‍💻 by meetpateltech
 
-### 5. [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-💬 236 points | 🧑‍💻 by nukifw
+### 5. [The secret code behind the CIA's Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
+💬 26 points | 🧑‍💻 by elahieh
 

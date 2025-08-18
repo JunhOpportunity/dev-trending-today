@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-18)
 
-### 1. [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
-💬 166 points | 🧑‍💻 by bangonkeyboard
+### 1. [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
+💬 22 points | 🧑‍💻 by simonpure
 
-### 2. [Streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
-💬 457 points | 🧑‍💻 by nemoniac
+### 2. [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
+💬 318 points | 🧑‍💻 by zerealshadowban
 
-### 3. [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
-💬 185 points | 🧑‍💻 by tosh
+### 3. [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
+💬 62 points | 🧑‍💻 by nawazgafar
 
-### 4. [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
-💬 544 points | 🧑‍💻 by meetpateltech
+### 4. [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
+💬 243 points | 🧑‍💻 by Improvement
 
-### 5. [The secret code behind the CIA's Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
-💬 26 points | 🧑‍💻 by elahieh
+### 5. [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
+💬 373 points | 🧑‍💻 by simonpure
 

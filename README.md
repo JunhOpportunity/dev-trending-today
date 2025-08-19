@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-19)
 
-### 1. [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
-💬 22 points | 🧑‍💻 by simonpure
+### 1. [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
+💬 112 points | 🧑‍💻 by wdaher
 
-### 2. [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
-💬 318 points | 🧑‍💻 by zerealshadowban
+### 2. [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
+💬 47 points | 🧑‍💻 by Hooke
 
-### 3. [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
-💬 62 points | 🧑‍💻 by nawazgafar
+### 3. [Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
+💬 66 points | 🧑‍💻 by bookmtn
 
-### 4. [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
-💬 243 points | 🧑‍💻 by Improvement
+### 4. [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
+💬 92 points | 🧑‍💻 by toomanyrichies
 
-### 5. [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
-💬 373 points | 🧑‍💻 by simonpure
+### 5. [Obsidian Bases](https://help.obsidian.md/bases)
+💬 317 points | 🧑‍💻 by twapi
 

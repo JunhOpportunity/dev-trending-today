@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-20)
 
-### 1. [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
-💬 112 points | 🧑‍💻 by wdaher
+### 1. [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
+💬 100 points | 🧑‍💻 by ghuntley
 
-### 2. [X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls](https://www.popsci.com/technology/tibetan-prayer-scroll-scans/)
-💬 47 points | 🧑‍💻 by Hooke
+### 2. [Copilot broke audit logs, but Microsoft won't tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
+💬 166 points | 🧑‍💻 by Sayrus
 
-### 3. [Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights](https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/)
-💬 66 points | 🧑‍💻 by bookmtn
+### 3. [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
+💬 112 points | 🧑‍💻 by abdusco
 
-### 4. [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
-💬 92 points | 🧑‍💻 by toomanyrichies
+### 4. [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
+💬 30 points | 🧑‍💻 by jnord
 
-### 5. [Obsidian Bases](https://help.obsidian.md/bases)
-💬 317 points | 🧑‍💻 by twapi
+### 5. [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
+💬 493 points | 🧑‍💻 by spiridow
 

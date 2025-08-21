@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-21)
 
-### 1. [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
-💬 100 points | 🧑‍💻 by ghuntley
+### 1. [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
+💬 69 points | 🧑‍💻 by sealeck
 
-### 2. [Copilot broke audit logs, but Microsoft won't tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
-💬 166 points | 🧑‍💻 by Sayrus
+### 2. [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
+💬 41 points | 🧑‍💻 by ksec
 
-### 3. [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
-💬 112 points | 🧑‍💻 by abdusco
+### 3. [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
+💬 615 points | 🧑‍💻 by damarberlari
 
-### 4. [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
-💬 30 points | 🧑‍💻 by jnord
+### 4. [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
+💬 26 points | 🧑‍💻 by m463
 
-### 5. [How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos](https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/)
-💬 493 points | 🧑‍💻 by spiridow
+### 5. [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
+💬 9 points | 🧑‍💻 by research_pie
 

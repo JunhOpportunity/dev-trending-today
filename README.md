@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-22)
 
-### 1. [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
-💬 69 points | 🧑‍💻 by sealeck
+### 1. [From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
+💬 55 points | 🧑‍💻 by fertrevino
 
-### 2. [SK hynix dethrones Samsung as world’s top DRAM maker](https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834)
-💬 41 points | 🧑‍💻 by ksec
+### 2. [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
+💬 140 points | 🧑‍💻 by tanelpoder
 
-### 3. [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
-💬 615 points | 🧑‍💻 by damarberlari
+### 3. [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
+💬 117 points | 🧑‍💻 by agluszak
 
-### 4. [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
-💬 26 points | 🧑‍💻 by m463
+### 4. [Control Shopping Cart Wheels with Your Phone](https://www.begaydocrime.com/)
+💬 7 points | 🧑‍💻 by mystraline
 
-### 5. [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
-💬 9 points | 🧑‍💻 by research_pie
+### 5. [Elegant mathematics bending the future of design](https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/)
+💬 47 points | 🧑‍💻 by robinhouston
 

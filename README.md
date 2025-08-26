@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-26)
 
-### 1. [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
-💬 31 points | 🧑‍💻 by danso
+### 1. [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
+💬 950 points | 🧑‍💻 by kotaKat
 
-### 2. [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
-💬 210 points | 🧑‍💻 by todsacerdoti
+### 2. [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+💬 246 points | 🧑‍💻 by giuliomagnifico
 
-### 3. [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
-💬 171 points | 🧑‍💻 by ahamez
+### 3. [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
+💬 100 points | 🧑‍💻 by benwerd
 
-### 4. [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
-💬 17 points | 🧑‍💻 by shorden
+### 4. [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+💬 69 points | 🧑‍💻 by subset
 
-### 5. [Show HN: Sping – An HTTP/TCP Latency Tool That's Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
-💬 25 points | 🧑‍💻 by zorlack
+### 5. [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
+💬 509 points | 🧑‍💻 by __bb
 

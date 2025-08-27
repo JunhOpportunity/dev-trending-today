@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-27)
 
-### 1. [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
-💬 950 points | 🧑‍💻 by kotaKat
+### 1. [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
+💬 418 points | 🧑‍💻 by davidbarker
 
-### 2. [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
-💬 246 points | 🧑‍💻 by giuliomagnifico
+### 2. [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
+💬 767 points | 🧑‍💻 by meetpateltech
 
-### 3. [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
-💬 100 points | 🧑‍💻 by benwerd
+### 3. [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
+💬 149 points | 🧑‍💻 by smartmic
 
-### 4. [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
-💬 69 points | 🧑‍💻 by subset
+### 4. [Rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
+💬 159 points | 🧑‍💻 by steveklabnik
 
-### 5. [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
-💬 509 points | 🧑‍💻 by __bb
+### 5. [Starship's Tenth Flight Test](https://www.spacex.com/)
+💬 173 points | 🧑‍💻 by metalman
 

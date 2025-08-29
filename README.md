@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-08-29)
 
-### 1. [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
-💬 117 points | 🧑‍💻 by zdw
+### 1. [Python: The Documentary](https://lwn.net/Articles/1035537/)
+💬 73 points | 🧑‍💻 by chmaynard
 
-### 2. [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
-💬 311 points | 🧑‍💻 by longcat
+### 2. [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
+💬 749 points | 🧑‍💻 by rickybule
 
-### 3. [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
-💬 21 points | 🧑‍💻 by gnabgib
+### 3. [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
+💬 26 points | 🧑‍💻 by zora_goron
 
-### 4. [Toyota is recycling old EV batteries to help power Mazda's production line](https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line)
-💬 192 points | 🧑‍💻 by computerliker
+### 4. [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
+💬 149 points | 🧑‍💻 by coloneltcb
 
-### 5. [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
-💬 262 points | 🧑‍💻 by frays
+### 5. [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
+💬 192 points | 🧑‍💻 by floverfelt
 

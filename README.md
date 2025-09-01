@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-08-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-01)
 
-### 1. [Python: The Documentary](https://lwn.net/Articles/1035537/)
-💬 73 points | 🧑‍💻 by chmaynard
+### 1. [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
+💬 243 points | 🧑‍💻 by K0nserv
 
-### 2. [Ask HN: The government of my country blocked VPN access. What should I use?](https://news.ycombinator.com/item?id=45054260)
-💬 749 points | 🧑‍💻 by rickybule
+### 2. [Eternal Struggle](https://yoavg.github.io/eternal/)
+💬 331 points | 🧑‍💻 by yurivish
 
-### 3. [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
-💬 26 points | 🧑‍💻 by zora_goron
+### 3. [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
+💬 62 points | 🧑‍💻 by toomuchtodo
 
-### 4. [Fuck up my site – Turn any website into beautiful chaos](https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true)
-💬 149 points | 🧑‍💻 by coloneltcb
+### 4. [What brain surgery taught me about the fragile gift of consciousness](https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/)
+💬 25 points | 🧑‍💻 by NaOH
 
-### 5. [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
-💬 192 points | 🧑‍💻 by floverfelt
+### 5. [“This telegram must be closely paraphrased before being communicated to anyone”](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
+💬 531 points | 🧑‍💻 by azeemba
 

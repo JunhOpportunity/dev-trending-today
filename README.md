@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-02)
 
-### 1. [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-💬 243 points | 🧑‍💻 by K0nserv
+### 1. [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
+💬 39 points | 🧑‍💻 by Mikajis
 
-### 2. [Eternal Struggle](https://yoavg.github.io/eternal/)
-💬 331 points | 🧑‍💻 by yurivish
+### 2. [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+💬 218 points | 🧑‍💻 by tosh
 
-### 3. [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
-💬 62 points | 🧑‍💻 by toomuchtodo
+### 3. [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+💬 158 points | 🧑‍💻 by ripe
 
-### 4. [What brain surgery taught me about the fragile gift of consciousness](https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/)
-💬 25 points | 🧑‍💻 by NaOH
+### 4. [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
+💬 220 points | 🧑‍💻 by ibobev
 
-### 5. [“This telegram must be closely paraphrased before being communicated to anyone”](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
-💬 531 points | 🧑‍💻 by azeemba
+### 5. [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
+💬 147 points | 🧑‍💻 by binarycrusader
 

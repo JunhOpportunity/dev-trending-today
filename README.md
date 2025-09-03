@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-03)
 
-### 1. [I Miss Using Em Dashes](https://bassi.li/articles/i-miss-using-em-dashes)
-💬 39 points | 🧑‍💻 by Mikajis
+### 1. [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
+💬 468 points | 🧑‍💻 by colesantiago
 
-### 2. [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-💬 218 points | 🧑‍💻 by tosh
+### 2. [I want to be left alone](https://blog.ctms.me/posts/2024-07-26-i-want-to-be-left-alone/)
+💬 64 points | 🧑‍💻 by car
 
-### 3. [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
-💬 158 points | 🧑‍💻 by ripe
+### 3. [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
+💬 63 points | 🧑‍💻 by BrendanLong
 
-### 4. [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
-💬 220 points | 🧑‍💻 by ibobev
+### 4. [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
+💬 61 points | 🧑‍💻 by indigodaddy
 
-### 5. [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
-💬 147 points | 🧑‍💻 by binarycrusader
+### 5. [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
+💬 220 points | 🧑‍💻 by kmelve
 

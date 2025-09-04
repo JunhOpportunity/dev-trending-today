@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-04)
 
-### 1. [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
-💬 468 points | 🧑‍💻 by colesantiago
+### 1. [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
+💬 168 points | 🧑‍💻 by duck
 
-### 2. [I want to be left alone](https://blog.ctms.me/posts/2024-07-26-i-want-to-be-left-alone/)
-💬 64 points | 🧑‍💻 by car
+### 2. [Claude Code: Now in Beta in Zed](https://zed.dev/blog/claude-code-via-acp)
+💬 488 points | 🧑‍💻 by meetpateltech
 
-### 3. [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
-💬 63 points | 🧑‍💻 by BrendanLong
+### 3. [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
+💬 31 points | 🧑‍💻 by k2enemy
 
-### 4. [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
-💬 61 points | 🧑‍💻 by indigodaddy
+### 4. [Not paying with cash](https://rubenerd.com/not-paying-with-cash/)
+💬 29 points | 🧑‍💻 by mikece
 
-### 5. [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
-💬 220 points | 🧑‍💻 by kmelve
+### 5. [The Bitter Lesson Is Misunderstood](https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood)
+💬 140 points | 🧑‍💻 by JnBrymn
 

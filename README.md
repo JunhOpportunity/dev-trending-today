@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-09)
 
-### 1. [Using Claude Code to modernize a forgotten Linux kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
-💬 124 points | 🧑‍💻 by dmitrybrant
+### 1. [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+💬 611 points | 🧑‍💻 by keyboardJones
 
-### 2. [Pico CSS – Minimal CSS Framework for Semantic HTML](https://picocss.com)
-💬 258 points | 🧑‍💻 by mpweiher
+### 2. [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
+💬 74 points | 🧑‍💻 by onecommentman
 
-### 3. [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
-💬 574 points | 🧑‍💻 by leephillips
+### 3. [iPhone dumbphone](https://stopa.io/post/297)
+💬 264 points | 🧑‍💻 by joshmanders
 
-### 4. [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
-💬 80 points | 🧑‍💻 by zdw
+### 4. [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
+💬 60 points | 🧑‍💻 by firexcy
 
-### 5. [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search](https://simonwillison.net/2025/Sep/6/research-goblin/)
-💬 140 points | 🧑‍💻 by simonw
+### 5. [Alterego: Thought to Text](https://www.alterego.io/)
+💬 74 points | 🧑‍💻 by oldfuture
 

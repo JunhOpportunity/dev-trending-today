@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-10)
 
-### 1. [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
-💬 611 points | 🧑‍💻 by keyboardJones
+### 1. [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
+💬 36 points | 🧑‍💻 by strict9
 
-### 2. [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-💬 74 points | 🧑‍💻 by onecommentman
+### 2. [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
+💬 493 points | 🧑‍💻 by excerionsforte
 
-### 3. [iPhone dumbphone](https://stopa.io/post/297)
-💬 264 points | 🧑‍💻 by joshmanders
+### 3. [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
+💬 233 points | 🧑‍💻 by rbanffy
 
-### 4. [Is OOXML Artifically Complex?](https://hsu.cy/2025/09/is-ooxml-artificially-complex/)
-💬 60 points | 🧑‍💻 by firexcy
+### 4. [Claude now has access to a server-side container environment](https://www.anthropic.com/news/create-files)
+💬 427 points | 🧑‍💻 by meetpateltech
 
-### 5. [Alterego: Thought to Text](https://www.alterego.io/)
-💬 74 points | 🧑‍💻 by oldfuture
+### 5. [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
+💬 67 points | 🧑‍💻 by lordnacho
 

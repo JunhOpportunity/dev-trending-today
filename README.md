@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-11)
 
-### 1. [Outraged Farmers Blame Ag Monopolies as Catastrophic Collapse Looms](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
-💬 36 points | 🧑‍💻 by strict9
+### 1. [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+💬 194 points | 🧑‍💻 by Bogdanp
 
-### 2. [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
-💬 493 points | 🧑‍💻 by excerionsforte
+### 2. [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
+💬 58 points | 🧑‍💻 by jfil
 
-### 3. [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
-💬 233 points | 🧑‍💻 by rbanffy
+### 3. [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
+💬 375 points | 🧑‍💻 by meetpateltech
 
-### 4. [Claude now has access to a server-side container environment](https://www.anthropic.com/news/create-files)
-💬 427 points | 🧑‍💻 by meetpateltech
+### 4. [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
+💬 654 points | 🧑‍💻 by mmulet
 
-### 5. [Axial twist theory](https://en.wikipedia.org/wiki/Axial_twist_theory)
-💬 67 points | 🧑‍💻 by lordnacho
+### 5. [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
+💬 34 points | 🧑‍💻 by nobody9999
 

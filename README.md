@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-12)
 
-### 1. [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
-💬 194 points | 🧑‍💻 by Bogdanp
+### 1. [We traded blogs for black boxes, now we're paying for it](https://tekhne.dev/internet-resist/)
+💬 52 points | 🧑‍💻 by Improvement
 
-### 2. [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
-💬 58 points | 🧑‍💻 by jfil
+### 2. [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
+💬 134 points | 🧑‍💻 by gaws
 
-### 3. [ChatGPT Developer Mode: Full MCP client access](https://platform.openai.com/docs/guides/developer-mode)
-💬 375 points | 🧑‍💻 by meetpateltech
+### 3. [Danish supermarket chain is setting up "Emergency Stores"](https://swiss.social/@swaldorff/115186445638788782)
+💬 100 points | 🧑‍💻 by sohkamyung
 
-### 4. [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
-💬 654 points | 🧑‍💻 by mmulet
+### 4. [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
+💬 298 points | 🧑‍💻 by mustaphah
 
-### 5. [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
-💬 34 points | 🧑‍💻 by nobody9999
+### 5. [Claude's memory architecture is the opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
+💬 220 points | 🧑‍💻 by shloked
 

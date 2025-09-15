@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-15)
 
-### 1. [We traded blogs for black boxes, now we're paying for it](https://tekhne.dev/internet-resist/)
-💬 52 points | 🧑‍💻 by Improvement
+### 1. [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
+💬 147 points | 🧑‍💻 by westurner
 
-### 2. [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
-💬 134 points | 🧑‍💻 by gaws
+### 2. [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
+💬 26 points | 🧑‍💻 by hydrox24
 
-### 3. [Danish supermarket chain is setting up "Emergency Stores"](https://swiss.social/@swaldorff/115186445638788782)
-💬 100 points | 🧑‍💻 by sohkamyung
+### 3. [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
+💬 178 points | 🧑‍💻 by Avshalom
 
-### 4. [Top model scores may be skewed by Git history leaks in SWE-bench](https://github.com/SWE-bench/SWE-bench/issues/465)
-💬 298 points | 🧑‍💻 by mustaphah
+### 4. [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+💬 38 points | 🧑‍💻 by simonpure
 
-### 5. [Claude's memory architecture is the opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
-💬 220 points | 🧑‍💻 by shloked
+### 5. [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
+💬 119 points | 🧑‍💻 by pfexec
 

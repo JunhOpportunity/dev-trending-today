@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-16)
 
-### 1. [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
-💬 147 points | 🧑‍💻 by westurner
+### 1. [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+💬 689 points | 🧑‍💻 by BogdanTheGeek
 
-### 2. [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
-💬 26 points | 🧑‍💻 by hydrox24
+### 2. [The awe keeps dropping](https://morrick.me/archives/10137)
+💬 53 points | 🧑‍💻 by mgrayson
 
-### 3. [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
-💬 178 points | 🧑‍💻 by Avshalom
+### 3. [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
+💬 140 points | 🧑‍💻 by exvi
 
-### 4. [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
-💬 38 points | 🧑‍💻 by simonpure
+### 4. [React is winning by default and slowing innovation](https://www.lorenstew.art/blog/react-won-by-default/)
+💬 267 points | 🧑‍💻 by dbushell
 
-### 5. [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
-💬 119 points | 🧑‍💻 by pfexec
+### 5. [macOS Tahoe](https://www.apple.com/os/macos/)
+💬 282 points | 🧑‍💻 by Wingy
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-17)
 
-### 1. [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
-💬 689 points | 🧑‍💻 by BogdanTheGeek
+### 1. [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
+💬 888 points | 🧑‍💻 by jamesberthoty
 
-### 2. [The awe keeps dropping](https://morrick.me/archives/10137)
-💬 53 points | 🧑‍💻 by mgrayson
+### 2. [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142)
+💬 113 points | 🧑‍💻 by jerlam
 
-### 3. [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
-💬 140 points | 🧑‍💻 by exvi
+### 3. [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
+💬 608 points | 🧑‍💻 by mihau
 
-### 4. [React is winning by default and slowing innovation](https://www.lorenstew.art/blog/react-won-by-default/)
-💬 267 points | 🧑‍💻 by dbushell
+### 4. [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
+💬 202 points | 🧑‍💻 by lwhsiao
 
-### 5. [macOS Tahoe](https://www.apple.com/os/macos/)
-💬 282 points | 🧑‍💻 by Wingy
+### 5. [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
+💬 506 points | 🧑‍💻 by slu
 

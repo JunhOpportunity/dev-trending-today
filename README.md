@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-18)
 
-### 1. [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
-💬 888 points | 🧑‍💻 by jamesberthoty
+### 1. [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+💬 82 points | 🧑‍💻 by martpie
 
-### 2. [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142)
-💬 113 points | 🧑‍💻 by jerlam
+### 2. [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
+💬 684 points | 🧑‍💻 by todsacerdoti
 
-### 3. [Things you can do with a Software Defined Radio (2024)](https://blinry.org/50-things-with-sdr/)
-💬 608 points | 🧑‍💻 by mihau
+### 3. [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
+💬 191 points | 🧑‍💻 by moatmoat
 
-### 4. [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
-💬 202 points | 🧑‍💻 by lwhsiao
+### 4. [Apple Photos app corrupts images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
+💬 971 points | 🧑‍💻 by pattyj
 
-### 5. [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
-💬 506 points | 🧑‍💻 by slu
+### 5. [Boring is good](https://jenson.org/boring/)
+💬 54 points | 🧑‍💻 by zdw
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-19)
 
-### 1. [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
-💬 82 points | 🧑‍💻 by martpie
+### 1. [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
+💬 269 points | 🧑‍💻 by ingve
 
-### 2. [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-💬 684 points | 🧑‍💻 by todsacerdoti
+### 2. [The Sagrada Família Takes Its Final Shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
+💬 140 points | 🧑‍💻 by pseudolus
 
-### 3. [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
-💬 191 points | 🧑‍💻 by moatmoat
+### 3. [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
+💬 827 points | 🧑‍💻 by stycznik
 
-### 4. [Apple Photos app corrupts images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
-💬 971 points | 🧑‍💻 by pattyj
+### 4. [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
+💬 22 points | 🧑‍💻 by ewf
 
-### 5. [Boring is good](https://jenson.org/boring/)
-💬 54 points | 🧑‍💻 by zdw
+### 5. [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+💬 187 points | 🧑‍💻 by jordigh
 

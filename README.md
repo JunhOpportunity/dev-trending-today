@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-22)
 
-### 1. [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
-💬 269 points | 🧑‍💻 by ingve
+### 1. [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
+💬 56 points | 🧑‍💻 by mattjhall
 
-### 2. [The Sagrada Família Takes Its Final Shape](https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch)
-💬 140 points | 🧑‍💻 by pseudolus
+### 2. [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
+💬 308 points | 🧑‍💻 by simonpure
 
-### 3. [Nvidia buys $5B in Intel](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
-💬 827 points | 🧑‍💻 by stycznik
+### 3. [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
+💬 54 points | 🧑‍💻 by colonCapitalDee
 
-### 4. [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
-💬 22 points | 🧑‍💻 by ewf
+### 4. [Show HN: I wrote an OS in 1000 lines of Zig](https://github.com/botirk38/OS-1000-lines-zig)
+💬 104 points | 🧑‍💻 by botirk
 
-### 5. [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
-💬 187 points | 🧑‍💻 by jordigh
+### 5. [My new Git utility `what-changed-twice` needs a new name](https://blog.plover.com/2025/09/21/#what-changed-twice)
+💬 32 points | 🧑‍💻 by jamesbowman
 

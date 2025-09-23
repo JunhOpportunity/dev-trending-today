@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-23)
 
-### 1. [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
-💬 56 points | 🧑‍💻 by mattjhall
+### 1. [Are We Chasing Language Hype over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems/)
+💬 64 points | 🧑‍💻 by ibobev
 
-### 2. [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
-💬 308 points | 🧑‍💻 by simonpure
+### 2. [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
+💬 327 points | 🧑‍💻 by meetpateltech
 
-### 3. [Lightweight, highly accurate line and paragraph detection](https://arxiv.org/abs/2203.09638)
-💬 54 points | 🧑‍💻 by colonCapitalDee
+### 3. [The Magic Circle inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
+💬 89 points | 🧑‍💻 by wbl
 
-### 4. [Show HN: I wrote an OS in 1000 lines of Zig](https://github.com/botirk38/OS-1000-lines-zig)
-💬 104 points | 🧑‍💻 by botirk
+### 4. [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
+💬 172 points | 🧑‍💻 by voxadam
 
-### 5. [My new Git utility `what-changed-twice` needs a new name](https://blog.plover.com/2025/09/21/#what-changed-twice)
-💬 32 points | 🧑‍💻 by jamesbowman
+### 5. [Egyptian Hieroglyphic Alphabet](https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/)
+💬 16 points | 🧑‍💻 by teleforce
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-24)
 
-### 1. [Are We Chasing Language Hype over Solving Real Problems?](https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems/)
-💬 64 points | 🧑‍💻 by ibobev
+### 1. [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
+💬 93 points | 🧑‍💻 by _JamesA_
 
-### 2. [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
-💬 327 points | 🧑‍💻 by meetpateltech
+### 2. [Find SF parking cops](https://walzr.com/sf-parking/)
+💬 557 points | 🧑‍💻 by alazsengul
 
-### 3. [The Magic Circle inducts Penn and Teller](https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html)
-💬 89 points | 🧑‍💻 by wbl
+### 3. [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
+💬 42 points | 🧑‍💻 by pseudolus
 
-### 4. [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
-💬 172 points | 🧑‍💻 by voxadam
+### 4. [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
+💬 536 points | 🧑‍💻 by kingori
 
-### 5. [Egyptian Hieroglyphic Alphabet](https://discoveringegypt.com/egyptian-hieroglyphic-writing/egyptian-hieroglyphic-alphabet/)
-💬 16 points | 🧑‍💻 by teleforce
+### 5. [Qwen3-VL](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
+💬 156 points | 🧑‍💻 by natrys
 

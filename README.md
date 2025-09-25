@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-25)
 
-### 1. [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
-💬 93 points | 🧑‍💻 by _JamesA_
+### 1. [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
+💬 508 points | 🧑‍💻 by recroad
 
-### 2. [Find SF parking cops](https://walzr.com/sf-parking/)
-💬 557 points | 🧑‍💻 by alazsengul
+### 2. [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
+💬 52 points | 🧑‍💻 by snowmaker
 
-### 3. [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
-💬 42 points | 🧑‍💻 by pseudolus
+### 3. [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
+💬 322 points | 🧑‍💻 by foehrenwald
 
-### 4. [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
-💬 536 points | 🧑‍💻 by kingori
+### 4. [SonyShell – An effort to “SSH into my Sony DSLR”](https://github.com/goudvuur/sonyshell)
+💬 61 points | 🧑‍💻 by beligum
 
-### 5. [Qwen3-VL](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)
-💬 156 points | 🧑‍💻 by natrys
+### 5. [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
+💬 33 points | 🧑‍💻 by handfuloflight
 

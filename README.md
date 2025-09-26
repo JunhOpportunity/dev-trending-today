@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-26)
 
-### 1. [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
-💬 508 points | 🧑‍💻 by recroad
+### 1. [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
+💬 357 points | 🧑‍💻 by meetpateltech
 
-### 2. [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
-💬 52 points | 🧑‍💻 by snowmaker
+### 2. [Ollama Web Search](https://ollama.com/blog/web-search)
+💬 178 points | 🧑‍💻 by jmorgan
 
-### 3. [Quicksort explained IKEA-style](https://idea-instructions.com/quick-sort/)
-💬 322 points | 🧑‍💻 by foehrenwald
+### 3. [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
+💬 91 points | 🧑‍💻 by doener
 
-### 4. [SonyShell – An effort to “SSH into my Sony DSLR”](https://github.com/goudvuur/sonyshell)
-💬 61 points | 🧑‍💻 by beligum
+### 4. [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
+💬 372 points | 🧑‍💻 by meetpateltech
 
-### 5. [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)
-💬 33 points | 🧑‍💻 by handfuloflight
+### 5. [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
+💬 20 points | 🧑‍💻 by zdw
 

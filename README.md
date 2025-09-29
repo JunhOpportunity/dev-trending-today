@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-29)
 
-### 1. [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
-💬 357 points | 🧑‍💻 by meetpateltech
+### 1. [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
+💬 327 points | 🧑‍💻 by macote
 
-### 2. [Ollama Web Search](https://ollama.com/blog/web-search)
-💬 178 points | 🧑‍💻 by jmorgan
+### 2. [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
+💬 64 points | 🧑‍💻 by spikepuppet
 
-### 3. [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
-💬 91 points | 🧑‍💻 by doener
+### 3. [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
+💬 571 points | 🧑‍💻 by doener
 
-### 4. [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
-💬 372 points | 🧑‍💻 by meetpateltech
+### 4. [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
+💬 12 points | 🧑‍💻 by birdculture
 
-### 5. [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
-💬 20 points | 🧑‍💻 by zdw
+### 5. [When I say “alphabetical order”, I mean “alphabetical order”](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
+💬 357 points | 🧑‍💻 by sebtron
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-09-30)
 
-### 1. [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
-💬 327 points | 🧑‍💻 by macote
+### 1. [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
+💬 1059 points | 🧑‍💻 by adocomplete
 
-### 2. [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
-💬 64 points | 🧑‍💻 by spikepuppet
+### 2. [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
+💬 206 points | 🧑‍💻 by raldi
 
-### 3. [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
-💬 571 points | 🧑‍💻 by doener
+### 3. [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
+💬 519 points | 🧑‍💻 by polyrand
 
-### 4. [Just nuked 120 unused NPM deps from a Nx monorepo](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
-💬 12 points | 🧑‍💻 by birdculture
+### 4. [Spending Time with the Material](https://www.robinsloan.com/lab/actually-readable/)
+💬 15 points | 🧑‍💻 by thomasjb
 
-### 5. [When I say “alphabetical order”, I mean “alphabetical order”](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
-💬 357 points | 🧑‍💻 by sebtron
+### 5. [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
+💬 112 points | 🧑‍💻 by david927
 

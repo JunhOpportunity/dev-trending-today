@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-09-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-01)
 
-### 1. [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
-💬 1059 points | 🧑‍💻 by adocomplete
+### 1. [Sora 2](https://openai.com/index/sora-2/)
+💬 552 points | 🧑‍💻 by skilled
 
-### 2. [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
-💬 206 points | 🧑‍💻 by raldi
+### 2. [Drunk CSS](https://shkspr.mobi/blog/2025/09/drunk-css/)
+💬 31 points | 🧑‍💻 by FromTheArchives
 
-### 3. [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
-💬 519 points | 🧑‍💻 by polyrand
+### 3. [Diff Algorithms](https://flo.znkr.io/diff/)
+💬 134 points | 🧑‍💻 by znkr
 
-### 4. [Spending Time with the Material](https://www.robinsloan.com/lab/actually-readable/)
-💬 15 points | 🧑‍💻 by thomasjb
+### 4. [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
+💬 197 points | 🧑‍💻 by bookofjoe
 
-### 5. [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
-💬 112 points | 🧑‍💻 by david927
+### 5. [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272)
+💬 67 points | 🧑‍💻 by Anon84
 

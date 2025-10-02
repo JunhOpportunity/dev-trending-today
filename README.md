@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-02)
 
-### 1. [Sora 2](https://openai.com/index/sora-2/)
-💬 552 points | 🧑‍💻 by skilled
+### 1. [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
+💬 63 points | 🧑‍💻 by bigflern
 
-### 2. [Drunk CSS](https://shkspr.mobi/blog/2025/09/drunk-css/)
-💬 31 points | 🧑‍💻 by FromTheArchives
+### 2. [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
+💬 28 points | 🧑‍💻 by eatonphil
 
-### 3. [Diff Algorithms](https://flo.znkr.io/diff/)
-💬 134 points | 🧑‍💻 by znkr
+### 3. [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+💬 76 points | 🧑‍💻 by andsoitis
 
-### 4. [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
-💬 197 points | 🧑‍💻 by bookofjoe
+### 4. [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
+💬 490 points | 🧑‍💻 by joshcsimmons
 
-### 5. [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272)
-💬 67 points | 🧑‍💻 by Anon84
+### 5. [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
+💬 202 points | 🧑‍💻 by rjakob
 

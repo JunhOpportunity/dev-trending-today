@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-03)
 
-### 1. [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
-💬 63 points | 🧑‍💻 by bigflern
+### 1. [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
+💬 442 points | 🧑‍💻 by pluto_modadic
 
-### 2. [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
-💬 28 points | 🧑‍💻 by eatonphil
+### 2. [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
+💬 93 points | 🧑‍💻 by penetralium
 
-### 3. [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
-💬 76 points | 🧑‍💻 by andsoitis
+### 3. [Babel is why I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
+💬 177 points | 🧑‍💻 by ibobev
 
-### 4. [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
-💬 490 points | 🧑‍💻 by joshcsimmons
+### 4. [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
+💬 8 points | 🧑‍💻 by hhs
 
-### 5. [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
-💬 202 points | 🧑‍💻 by rjakob
+### 5. [Playball – Watch MLB games from a terminal](https://github.com/paaatrick/playball)
+💬 227 points | 🧑‍💻 by ohjeez
 

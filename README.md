@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-06)
 
-### 1. [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
-💬 442 points | 🧑‍💻 by pluto_modadic
+### 1. [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+💬 976 points | 🧑‍💻 by ksec
 
-### 2. [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh)
-💬 93 points | 🧑‍💻 by penetralium
+### 2. [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
+💬 104 points | 🧑‍💻 by bilsbie
 
-### 3. [Babel is why I keep blogging with Emacs](https://entropicthoughts.com/why-stick-to-emacs-blog)
-💬 177 points | 🧑‍💻 by ibobev
+### 3. [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
+💬 64 points | 🧑‍💻 by dagmx
 
-### 4. [Researchers develop molecular qubits that communicate at telecom frequencies](https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies)
-💬 8 points | 🧑‍💻 by hhs
+### 4. [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
+💬 170 points | 🧑‍💻 by fi-le
 
-### 5. [Playball – Watch MLB games from a terminal](https://github.com/paaatrick/playball)
-💬 227 points | 🧑‍💻 by ohjeez
+### 5. [The G in GPU is for Graphics damnit](https://ut21.github.io/blog/triton.html)
+💬 62 points | 🧑‍💻 by sebg
 

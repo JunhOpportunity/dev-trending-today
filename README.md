@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-08)
 
-### 1. [Apps SDK](https://developers.openai.com/apps-sdk/)
-💬 281 points | 🧑‍💻 by alvis
+### 1. [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+💬 340 points | 🧑‍💻 by mfiguiere
 
-### 2. [Kirigami-inspired parachute falls on target](https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/)
-💬 149 points | 🧑‍💻 by sohkamyung
+### 2. [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
+💬 994 points | 🧑‍💻 by janjongboom
 
-### 3. [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
-💬 103 points | 🧑‍💻 by ravenical
+### 3. [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
+💬 56 points | 🧑‍💻 by praptak
 
-### 4. [Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)](https://windscribe.com/blog/the-vpn-relationship-map/)
-💬 227 points | 🧑‍💻 by walterbell
+### 4. [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
+💬 30 points | 🧑‍💻 by rjknight
 
-### 5. [OpenZL: An open source format-aware compression framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
-💬 242 points | 🧑‍💻 by terrelln
+### 5. [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
+💬 81 points | 🧑‍💻 by jacquesm
 

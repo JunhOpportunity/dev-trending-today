@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-09)
 
-### 1. [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-💬 340 points | 🧑‍💻 by mfiguiere
+### 1. [We found a bug in Go's ARM64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
+💬 552 points | 🧑‍💻 by jgrahamc
 
-### 2. [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
-💬 994 points | 🧑‍💻 by janjongboom
+### 2. [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
+💬 130 points | 🧑‍💻 by nateb2022
 
-### 3. [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
-💬 56 points | 🧑‍💻 by praptak
+### 3. [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
+💬 22 points | 🧑‍💻 by 1vuio0pswjnm7
 
-### 4. [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
-💬 30 points | 🧑‍💻 by rjknight
+### 4. [PWA Browser Scorecards](https://pwascore.com/)
+💬 74 points | 🧑‍💻 by CharlesW
 
-### 5. [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
-💬 81 points | 🧑‍💻 by jacquesm
+### 5. [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
+💬 63 points | 🧑‍💻 by reillychase
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-13)
 
-### 1. [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
-💬 689 points | 🧑‍💻 by meetpateltech
+### 1. [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
+💬 345 points | 🧑‍💻 by hasheddan
 
-### 2. [Python 3.14 is here. How fast is it?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
-💬 377 points | 🧑‍💻 by pjmlp
+### 2. [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
+💬 110 points | 🧑‍💻 by bakigul
 
-### 3. [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
-💬 50 points | 🧑‍💻 by pgedge_postgres
+### 3. [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
+💬 111 points | 🧑‍💻 by david927
 
-### 4. [How to write in Cuneiform, the oldest writing system in the world](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
-💬 40 points | 🧑‍💻 by PaulHoule
+### 4. [My first week of vibecoding](https://underreacted.leaflet.pub/3m2v53oi4bk2z)
+💬 18 points | 🧑‍💻 by danabramov
 
-### 5. [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
-💬 105 points | 🧑‍💻 by gmays
+### 5. [Show HN: Baby's First International Landline](https://wip.tf/posts/telefonefix-building-babys-first-international-landline/)
+💬 38 points | 🧑‍💻 by nbr23
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-14)
 
-### 1. [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
-💬 345 points | 🧑‍💻 by hasheddan
+### 1. [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
+💬 62 points | 🧑‍💻 by JumpCrisscross
 
-### 2. [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
-💬 110 points | 🧑‍💻 by bakigul
+### 2. [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+💬 857 points | 🧑‍💻 by huseyinkeles
 
-### 3. [Ask HN: What are you working on? (October 2025)](https://news.ycombinator.com/item?id=45561428)
-💬 111 points | 🧑‍💻 by david927
+### 3. [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
+💬 297 points | 🧑‍💻 by piskov
 
-### 4. [My first week of vibecoding](https://underreacted.leaflet.pub/3m2v53oi4bk2z)
-💬 18 points | 🧑‍💻 by danabramov
+### 4. [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
+💬 46 points | 🧑‍💻 by ibobev
 
-### 5. [Show HN: Baby's First International Landline](https://wip.tf/posts/telefonefix-building-babys-first-international-landline/)
-💬 38 points | 🧑‍💻 by nbr23
+### 5. [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
+💬 112 points | 🧑‍💻 by rbanffy
 

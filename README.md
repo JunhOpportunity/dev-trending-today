@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-15)
 
-### 1. [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
-💬 62 points | 🧑‍💻 by JumpCrisscross
+### 1. [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
+💬 236 points | 🧑‍💻 by g-b-r
 
-### 2. [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
-💬 857 points | 🧑‍💻 by huseyinkeles
+### 2. [Beliefs that are true for regular software but false when applied to AI](https://boydkane.com/essays/boss)
+💬 223 points | 🧑‍💻 by beyarkay
 
-### 3. [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html)
-💬 297 points | 🧑‍💻 by piskov
+### 3. [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
+💬 192 points | 🧑‍💻 by jamesbowman
 
-### 4. [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
-💬 46 points | 🧑‍💻 by ibobev
+### 4. [Hacking the Humane AI Pin](https://writings.agg.im/posts/hacking_ai_pin/)
+💬 64 points | 🧑‍💻 by agg23
 
-### 5. [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html)
-💬 112 points | 🧑‍💻 by rbanffy
+### 5. [How AI hears accents: An audible visualization of accent clusters](https://accent-explorer.boldvoice.com/)
+💬 161 points | 🧑‍💻 by ilyausorov
 

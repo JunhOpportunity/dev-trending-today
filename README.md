@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-16)
 
-### 1. [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
-💬 236 points | 🧑‍💻 by g-b-r
+### 1. [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
+💬 951 points | 🧑‍💻 by mihau
 
-### 2. [Beliefs that are true for regular software but false when applied to AI](https://boydkane.com/essays/boss)
-💬 223 points | 🧑‍💻 by beyarkay
+### 2. [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
+💬 441 points | 🧑‍💻 by adocomplete
 
-### 3. [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be)
-💬 192 points | 🧑‍💻 by jamesbowman
+### 3. [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
+💬 149 points | 🧑‍💻 by ronbenton
 
-### 4. [Hacking the Humane AI Pin](https://writings.agg.im/posts/hacking_ai_pin/)
-💬 64 points | 🧑‍💻 by agg23
+### 4. [I'm recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
+💬 71 points | 🧑‍💻 by trinsic2
 
-### 5. [How AI hears accents: An audible visualization of accent clusters](https://accent-explorer.boldvoice.com/)
-💬 161 points | 🧑‍💻 by ilyausorov
+### 5. [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
+💬 107 points | 🧑‍💻 by francislavoie
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-17)
 
-### 1. [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
-💬 951 points | 🧑‍💻 by mihau
+### 1. [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
+💬 521 points | 🧑‍💻 by pixelmelt
 
-### 2. [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
-💬 441 points | 🧑‍💻 by adocomplete
+### 2. [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
+💬 65 points | 🧑‍💻 by zdw
 
-### 3. [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
-💬 149 points | 🧑‍💻 by ronbenton
+### 3. [Claude Skills](https://www.anthropic.com/news/skills)
+💬 467 points | 🧑‍💻 by meetpateltech
 
-### 4. [I'm recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
-💬 71 points | 🧑‍💻 by trinsic2
+### 4. [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
+💬 118 points | 🧑‍💻 by bentaber
 
-### 5. [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
-💬 107 points | 🧑‍💻 by francislavoie
+### 5. [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
+💬 30 points | 🧑‍💻 by gmays
 

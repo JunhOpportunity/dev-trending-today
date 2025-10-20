@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-20)
 
-### 1. [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
-💬 521 points | 🧑‍💻 by pixelmelt
+### 1. [Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
+💬 243 points | 🧑‍💻 by jbm
 
-### 2. [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
-💬 65 points | 🧑‍💻 by zdw
+### 2. [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
+💬 385 points | 🧑‍💻 by peterkshultz
 
-### 3. [Claude Skills](https://www.anthropic.com/news/skills)
-💬 467 points | 🧑‍💻 by meetpateltech
+### 3. [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
+💬 24 points | 🧑‍💻 by ibobev
 
-### 4. [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
-💬 118 points | 🧑‍💻 by bentaber
+### 4. [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
+💬 83 points | 🧑‍💻 by birdculture
 
-### 5. [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
-💬 30 points | 🧑‍💻 by gmays
+### 5. [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
+💬 207 points | 🧑‍💻 by d_silin
 

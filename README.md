@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-21)
 
-### 1. [Novo Nordisk's Canadian Mistake](https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake)
-💬 243 points | 🧑‍💻 by jbm
+### 1. [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
+💬 159 points | 🧑‍💻 by ashvardanian
 
-### 2. [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html)
-💬 385 points | 🧑‍💻 by peterkshultz
+### 2. [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
+💬 1616 points | 🧑‍💻 by kondro
 
-### 3. [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
-💬 24 points | 🧑‍💻 by ibobev
+### 3. [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
+💬 67 points | 🧑‍💻 by SchwKatze
 
-### 4. [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
-💬 83 points | 🧑‍💻 by birdculture
+### 4. [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
+💬 366 points | 🧑‍💻 by adocomplete
 
-### 5. [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
-💬 207 points | 🧑‍💻 by d_silin
+### 5. [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
+💬 218 points | 🧑‍💻 by thunderbong
 

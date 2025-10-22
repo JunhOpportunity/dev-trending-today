@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-22)
 
-### 1. [Intel and AMD standardise ChkTag to bring Memory Safety to x86](https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490)
-💬 159 points | 🧑‍💻 by ashvardanian
+### 1. ["Butt breathing" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
+💬 92 points | 🧑‍💻 by zdw
 
-### 2. [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
-💬 1616 points | 🧑‍💻 by kondro
+### 2. [Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB](https://cdb.cr.yp.to/)
+💬 45 points | 🧑‍💻 by kreco
 
-### 3. [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
-💬 67 points | 🧑‍💻 by SchwKatze
+### 3. [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
+💬 103 points | 🧑‍💻 by fschuett
 
-### 4. [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
-💬 366 points | 🧑‍💻 by adocomplete
+### 4. [PoE basics and beyond: What every engineer should know](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
+💬 45 points | 🧑‍💻 by voxadam
 
-### 5. [A laser pointer at 2B FPS [video]](https://www.youtube.com/watch?v=o4TdHrMi6do)
-💬 218 points | 🧑‍💻 by thunderbong
+### 5. [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
+💬 385 points | 🧑‍💻 by jryio
 

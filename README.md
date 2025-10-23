@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-23)
 
-### 1. ["Butt breathing" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
-💬 92 points | 🧑‍💻 by zdw
+### 1. [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
+💬 239 points | 🧑‍💻 by janpio
 
-### 2. [Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB](https://cdb.cr.yp.to/)
-💬 45 points | 🧑‍💻 by kreco
+### 2. [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
+💬 246 points | 🧑‍💻 by montyanderson
 
-### 3. [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
-💬 103 points | 🧑‍💻 by fschuett
+### 3. [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
+💬 379 points | 🧑‍💻 by AbhishekParmar
 
-### 4. [PoE basics and beyond: What every engineer should know](https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/)
-💬 45 points | 🧑‍💻 by voxadam
+### 4. [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
+💬 234 points | 🧑‍💻 by galnagli
 
-### 5. [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
-💬 385 points | 🧑‍💻 by jryio
+### 5. [Play abstract strategy board games online with friends or against bots](https://abstractboardgames.com/)
+💬 46 points | 🧑‍💻 by abstractbg
 

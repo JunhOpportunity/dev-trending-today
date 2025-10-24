@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-24)
 
-### 1. [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
-💬 239 points | 🧑‍💻 by janpio
+### 1. [Betty White's shoulder bag is a time capsule of World War II](https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii)
+💬 88 points | 🧑‍💻 by thunderbong
 
-### 2. [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
-💬 246 points | 🧑‍💻 by montyanderson
+### 2. [Claude Memory](https://www.anthropic.com/news/memory)
+💬 367 points | 🧑‍💻 by doppp
 
-### 3. [Willow quantum chip demonstrates verifiable quantum advantage on hardware](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
-💬 379 points | 🧑‍💻 by AbhishekParmar
+### 3. [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
+💬 66 points | 🧑‍💻 by ingve
 
-### 4. [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
-💬 234 points | 🧑‍💻 by galnagli
+### 4. [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
+💬 143 points | 🧑‍💻 by swills
 
-### 5. [Play abstract strategy board games online with friends or against bots](https://abstractboardgames.com/)
-💬 46 points | 🧑‍💻 by abstractbg
+### 5. [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing)
+💬 63 points | 🧑‍💻 by melissapan
 

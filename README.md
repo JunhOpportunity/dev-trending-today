@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-28)
 
-### 1. [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
-💬 88 points | 🧑‍💻 by gnabgib
+### 1. [Easy RISC-V](https://dramforever.github.io/easyriscv/)
+💬 159 points | 🧑‍💻 by todsacerdoti
 
-### 2. [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
-💬 99 points | 🧑‍💻 by dvirbt
+### 2. [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
+💬 807 points | 🧑‍💻 by Brajeshwar
 
-### 3. [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
-💬 29 points | 🧑‍💻 by luismedel
+### 3. [Claude for Excel](https://www.claude.com/claude-for-excel)
+💬 453 points | 🧑‍💻 by meetpateltech
 
-### 4. [Sandhill cranes have adopted a Canada gosling](https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/)
-💬 29 points | 🧑‍💻 by NaOH
+### 4. [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
+💬 38 points | 🧑‍💻 by janandonly
 
-### 5. [A definition of AGI](https://arxiv.org/abs/2510.18212)
-💬 148 points | 🧑‍💻 by pegasus
+### 5. [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
+💬 172 points | 🧑‍💻 by reqo
 

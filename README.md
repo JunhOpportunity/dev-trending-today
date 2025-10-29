@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-29)
 
-### 1. [Easy RISC-V](https://dramforever.github.io/easyriscv/)
-💬 159 points | 🧑‍💻 by todsacerdoti
+### 1. [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+💬 705 points | 🧑‍💻 by rom1v
 
-### 2. [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
-💬 807 points | 🧑‍💻 by Brajeshwar
+### 2. [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
+💬 516 points | 🧑‍💻 by NotInOurNames
 
-### 3. [Claude for Excel](https://www.claude.com/claude-for-excel)
-💬 453 points | 🧑‍💻 by meetpateltech
+### 3. [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
+💬 152 points | 🧑‍💻 by gaws
 
-### 4. [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
-💬 38 points | 🧑‍💻 by janandonly
+### 4. [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
+💬 117 points | 🧑‍💻 by jxmorris12
 
-### 5. [Simplify your code: Functional core, imperative shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
-💬 172 points | 🧑‍💻 by reqo
+### 5. [Project Shadowglass](https://shadowglassgame.com)
+💬 16 points | 🧑‍💻 by layer8
 

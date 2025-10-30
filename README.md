@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-30)
 
-### 1. [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
-💬 705 points | 🧑‍💻 by rom1v
+### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+💬 1121 points | 🧑‍💻 by todsacerdoti
 
-### 2. [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
-💬 516 points | 🧑‍💻 by NotInOurNames
+### 2. [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
+💬 130 points | 🧑‍💻 by anigbrowl
 
-### 3. [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
-💬 152 points | 🧑‍💻 by gaws
+### 3. [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
+💬 130 points | 🧑‍💻 by Daiz
 
-### 4. [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-💬 117 points | 🧑‍💻 by jxmorris12
+### 4. [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
+💬 350 points | 🧑‍💻 by Brajeshwar
 
-### 5. [Project Shadowglass](https://shadowglassgame.com)
-💬 16 points | 🧑‍💻 by layer8
+### 5. [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
+💬 640 points | 🧑‍💻 by tartieret
 

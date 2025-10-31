@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-10-31)
 
-### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-💬 1121 points | 🧑‍💻 by todsacerdoti
+### 1. [Affinity Studio now free](https://www.affinity.studio/get-affinity)
+💬 795 points | 🧑‍💻 by dagmx
 
-### 2. [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
-💬 130 points | 🧑‍💻 by anigbrowl
+### 2. [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+💬 80 points | 🧑‍💻 by nomilk
 
-### 3. [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
-💬 130 points | 🧑‍💻 by Daiz
+### 3. [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
+💬 30 points | 🧑‍💻 by blackcat201
 
-### 4. [China has added forest the size of Texas since 1990](https://e360.yale.edu/digest/china-new-forest-report)
-💬 350 points | 🧑‍💻 by Brajeshwar
+### 4. [The ear does not do a Fourier transform (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
+💬 352 points | 🧑‍💻 by izhak
 
-### 5. [Tell HN: Azure outage](https://news.ycombinator.com/item?id=45748661)
-💬 640 points | 🧑‍💻 by tartieret
+### 5. [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/)
+💬 25 points | 🧑‍💻 by samclemens
 

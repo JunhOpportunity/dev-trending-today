@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-10-31)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-03)
 
-### 1. [Affinity Studio now free](https://www.affinity.studio/get-affinity)
-💬 795 points | 🧑‍💻 by dagmx
+### 1. [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
+💬 185 points | 🧑‍💻 by rbanffy
 
-### 2. [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
-💬 80 points | 🧑‍💻 by nomilk
+### 2. [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+💬 149 points | 🧑‍💻 by cjbarber
 
-### 3. [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
-💬 30 points | 🧑‍💻 by blackcat201
+### 3. [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
+💬 214 points | 🧑‍💻 by todsacerdoti
 
-### 4. [The ear does not do a Fourier transform (2024)](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
-💬 352 points | 🧑‍💻 by izhak
+### 4. [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
+💬 82 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road](https://theamericanscholar.org/scrolling-through/)
-💬 25 points | 🧑‍💻 by samclemens
+### 5. [Why don't you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
+💬 180 points | 🧑‍💻 by baruchel
 

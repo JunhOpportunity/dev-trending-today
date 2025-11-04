@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-04)
 
-### 1. [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
-💬 185 points | 🧑‍💻 by rbanffy
+### 1. [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+💬 49 points | 🧑‍💻 by zdw
 
-### 2. [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
-💬 149 points | 🧑‍💻 by cjbarber
+### 2. [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
+💬 142 points | 🧑‍💻 by nowflux
 
-### 3. [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
-💬 214 points | 🧑‍💻 by todsacerdoti
+### 3. [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
+💬 67 points | 🧑‍💻 by surprisetalk
 
-### 4. [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
-💬 82 points | 🧑‍💻 by todsacerdoti
+### 4. [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
+💬 50 points | 🧑‍💻 by 0xkato
 
-### 5. [Why don't you use dependent types?](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
-💬 180 points | 🧑‍💻 by baruchel
+### 5. [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
+💬 292 points | 🧑‍💻 by whoishiring
 

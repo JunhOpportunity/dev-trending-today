@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-06)
 
-### 1. [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
-💬 189 points | 🧑‍💻 by speckx
+### 1. [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
+💬 538 points | 🧑‍💻 by JoiDegn
 
-### 2. [Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos](https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/)
-💬 41 points | 🧑‍💻 by dmarcos
+### 2. [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
+💬 229 points | 🧑‍💻 by nazgulsenpai
 
-### 3. [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
-💬 49 points | 🧑‍💻 by mmoogle
+### 3. [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
+💬 204 points | 🧑‍💻 by randycupertino
 
-### 4. [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
-💬 300 points | 🧑‍💻 by canucker2016
+### 4. [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
+💬 10 points | 🧑‍💻 by eatonphil
 
-### 5. [Pg_lake: Postgres with Iceberg and data lake access](https://github.com/Snowflake-Labs/pg_lake)
-💬 274 points | 🧑‍💻 by plaur782
+### 5. [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
+💬 159 points | 🧑‍💻 by ashvardanian
 

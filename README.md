@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-07)
 
-### 1. [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
-💬 538 points | 🧑‍💻 by JoiDegn
+### 1. [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
+💬 299 points | 🧑‍💻 by tabletcorry
 
-### 2. [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
-💬 229 points | 🧑‍💻 by nazgulsenpai
+### 2. [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
+💬 28 points | 🧑‍💻 by stevenjgarner
 
-### 3. [ChatGPT terms disallow its use in providing legal and medical advice to others](https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/)
-💬 204 points | 🧑‍💻 by randycupertino
+### 3. [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
+💬 331 points | 🧑‍💻 by esnard
 
-### 4. [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
-💬 10 points | 🧑‍💻 by eatonphil
+### 4. [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
+💬 100 points | 🧑‍💻 by vrnvu
 
-### 5. [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
-💬 159 points | 🧑‍💻 by ashvardanian
+### 5. [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
+💬 582 points | 🧑‍💻 by nekofneko
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-10)
 
-### 1. [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
-💬 299 points | 🧑‍💻 by tabletcorry
+### 1. [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
+💬 501 points | 🧑‍💻 by chris_overseas
 
-### 2. [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
-💬 28 points | 🧑‍💻 by stevenjgarner
+### 2. [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
+💬 128 points | 🧑‍💻 by david927
 
-### 3. [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
-💬 331 points | 🧑‍💻 by esnard
+### 3. [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)
+💬 7 points | 🧑‍💻 by hhameed
 
-### 4. [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-💬 100 points | 🧑‍💻 by vrnvu
+### 4. [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
+💬 341 points | 🧑‍💻 by bilsbie
 
-### 5. [Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model](https://moonshotai.github.io/Kimi-K2/thinking.html)
-💬 582 points | 🧑‍💻 by nekofneko
+### 5. [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
+💬 83 points | 🧑‍💻 by rzk
 

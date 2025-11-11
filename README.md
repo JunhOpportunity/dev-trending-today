@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-11)
 
-### 1. [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
-💬 501 points | 🧑‍💻 by chris_overseas
+### 1. [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
+💬 22 points | 🧑‍💻 by paulmooreparks
 
-### 2. [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
-💬 128 points | 🧑‍💻 by david927
+### 2. [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
+💬 129 points | 🧑‍💻 by PaulHoule
 
-### 3. [Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface](https://www.llmonestop.com)
-💬 7 points | 🧑‍💻 by hhameed
+### 3. [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
+💬 450 points | 🧑‍💻 by lindowe
 
-### 4. [Montana becomes first state to enshrine 'right to compute' into law](https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/)
-💬 341 points | 🧑‍💻 by bilsbie
+### 4. [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
+💬 149 points | 🧑‍💻 by cbzbc
 
-### 5. [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
-💬 83 points | 🧑‍💻 by rzk
+### 5. [The lazy Git UI you didn't know you need](https://www.bwplotka.dev/2025/lazygit/)
+💬 217 points | 🧑‍💻 by linhns
 

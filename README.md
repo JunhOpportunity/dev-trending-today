@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-12)
 
-### 1. [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
-💬 22 points | 🧑‍💻 by paulmooreparks
+### 1. [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+💬 151 points | 🧑‍💻 by sva_
 
-### 2. [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
-💬 129 points | 🧑‍💻 by PaulHoule
+### 2. [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
+💬 113 points | 🧑‍💻 by jamesbelchamber
 
-### 3. [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
-💬 450 points | 🧑‍💻 by lindowe
+### 3. [Laptops adorned with creative stickers](https://stickertop.art/main/)
+💬 170 points | 🧑‍💻 by z303
 
-### 4. [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
-💬 149 points | 🧑‍💻 by cbzbc
+### 4. [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
+💬 64 points | 🧑‍💻 by zeristor
 
-### 5. [The lazy Git UI you didn't know you need](https://www.bwplotka.dev/2025/lazygit/)
-💬 217 points | 🧑‍💻 by linhns
+### 5. [The US Do Not Call registry is offline](https://www.donotcall.gov/)
+💬 7 points | 🧑‍💻 by OvidStavrica
 

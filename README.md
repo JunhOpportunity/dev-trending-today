@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-13)
 
-### 1. [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
-💬 151 points | 🧑‍💻 by sva_
+### 1. [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+💬 114 points | 🧑‍💻 by erohead
 
-### 2. [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
-💬 113 points | 🧑‍💻 by jamesbelchamber
+### 2. [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
+💬 566 points | 🧑‍💻 by andrewl
 
-### 3. [Laptops adorned with creative stickers](https://stickertop.art/main/)
-💬 170 points | 🧑‍💻 by z303
+### 3. [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
+💬 98 points | 🧑‍💻 by meetpateltech
 
-### 4. [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
-💬 64 points | 🧑‍💻 by zeristor
+### 4. [Project Euler](https://projecteuler.net)
+💬 330 points | 🧑‍💻 by swatson741
 
-### 5. [The US Do Not Call registry is offline](https://www.donotcall.gov/)
-💬 7 points | 🧑‍💻 by OvidStavrica
+### 5. [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
+💬 877 points | 🧑‍💻 by bertman
 

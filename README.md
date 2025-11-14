@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-14)
 
-### 1. [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
-💬 114 points | 🧑‍💻 by erohead
+### 1. [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
+💬 38 points | 🧑‍💻 by soheilpro
 
-### 2. [The last-ever penny will be minted today in Philadelphia](https://www.cnn.com/2025/11/12/business/last-penny-minted)
-💬 566 points | 🧑‍💻 by andrewl
+### 2. [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
+💬 451 points | 🧑‍💻 by minimaxir
 
-### 3. [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
-💬 98 points | 🧑‍💻 by meetpateltech
+### 3. [Zed is our office](https://zed.dev/blog/zed-is-our-office)
+💬 475 points | 🧑‍💻 by sagacity
 
-### 4. [Project Euler](https://projecteuler.net)
-💬 330 points | 🧑‍💻 by swatson741
+### 4. [650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
+💬 77 points | 🧑‍💻 by tanelpoder
 
-### 5. [Yt-dlp: External JavaScript runtime now required for full YouTube support](https://github.com/yt-dlp/yt-dlp/issues/15012)
-💬 877 points | 🧑‍💻 by bertman
+### 5. [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
+💬 67 points | 🧑‍💻 by hexmiles
 

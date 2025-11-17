@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-17)
 
-### 1. [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
-💬 38 points | 🧑‍💻 by soheilpro
+### 1. [Open-source Zig book](https://www.zigbook.net)
+💬 355 points | 🧑‍💻 by rudedogg
 
-### 2. [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
-💬 451 points | 🧑‍💻 by minimaxir
+### 2. [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
+💬 107 points | 🧑‍💻 by lachlan_gray
 
-### 3. [Zed is our office](https://zed.dev/blog/zed-is-our-office)
-💬 475 points | 🧑‍💻 by sagacity
+### 3. [Browser fingerprinting via favicon](https://github.com/jonasstrehle/supercookie)
+💬 207 points | 🧑‍💻 by vxvrs
 
-### 4. [650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars)
-💬 77 points | 🧑‍💻 by tanelpoder
+### 4. [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
+💬 406 points | 🧑‍💻 by melded
 
-### 5. [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/)
-💬 67 points | 🧑‍💻 by hexmiles
+### 5. [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
+💬 33 points | 🧑‍💻 by st_goliath
 

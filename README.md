@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-18)
 
-### 1. [Open-source Zig book](https://www.zigbook.net)
-💬 355 points | 🧑‍💻 by rudedogg
+### 1. [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
+💬 187 points | 🧑‍💻 by todsacerdoti
 
-### 2. [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
-💬 107 points | 🧑‍💻 by lachlan_gray
+### 2. [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
+💬 949 points | 🧑‍💻 by random_moonwalk
 
-### 3. [Browser fingerprinting via favicon](https://github.com/jonasstrehle/supercookie)
-💬 207 points | 🧑‍💻 by vxvrs
+### 3. [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
+💬 235 points | 🧑‍💻 by speckx
 
-### 4. [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
-💬 406 points | 🧑‍💻 by melded
+### 4. [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
+💬 292 points | 🧑‍💻 by eatitraw
 
-### 5. [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
-💬 33 points | 🧑‍💻 by st_goliath
+### 5. [Project Gemini](https://geminiprotocol.net/)
+💬 220 points | 🧑‍💻 by andsoitis
 

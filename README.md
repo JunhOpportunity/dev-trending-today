@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-19)
 
-### 1. [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
-💬 187 points | 🧑‍💻 by todsacerdoti
+### 1. [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
+💬 365 points | 🧑‍💻 by eastdakota
 
-### 2. [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
-💬 949 points | 🧑‍💻 by random_moonwalk
+### 2. [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
+💬 104 points | 🧑‍💻 by birdculture
 
-### 3. [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
-💬 235 points | 🧑‍💻 by speckx
+### 3. [Gemini 3](https://blog.google/products/gemini/gemini-3/)
+💬 1165 points | 🧑‍💻 by preek
 
-### 4. [My stages of learning to be a socially normal person](https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a)
-💬 292 points | 🧑‍💻 by eatitraw
+### 4. [Google Antigravity](https://antigravity.google/)
+💬 701 points | 🧑‍💻 by Fysi
 
-### 5. [Project Gemini](https://geminiprotocol.net/)
-💬 220 points | 🧑‍💻 by andsoitis
+### 5. [Blender 5.0](https://www.blender.org/download/releases/5-0/)
+💬 449 points | 🧑‍💻 by FrostKiwi
 

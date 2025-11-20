@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-20)
 
-### 1. [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
-💬 365 points | 🧑‍💻 by eastdakota
+### 1. [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
+💬 36 points | 🧑‍💻 by LorenDB
 
-### 2. [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
-💬 104 points | 🧑‍💻 by birdculture
+### 2. [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
+💬 30 points | 🧑‍💻 by DalasNoin
 
-### 3. [Gemini 3](https://blog.google/products/gemini/gemini-3/)
-💬 1165 points | 🧑‍💻 by preek
+### 3. [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
+💬 230 points | 🧑‍💻 by DamnInteresting
 
-### 4. [Google Antigravity](https://antigravity.google/)
-💬 701 points | 🧑‍💻 by Fysi
+### 4. [Workday to acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
+💬 26 points | 🧑‍💻 by gaws
 
-### 5. [Blender 5.0](https://www.blender.org/download/releases/5-0/)
-💬 449 points | 🧑‍💻 by FrostKiwi
+### 5. [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
+💬 124 points | 🧑‍💻 by KingNoLimit
 

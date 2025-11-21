@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-21)
 
-### 1. [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
-💬 36 points | 🧑‍💻 by LorenDB
+### 1. [Nursing Excluded as 'Professional' Degree by Department of Education](https://nurse.org/news/nursing-excluded-as-professional-degree-dept-of-ed/)
+💬 87 points | 🧑‍💻 by ourmandave
 
-### 2. [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
-💬 30 points | 🧑‍💻 by DalasNoin
+### 2. [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
+💬 439 points | 🧑‍💻 by abraham
 
-### 3. [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
-💬 230 points | 🧑‍💻 by DamnInteresting
+### 3. [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
+💬 828 points | 🧑‍💻 by meetpateltech
 
-### 4. [Workday to acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream)
-💬 26 points | 🧑‍💻 by gaws
+### 4. [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
+💬 56 points | 🧑‍💻 by open-paren
 
-### 5. [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
-💬 124 points | 🧑‍💻 by KingNoLimit
+### 5. [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
+💬 112 points | 🧑‍💻 by rbanffy
 

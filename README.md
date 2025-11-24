@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-24)
 
-### 1. [Nursing Excluded as 'Professional' Degree by Department of Education](https://nurse.org/news/nursing-excluded-as-professional-degree-dept-of-ed/)
-💬 87 points | 🧑‍💻 by ourmandave
+### 1. [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
+💬 591 points | 🧑‍💻 by ChrisArchitect
 
-### 2. [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/)
-💬 439 points | 🧑‍💻 by abraham
+### 2. [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
+💬 314 points | 🧑‍💻 by arianvanp
 
-### 3. [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
-💬 828 points | 🧑‍💻 by meetpateltech
+### 3. [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
+💬 47 points | 🧑‍💻 by rbanffy
 
-### 4. [FEX-emu – Run x86 applications on ARM64 Linux devices](https://fex-emu.com/)
-💬 56 points | 🧑‍💻 by open-paren
+### 4. [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
+💬 67 points | 🧑‍💻 by todsacerdoti
 
-### 5. [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
-💬 112 points | 🧑‍💻 by rbanffy
+### 5. [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
+💬 44 points | 🧑‍💻 by t9nzin
 

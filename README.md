@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-25)
 
-### 1. [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
-💬 591 points | 🧑‍💻 by ChrisArchitect
+### 1. [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+💬 692 points | 🧑‍💻 by Larrikin
 
-### 2. [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
-💬 314 points | 🧑‍💻 by arianvanp
+### 2. [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
+💬 342 points | 🧑‍💻 by lebovic
 
-### 3. [New magnetic component discovered in the Faraday effect after nearly 2 centuries](https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html)
-💬 47 points | 🧑‍💻 by rbanffy
+### 3. [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
+💬 185 points | 🧑‍💻 by amichail
 
-### 4. [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
-💬 67 points | 🧑‍💻 by todsacerdoti
+### 4. [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
+💬 164 points | 🧑‍💻 by michalpleban
 
-### 5. [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
-💬 44 points | 🧑‍💻 by t9nzin
+### 5. [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
+💬 189 points | 🧑‍💻 by JumpCrisscross
 

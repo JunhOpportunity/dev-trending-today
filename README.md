@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-11-26)
 
-### 1. [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
-💬 692 points | 🧑‍💻 by Larrikin
+### 1. [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
+💬 84 points | 🧑‍💻 by IcyWindows
 
-### 2. [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
-💬 342 points | 🧑‍💻 by lebovic
+### 2. [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
+💬 122 points | 🧑‍💻 by digital55
 
-### 3. [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
-💬 185 points | 🧑‍💻 by amichail
+### 3. [Unifying our mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
+💬 99 points | 🧑‍💻 by todsacerdoti
 
-### 4. [Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs](https://github.com/Swordfish90/cool-retro-term)
-💬 164 points | 🧑‍💻 by michalpleban
+### 4. [What they don't tell you about maintaining an open source project](https://andrej.sh/blog/maintaining-open-source-project/)
+💬 68 points | 🧑‍💻 by andrejsshell
 
-### 5. [Three Years from GPT-3 to Gemini 3](https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini)
-💬 189 points | 🧑‍💻 by JumpCrisscross
+### 5. [A DOOM vector engine for rendering in KiCad, and over an audio jack](https://www.mikeayles.com/#kidoom)
+💬 63 points | 🧑‍💻 by mikeayles
 

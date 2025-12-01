@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-11-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-01)
 
-### 1. [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
-💬 41 points | 🧑‍💻 by 1659447091
+### 1. [In Re: 23andMe, Inc. Customer Data Security Breach Litigation](https://www.23andmedatasettlement.com/)
+💬 39 points | 🧑‍💻 by toomuchtodo
 
-### 2. [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
-💬 127 points | 🧑‍💻 by doener
+### 2. [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+💬 184 points | 🧑‍💻 by rbanffy
 
-### 3. [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
-💬 335 points | 🧑‍💻 by mfilion
+### 3. [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
+💬 83 points | 🧑‍💻 by Anon84
 
-### 4. [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
-💬 31 points | 🧑‍💻 by rdg42
+### 4. [Grokipedia Is the Antithesis of Wikipedia](https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/)
+💬 57 points | 🧑‍💻 by surprisetalk
 
-### 5. [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
-💬 121 points | 🧑‍💻 by naves
+### 5. [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+💬 330 points | 🧑‍💻 by objcts
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-02)
 
-### 1. [In Re: 23andMe, Inc. Customer Data Security Breach Litigation](https://www.23andmedatasettlement.com/)
-💬 39 points | 🧑‍💻 by toomuchtodo
+### 1. [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
+💬 553 points | 🧑‍💻 by pretext
 
-### 2. [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
-💬 184 points | 🧑‍💻 by rbanffy
+### 2. [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
+💬 449 points | 🧑‍💻 by jmsflknr
 
-### 3. [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
-💬 83 points | 🧑‍💻 by Anon84
+### 3. [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
+💬 57 points | 🧑‍💻 by bpierre
 
-### 4. [Grokipedia Is the Antithesis of Wikipedia](https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/)
-💬 57 points | 🧑‍💻 by surprisetalk
+### 4. [Last Week on My Mac: Losing confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
+💬 221 points | 🧑‍💻 by frizlab
 
-### 5. [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
-💬 330 points | 🧑‍💻 by objcts
+### 5. [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
+💬 238 points | 🧑‍💻 by kylecarbs
 

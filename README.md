@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-03)
 
-### 1. [DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)
-💬 553 points | 🧑‍💻 by pretext
+### 1. [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
+💬 1405 points | 🧑‍💻 by ryanvogel
 
-### 2. [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
-💬 449 points | 🧑‍💻 by jmsflknr
+### 2. [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+💬 236 points | 🧑‍💻 by nabla9
 
-### 3. [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
-💬 57 points | 🧑‍💻 by bpierre
+### 3. [Paged Out](https://pagedout.institute)
+💬 220 points | 🧑‍💻 by varjag
 
-### 4. [Last Week on My Mac: Losing confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
-💬 221 points | 🧑‍💻 by frizlab
+### 4. [I designed and printed a custom nose guard to help my dog with DLE](https://snoutcover.com/billie-story)
+💬 403 points | 🧑‍💻 by ragswag
 
-### 5. [Ghostty compiled to WASM with xterm.js API compatibility](https://github.com/coder/ghostty-web)
-💬 238 points | 🧑‍💻 by kylecarbs
+### 5. [OpenAI declares 'code red' as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+💬 443 points | 🧑‍💻 by goplayoutside
 

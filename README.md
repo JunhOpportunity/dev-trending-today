@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-04)
 
-### 1. [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
-💬 1405 points | 🧑‍💻 by ryanvogel
+### 1. [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
+💬 776 points | 🧑‍💻 by vrnvu
 
-### 2. [IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
-💬 236 points | 🧑‍💻 by nabla9
+### 2. [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
+💬 441 points | 🧑‍💻 by evolve2k
 
-### 3. [Paged Out](https://pagedout.institute)
-💬 220 points | 🧑‍💻 by varjag
+### 3. [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+💬 503 points | 🧑‍💻 by bearsyankees
 
-### 4. [I designed and printed a custom nose guard to help my dog with DLE](https://snoutcover.com/billie-story)
-💬 403 points | 🧑‍💻 by ragswag
+### 4. [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
+💬 361 points | 🧑‍💻 by simlevesque
 
-### 5. [OpenAI declares 'code red' as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
-💬 443 points | 🧑‍💻 by goplayoutside
+### 5. [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
+💬 333 points | 🧑‍💻 by nooks
 

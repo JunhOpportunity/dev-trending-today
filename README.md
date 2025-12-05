@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-05)
 
-### 1. [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
-💬 776 points | 🧑‍💻 by vrnvu
+### 1. [AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
+💬 125 points | 🧑‍💻 by CharlesW
 
-### 2. [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
-💬 441 points | 🧑‍💻 by evolve2k
+### 2. [BMW PHEV: When EU engineering becomes a synonym for "unrepairable" (EV Clinic)](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
+💬 33 points | 🧑‍💻 by mikelabatt
 
-### 3. [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
-💬 503 points | 🧑‍💻 by bearsyankees
+### 3. [CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL](https://github.com/deepreinforce-ai/CUDA-L2)
+💬 80 points | 🧑‍💻 by dzign
 
-### 4. [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
-💬 361 points | 🧑‍💻 by simlevesque
+### 4. [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
+💬 24 points | 🧑‍💻 by parliament32
 
-### 5. [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
-💬 333 points | 🧑‍💻 by nooks
+### 5. [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
+💬 112 points | 🧑‍💻 by anjneymidha
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-08)
 
-### 1. [AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
-💬 125 points | 🧑‍💻 by CharlesW
+### 1. [I failed to recreate the 1996 Space Jam website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
+💬 304 points | 🧑‍💻 by thecr0w
 
-### 2. [BMW PHEV: When EU engineering becomes a synonym for "unrepairable" (EV Clinic)](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
-💬 33 points | 🧑‍💻 by mikelabatt
+### 2. [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
+💬 49 points | 🧑‍💻 by defrost
 
-### 3. [CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL](https://github.com/deepreinforce-ai/CUDA-L2)
-💬 80 points | 🧑‍💻 by dzign
+### 3. [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+💬 42 points | 🧑‍💻 by ntnbr
 
-### 4. [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
-💬 24 points | 🧑‍💻 by parliament32
+### 4. [Uninitialized garbage on ia64 can be deadly (2004)](https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003)
+💬 18 points | 🧑‍💻 by HeliumHydride
 
-### 5. [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
-💬 112 points | 🧑‍💻 by anjneymidha
+### 5. [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
+💬 188 points | 🧑‍💻 by AareyBaba
 

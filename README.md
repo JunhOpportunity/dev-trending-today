@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-09)
 
-### 1. [I failed to recreate the 1996 Space Jam website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
-💬 304 points | 🧑‍💻 by thecr0w
+### 1. [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
+💬 88 points | 🧑‍💻 by pbui
 
-### 2. [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
-💬 49 points | 🧑‍💻 by defrost
+### 2. [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
+💬 53 points | 🧑‍💻 by lukeplato
 
-### 3. [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-💬 42 points | 🧑‍💻 by ntnbr
+### 3. [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
+💬 236 points | 🧑‍💻 by ArmageddonIt
 
-### 4. [Uninitialized garbage on ia64 can be deadly (2004)](https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003)
-💬 18 points | 🧑‍💻 by HeliumHydride
+### 4. [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
+💬 273 points | 🧑‍💻 by aphyr
 
-### 5. [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
-💬 188 points | 🧑‍💻 by AareyBaba
+### 5. [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
+💬 17 points | 🧑‍💻 by walterbell
 

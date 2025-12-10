@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-10)
 
-### 1. [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
-💬 88 points | 🧑‍💻 by pbui
+### 1. [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
+💬 1893 points | 🧑‍💻 by keepamovin
 
-### 2. [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
-💬 53 points | 🧑‍💻 by lukeplato
+### 2. [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
+💬 407 points | 🧑‍💻 by fsflover
 
-### 3. [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
-💬 236 points | 🧑‍💻 by ArmageddonIt
+### 3. [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
+💬 161 points | 🧑‍💻 by rbanffy
 
-### 4. [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
-💬 273 points | 🧑‍💻 by aphyr
+### 4. [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
+💬 495 points | 🧑‍💻 by pember
 
-### 5. [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
-💬 17 points | 🧑‍💻 by walterbell
+### 5. [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
+💬 323 points | 🧑‍💻 by sramsay
 

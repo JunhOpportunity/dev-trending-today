@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-11)
 
-### 1. [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
-💬 1893 points | 🧑‍💻 by keepamovin
+### 1. [Size of Life](https://neal.fun/size-of-life/)
+💬 1401 points | 🧑‍💻 by eatonphil
 
-### 2. [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
-💬 407 points | 🧑‍💻 by fsflover
+### 2. [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
+💬 238 points | 🧑‍💻 by speckx
 
-### 3. [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
-💬 161 points | 🧑‍💻 by rbanffy
+### 3. [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
+💬 569 points | 🧑‍💻 by chirau
 
-### 4. [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
-💬 495 points | 🧑‍💻 by pember
+### 4. [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
+💬 305 points | 🧑‍💻 by __rito__
 
-### 5. [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
-💬 323 points | 🧑‍💻 by sramsay
+### 5. [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
+💬 167 points | 🧑‍💻 by LaserDiscMan
 

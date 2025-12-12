@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-12)
 
-### 1. [Size of Life](https://neal.fun/size-of-life/)
-💬 1401 points | 🧑‍💻 by eatonphil
+### 1. [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
+💬 779 points | 🧑‍💻 by atgctg
 
-### 2. [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-💬 238 points | 🧑‍💻 by speckx
+### 2. [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
+💬 56 points | 🧑‍💻 by yaky
 
-### 3. [Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)
-💬 569 points | 🧑‍💻 by chirau
+### 3. [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
+💬 204 points | 🧑‍💻 by sangeeth96
 
-### 4. [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-💬 305 points | 🧑‍💻 by __rito__
+### 4. [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
+💬 216 points | 🧑‍💻 by doctoboggan
 
-### 5. [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
-💬 167 points | 🧑‍💻 by LaserDiscMan
+### 5. [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
+💬 431 points | 🧑‍💻 by Gricha
 

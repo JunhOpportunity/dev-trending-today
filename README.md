@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-15)
 
-### 1. [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
-💬 779 points | 🧑‍💻 by atgctg
+### 1. [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
+💬 147 points | 🧑‍💻 by cdrnsf
 
-### 2. [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
-💬 56 points | 🧑‍💻 by yaky
+### 2. [CapROS: The Capability-Based Reliable Operating System](https://www.capros.org/)
+💬 20 points | 🧑‍💻 by gjvc
 
-### 3. [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
-💬 204 points | 🧑‍💻 by sangeeth96
+### 3. [Elevated errors across many models](https://status.claude.com/incidents/9g6qpr72ttbr)
+💬 260 points | 🧑‍💻 by pablo24602
 
-### 4. [Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free](https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/)
-💬 216 points | 🧑‍💻 by doctoboggan
+### 4. [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
+💬 105 points | 🧑‍💻 by culi
 
-### 5. [The highest quality codebase](https://gricha.dev/blog/the-highest-quality-codebase)
-💬 431 points | 🧑‍💻 by Gricha
+### 5. [Hashcards: A plain-text spaced repetition system](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
+💬 250 points | 🧑‍💻 by thomascountz
 

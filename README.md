@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-16)
 
-### 1. [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
-💬 147 points | 🧑‍💻 by cdrnsf
+### 1. [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)
+💬 98 points | 🧑‍💻 by Curiositry
 
-### 2. [CapROS: The Capability-Based Reliable Operating System](https://www.capros.org/)
-💬 20 points | 🧑‍💻 by gjvc
+### 2. [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
+💬 187 points | 🧑‍💻 by jlian
 
-### 3. [Elevated errors across many models](https://status.claude.com/incidents/9g6qpr72ttbr)
-💬 260 points | 🧑‍💻 by pablo24602
+### 3. [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
+💬 48 points | 🧑‍💻 by mitchbob
 
-### 4. [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
-💬 105 points | 🧑‍💻 by culi
+### 4. [Show HN: PasteClean – Desktop app to strip tracking parameters from clipboard](https://iixotic.github.io/PasteClean/website/)
+💬 10 points | 🧑‍💻 by Iblockedthem
 
-### 5. [Hashcards: A plain-text spaced repetition system](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
-💬 250 points | 🧑‍💻 by thomascountz
+### 5. [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
+💬 120 points | 🧑‍💻 by fiatjaf
 

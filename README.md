@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-17)
 
-### 1. [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)
-💬 98 points | 🧑‍💻 by Curiositry
+### 1. [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+💬 319 points | 🧑‍💻 by evankhoury
 
-### 2. [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
-💬 187 points | 🧑‍💻 by jlian
+### 2. [alpr.watch](https://alpr.watch/)
+💬 623 points | 🧑‍💻 by theamk
 
-### 3. [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-💬 48 points | 🧑‍💻 by mitchbob
+### 3. [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+💬 421 points | 🧑‍💻 by ryandrake
 
-### 4. [Show HN: PasteClean – Desktop app to strip tracking parameters from clipboard](https://iixotic.github.io/PasteClean/website/)
-💬 10 points | 🧑‍💻 by Iblockedthem
+### 4. [Announcing the Beta release of ty](https://astral.sh/blog/ty)
+💬 323 points | 🧑‍💻 by gavide
 
-### 5. [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
-💬 120 points | 🧑‍💻 by fiatjaf
+### 5. [Midjourney is alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)
+💬 74 points | 🧑‍💻 by aadillpickle
 

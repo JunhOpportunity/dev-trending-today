@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-18)
 
-### 1. [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
-💬 319 points | 🧑‍💻 by evankhoury
+### 1. [Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)
+💬 770 points | 🧑‍💻 by meetpateltech
 
-### 2. [alpr.watch](https://alpr.watch/)
-💬 623 points | 🧑‍💻 by theamk
+### 2. [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
+💬 79 points | 🧑‍💻 by Xunxi
 
-### 3. [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
-💬 421 points | 🧑‍💻 by ryandrake
+### 3. [OBS Studio Gets a New Renderer](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
+💬 108 points | 🧑‍💻 by aizk
 
-### 4. [Announcing the Beta release of ty](https://astral.sh/blog/ty)
-💬 323 points | 🧑‍💻 by gavide
+### 4. [My payment agent is named George, not stripe-agent](https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/)
+💬 23 points | 🧑‍💻 by fortyseven
 
-### 5. [Midjourney is alemwjsl](https://www.aadillpickle.com/blog/midjourney-is-alemwjsl)
-💬 74 points | 🧑‍💻 by aadillpickle
+### 5. [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
+💬 424 points | 🧑‍💻 by throwaway019254
 

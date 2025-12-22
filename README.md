@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-22)
 
-### 1. [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
-💬 1361 points | 🧑‍💻 by Kerrick
+### 1. [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+💬 224 points | 🧑‍💻 by mpweiher
 
-### 2. [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
-💬 180 points | 🧑‍💻 by rbanffy
+### 2. [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
+💬 159 points | 🧑‍💻 by lemper
 
-### 3. [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
-💬 610 points | 🧑‍💻 by hackermondev
+### 3. [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
+💬 85 points | 🧑‍💻 by ChrisArchitect
 
-### 4. [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
-💬 196 points | 🧑‍💻 by iamwil
+### 4. [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
+💬 22 points | 🧑‍💻 by WaitWaitWha
 
-### 5. [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)
-💬 520 points | 🧑‍💻 by tortilla
+### 5. [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
+💬 346 points | 🧑‍💻 by seinvak
 

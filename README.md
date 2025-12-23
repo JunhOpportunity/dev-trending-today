@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-23)
 
-### 1. [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-💬 224 points | 🧑‍💻 by mpweiher
+### 1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+💬 262 points | 🧑‍💻 by auraham
 
-### 2. [I'm just having fun](https://jyn.dev/i-m-just-having-fun/)
-💬 159 points | 🧑‍💻 by lemper
+### 2. [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+💬 147 points | 🧑‍💻 by eieio
 
-### 3. [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
-💬 85 points | 🧑‍💻 by ChrisArchitect
+### 3. [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
+💬 172 points | 🧑‍💻 by rbanffy
 
-### 4. [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
-💬 22 points | 🧑‍💻 by WaitWaitWha
+### 4. [Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+💬 385 points | 🧑‍💻 by chaps
 
-### 5. [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)
-💬 346 points | 🧑‍💻 by seinvak
+### 5. [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
+💬 243 points | 🧑‍💻 by pretext
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-25)
 
-### 1. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
-💬 792 points | 🧑‍💻 by Aissen
+### 1. [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+💬 212 points | 🧑‍💻 by snvzz
 
-### 2. [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
-💬 191 points | 🧑‍💻 by rendx
+### 2. [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
+💬 512 points | 🧑‍💻 by basilikum
 
-### 3. [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
-💬 124 points | 🧑‍💻 by danso
+### 3. [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
+💬 47 points | 🧑‍💻 by notgloating
 
-### 4. [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
-💬 55 points | 🧑‍💻 by colinbartlett
+### 4. [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
+💬 240 points | 🧑‍💻 by medv
 
-### 5. [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
-💬 51 points | 🧑‍💻 by flurdy
+### 5. [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+💬 32 points | 🧑‍💻 by akrulino
 

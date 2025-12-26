@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-26)
 
-### 1. [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
-💬 212 points | 🧑‍💻 by snvzz
+### 1. [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
+💬 199 points | 🧑‍💻 by htk
 
-### 2. [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
-💬 512 points | 🧑‍💻 by basilikum
+### 2. [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
+💬 31 points | 🧑‍💻 by 110
 
-### 3. [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
-💬 47 points | 🧑‍💻 by notgloating
+### 3. [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
+💬 322 points | 🧑‍💻 by lumpa
 
-### 4. [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
-💬 240 points | 🧑‍💻 by medv
+### 4. [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
+💬 142 points | 🧑‍💻 by rurban
 
-### 5. [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
-💬 32 points | 🧑‍💻 by akrulino
+### 5. [Paperbacks and TikTok](https://calnewport.com/on-paperbacks-and-tiktok/)
+💬 64 points | 🧑‍💻 by zdw
 

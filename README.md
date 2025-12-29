@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-29)
 
-### 1. [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-💬 199 points | 🧑‍💻 by htk
+### 1. [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
+💬 528 points | 🧑‍💻 by zdw
 
-### 2. [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
-💬 31 points | 🧑‍💻 by 110
+### 2. [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
+💬 212 points | 🧑‍💻 by saikatsg
 
-### 3. [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
-💬 322 points | 🧑‍💻 by lumpa
+### 3. [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
+💬 106 points | 🧑‍💻 by iliketrains
 
-### 4. [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
-💬 142 points | 🧑‍💻 by rurban
+### 4. [Spherical Cow](https://lib.rs/crates/spherical-cow)
+💬 49 points | 🧑‍💻 by Natfan
 
-### 5. [Paperbacks and TikTok](https://calnewport.com/on-paperbacks-and-tiktok/)
-💬 64 points | 🧑‍💻 by zdw
+### 5. [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
+💬 63 points | 🧑‍💻 by eatonphil
 

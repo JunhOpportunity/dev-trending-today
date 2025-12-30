@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-30)
 
-### 1. [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-💬 528 points | 🧑‍💻 by zdw
+### 1. [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+💬 497 points | 🧑‍💻 by tomjuggler
 
-### 2. [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
-💬 212 points | 🧑‍💻 by saikatsg
+### 2. [Hacking Washing Machines (39C3) [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+💬 12 points | 🧑‍💻 by clausecker
 
-### 3. [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
-💬 106 points | 🧑‍💻 by iliketrains
+### 3. [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+💬 73 points | 🧑‍💻 by austinbaggio
 
-### 4. [Spherical Cow](https://lib.rs/crates/spherical-cow)
-💬 49 points | 🧑‍💻 by Natfan
+### 4. [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
+💬 27 points | 🧑‍💻 by plorkyeran
 
-### 5. [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
-💬 63 points | 🧑‍💻 by eatonphil
+### 5. [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
+💬 19 points | 🧑‍💻 by vector_spaces
 

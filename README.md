@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2025-12-31)
 
-### 1. [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
-💬 497 points | 🧑‍💻 by tomjuggler
+### 1. [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
+💬 127 points | 🧑‍💻 by vitaelabitur
 
-### 2. [Hacking Washing Machines (39C3) [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
-💬 12 points | 🧑‍💻 by clausecker
+### 2. [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
+💬 278 points | 🧑‍💻 by kasabali
 
-### 3. [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
-💬 73 points | 🧑‍💻 by austinbaggio
+### 3. [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+💬 226 points | 🧑‍💻 by birdculture
 
-### 4. [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-💬 27 points | 🧑‍💻 by plorkyeran
+### 4. [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+💬 37 points | 🧑‍💻 by azinman2
 
-### 5. [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
-💬 19 points | 🧑‍💻 by vector_spaces
+### 5. [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
+💬 328 points | 🧑‍💻 by keepamovin
 

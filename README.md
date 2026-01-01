@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2025-12-31)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-01)
 
-### 1. [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
-💬 127 points | 🧑‍💻 by vitaelabitur
+### 1. [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
+💬 118 points | 🧑‍💻 by simonw
 
-### 2. [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
-💬 278 points | 🧑‍💻 by kasabali
+### 2. [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
+💬 336 points | 🧑‍💻 by azhenley
 
-### 3. [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
-💬 226 points | 🧑‍💻 by birdculture
+### 3. [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
+💬 27 points | 🧑‍💻 by jbaptiste
 
-### 4. [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-💬 37 points | 🧑‍💻 by azinman2
+### 4. [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
+💬 69 points | 🧑‍💻 by PaulHoule
 
-### 5. [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
-💬 328 points | 🧑‍💻 by keepamovin
+### 5. [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
+💬 383 points | 🧑‍💻 by ValentineC
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-02)
 
-### 1. [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
-💬 118 points | 🧑‍💻 by simonw
+### 1. [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+💬 342 points | 🧑‍💻 by g0xA52A2A
 
-### 2. [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
-💬 336 points | 🧑‍💻 by azhenley
+### 2. [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
+💬 155 points | 🧑‍💻 by ibobev
 
-### 3. [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
-💬 27 points | 🧑‍💻 by jbaptiste
+### 3. [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+💬 12 points | 🧑‍💻 by apetresc
 
-### 4. [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
-💬 69 points | 🧑‍💻 by PaulHoule
+### 4. [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
+💬 283 points | 🧑‍💻 by wslh
 
-### 5. [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
-💬 383 points | 🧑‍💻 by ValentineC
+### 5. [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
+💬 354 points | 🧑‍💻 by sebg
 

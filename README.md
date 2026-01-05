@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-05)
 
-### 1. [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
-💬 342 points | 🧑‍💻 by g0xA52A2A
+### 1. [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
+💬 190 points | 🧑‍💻 by huseyinbabal
 
-### 2. [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
-💬 155 points | 🧑‍💻 by ibobev
+### 2. [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+💬 853 points | 🧑‍💻 by cdrnsf
 
-### 3. [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-💬 12 points | 🧑‍💻 by apetresc
+### 3. [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
+💬 138 points | 🧑‍💻 by azeemba
 
-### 4. [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
-💬 283 points | 🧑‍💻 by wslh
+### 4. [The Showa Hundred Year Problem](https://www.dampfkraft.com/showa-100.html)
+💬 13 points | 🧑‍💻 by polm23
 
-### 5. [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
-💬 354 points | 🧑‍💻 by sebg
+### 5. [The Unbearable Joy of Sitting Alone in a Café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/)
+💬 440 points | 🧑‍💻 by mooreds
 

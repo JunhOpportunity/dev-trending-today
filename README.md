@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-07)
 
-### 1. [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
-💬 486 points | 🧑‍💻 by illithid0
+### 1. [Spherical Snake](https://kevinalbs.com/spherical_snake/)
+💬 532 points | 🧑‍💻 by subset
 
-### 2. [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
-💬 136 points | 🧑‍💻 by aeonfox
+### 2. [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
+💬 277 points | 🧑‍💻 by rbergamini27
 
-### 3. [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
-💬 46 points | 🧑‍💻 by benhoyt
+### 3. [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
+💬 54 points | 🧑‍💻 by surprisetalk
 
-### 4. [Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)
-💬 87 points | 🧑‍💻 by mikhael
+### 4. [Most websites don't need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
+💬 20 points | 🧑‍💻 by pickup191
 
-### 5. [Try to take my position: The best promotion advice I ever got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
-💬 265 points | 🧑‍💻 by yuppiepuppie
+### 5. [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
+💬 111 points | 🧑‍💻 by dataminer
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-08)
 
-### 1. [Spherical Snake](https://kevinalbs.com/spherical_snake/)
-💬 532 points | 🧑‍💻 by subset
+### 1. [Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
+💬 90 points | 🧑‍💻 by ptorrone
 
-### 2. [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
-💬 277 points | 🧑‍💻 by rbergamini27
+### 2. [Sugar industry influenced researchers and blamed fat for CVD (2016)](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
+💬 662 points | 🧑‍💻 by aldarion
 
-### 3. [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
-💬 54 points | 🧑‍💻 by surprisetalk
+### 3. [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
+💬 213 points | 🧑‍💻 by traceroute66
 
-### 4. [Most websites don't need cookie consent banners](https://block81.com/blog/why-most-websites-dont-actually-need-cookie-consent-banners)
-💬 20 points | 🧑‍💻 by pickup191
+### 4. [Eat Real Food](https://realfood.gov)
+💬 553 points | 🧑‍💻 by atestu
 
-### 5. [A 30B Qwen model walks into a Raspberry Pi and runs in real time](https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/)
-💬 111 points | 🧑‍💻 by dataminer
+### 5. [Shipmap.org](https://www.shipmap.org/)
+💬 472 points | 🧑‍💻 by surprisetalk
 

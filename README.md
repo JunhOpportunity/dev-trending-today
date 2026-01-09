@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-09)
 
-### 1. [Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
-💬 90 points | 🧑‍💻 by ptorrone
+### 1. [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
+💬 34 points | 🧑‍💻 by erutuon
 
-### 2. [Sugar industry influenced researchers and blamed fat for CVD (2016)](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
-💬 662 points | 🧑‍💻 by aldarion
+### 2. [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
+💬 332 points | 🧑‍💻 by nutellalover
 
-### 3. [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-💬 213 points | 🧑‍💻 by traceroute66
+### 3. [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+💬 98 points | 🧑‍💻 by birdculture
 
-### 4. [Eat Real Food](https://realfood.gov)
-💬 553 points | 🧑‍💻 by atestu
+### 4. [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
+💬 138 points | 🧑‍💻 by sammyyyyyyy
 
-### 5. [Shipmap.org](https://www.shipmap.org/)
-💬 472 points | 🧑‍💻 by surprisetalk
+### 5. [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
+💬 2108 points | 🧑‍💻 by rayrey
 

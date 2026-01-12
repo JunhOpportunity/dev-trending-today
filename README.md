@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-12)
 
-### 1. [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
-💬 34 points | 🧑‍💻 by erutuon
+### 1. [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
+💬 867 points | 🧑‍💻 by happosai
 
-### 2. [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
-💬 332 points | 🧑‍💻 by nutellalover
+### 2. [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
+💬 293 points | 🧑‍💻 by websku
 
-### 3. [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
-💬 98 points | 🧑‍💻 by birdculture
+### 3. [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
+💬 92 points | 🧑‍💻 by snoofydude
 
-### 4. [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
-💬 138 points | 🧑‍💻 by sammyyyyyyy
+### 4. [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+💬 312 points | 🧑‍💻 by reconnecting
 
-### 5. [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
-💬 2108 points | 🧑‍💻 by rayrey
+### 5. [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
+💬 11 points | 🧑‍💻 by tehnub
 

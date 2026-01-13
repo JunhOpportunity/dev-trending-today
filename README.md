@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-13)
 
-### 1. [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
-💬 867 points | 🧑‍💻 by happosai
+### 1. [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+💬 633 points | 🧑‍💻 by adocomplete
 
-### 2. [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
-💬 293 points | 🧑‍💻 by websku
+### 2. [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
+💬 489 points | 🧑‍💻 by admp
 
-### 3. [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
-💬 92 points | 🧑‍💻 by snoofydude
+### 3. [Postal Arbitrage](https://walzr.com/postal-arbitrage)
+💬 270 points | 🧑‍💻 by The28thDuck
 
-### 4. [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-💬 312 points | 🧑‍💻 by reconnecting
+### 4. [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
+💬 18 points | 🧑‍💻 by LordGrey
 
-### 5. [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
-💬 11 points | 🧑‍💻 by tehnub
+### 5. [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
+💬 108 points | 🧑‍💻 by everlier
 

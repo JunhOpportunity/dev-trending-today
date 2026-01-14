@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-14)
 
-### 1. [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-💬 633 points | 🧑‍💻 by adocomplete
+### 1. [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
+💬 133 points | 🧑‍💻 by bluestreak
 
-### 2. [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
-💬 489 points | 🧑‍💻 by admp
+### 2. [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
+💬 99 points | 🧑‍💻 by dakshgupta
 
-### 3. [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-💬 270 points | 🧑‍💻 by The28thDuck
+### 3. [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
+💬 34 points | 🧑‍💻 by robertnishihara
 
-### 4. [The Cray-1 Computer System (1977) [pdf]](https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf)
-💬 18 points | 🧑‍💻 by LordGrey
+### 4. [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
+💬 45 points | 🧑‍💻 by abhishaike
 
-### 5. [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
-💬 108 points | 🧑‍💻 by everlier
+### 5. [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
+💬 77 points | 🧑‍💻 by dang
 

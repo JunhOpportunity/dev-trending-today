@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-15)
 
-### 1. [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)
-💬 133 points | 🧑‍💻 by bluestreak
+### 1. [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+💬 453 points | 🧑‍💻 by takira
 
-### 2. [Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)
-💬 99 points | 🧑‍💻 by dakshgupta
+### 2. [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+💬 62 points | 🧑‍💻 by written-beyond
 
-### 3. [vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep](https://blog.vllm.ai/2025/12/17/large-scale-serving.html)
-💬 34 points | 🧑‍💻 by robertnishihara
+### 3. [Is passive investment inflating a stockmarket bubble?](https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble)
+💬 22 points | 🧑‍💻 by andsoitis
 
-### 4. [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan)
-💬 45 points | 🧑‍💻 by abhishaike
+### 4. [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+💬 115 points | 🧑‍💻 by samwillis
 
-### 5. [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557)
-💬 77 points | 🧑‍💻 by dang
+### 5. [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
+💬 407 points | 🧑‍💻 by susam
 

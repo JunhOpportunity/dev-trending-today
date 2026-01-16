@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-16)
 
-### 1. [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
-💬 453 points | 🧑‍💻 by takira
+### 1. [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
+💬 574 points | 🧑‍💻 by speckx
 
-### 2. [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
-💬 62 points | 🧑‍💻 by written-beyond
+### 2. [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
+💬 205 points | 🧑‍💻 by pain_perdu
 
-### 3. [Is passive investment inflating a stockmarket bubble?](https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble)
-💬 22 points | 🧑‍💻 by andsoitis
+### 3. [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
+💬 247 points | 🧑‍💻 by dvrp
 
-### 4. [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
-💬 115 points | 🧑‍💻 by samwillis
+### 4. [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
+💬 119 points | 🧑‍💻 by messh
 
-### 5. [Ask HN: Share your personal website](https://news.ycombinator.com/item?id=46618714)
-💬 407 points | 🧑‍💻 by susam
+### 5. [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://briarproject.org/manual/fa/)
+💬 126 points | 🧑‍💻 by us321
 

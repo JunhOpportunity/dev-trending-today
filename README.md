@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-19)
 
-### 1. [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
-💬 574 points | 🧑‍💻 by speckx
+### 1. [Gaussian Splatting – A$AP Rocky "Helicopter" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
+💬 465 points | 🧑‍💻 by ChrisArchitect
 
-### 2. [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
-💬 205 points | 🧑‍💻 by pain_perdu
+### 2. [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
+💬 230 points | 🧑‍💻 by antirez
 
-### 3. [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
-💬 247 points | 🧑‍💻 by dvrp
+### 3. [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
+💬 290 points | 🧑‍💻 by icy
 
-### 4. [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
-💬 119 points | 🧑‍💻 by messh
+### 4. [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
+💬 27 points | 🧑‍💻 by pjmlp
 
-### 5. [Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark](https://briarproject.org/manual/fa/)
-💬 126 points | 🧑‍💻 by us321
+### 5. [Wine 11.0](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0)
+💬 241 points | 🧑‍💻 by zdw
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-20)
 
-### 1. [Gaussian Splatting – A$AP Rocky "Helicopter" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
-💬 465 points | 🧑‍💻 by ChrisArchitect
+### 1. [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
+💬 85 points | 🧑‍💻 by m463
 
-### 2. [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
-💬 230 points | 🧑‍💻 by antirez
+### 2. [Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)
+💬 239 points | 🧑‍💻 by WorldPeas
 
-### 3. [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
-💬 290 points | 🧑‍💻 by icy
+### 3. [Nearly a third of social media research has undisclosed ties to industry](https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims)
+💬 216 points | 🧑‍💻 by bikenaga
 
-### 4. [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
-💬 27 points | 🧑‍💻 by pjmlp
+### 4. [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
+💬 46 points | 🧑‍💻 by brogu
 
-### 5. [Wine 11.0](https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0)
-💬 241 points | 🧑‍💻 by zdw
+### 5. [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
+💬 77 points | 🧑‍💻 by Scramblejams
 

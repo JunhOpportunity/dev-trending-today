@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-21)
 
-### 1. [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
-💬 85 points | 🧑‍💻 by m463
+### 1. [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+💬 359 points | 🧑‍💻 by mkmk
 
-### 2. [Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)
-💬 239 points | 🧑‍💻 by WorldPeas
+### 2. [Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)
+💬 83 points | 🧑‍💻 by behnamoh
 
-### 3. [Nearly a third of social media research has undisclosed ties to industry](https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims)
-💬 216 points | 🧑‍💻 by bikenaga
+### 3. [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+💬 252 points | 🧑‍💻 by thnaks
 
-### 4. [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
-💬 46 points | 🧑‍💻 by brogu
+### 4. [Are Arrays Functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
+💬 41 points | 🧑‍💻 by todsacerdoti
 
-### 5. [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-💬 77 points | 🧑‍💻 by Scramblejams
+### 5. [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+💬 137 points | 🧑‍💻 by KORraN
 

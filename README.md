@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-22)
 
-### 1. [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
-💬 359 points | 🧑‍💻 by mkmk
+### 1. [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
+💬 161 points | 🧑‍💻 by WaitWaitWha
 
-### 2. [Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)
-💬 83 points | 🧑‍💻 by behnamoh
+### 2. [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
+💬 76 points | 🧑‍💻 by toomuchtodo
 
-### 3. [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
-💬 252 points | 🧑‍💻 by thnaks
+### 3. [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
+💬 84 points | 🧑‍💻 by dp-hackernews
 
-### 4. [Are Arrays Functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
-💬 41 points | 🧑‍💻 by todsacerdoti
+### 4. [Binary Fuse Filters: Fast and Smaller Than XOR Filters](https://arxiv.org/abs/2201.01174)
+💬 36 points | 🧑‍💻 by redbell
 
-### 5. [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
-💬 137 points | 🧑‍💻 by KORraN
+### 5. [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
+💬 513 points | 🧑‍💻 by huntergemmer
 

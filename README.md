@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-23)
 
-### 1. [Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)
-💬 161 points | 🧑‍💻 by WaitWaitWha
+### 1. [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
+💬 722 points | 🧑‍💻 by segmenta
 
-### 2. [Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
-💬 76 points | 🧑‍💻 by toomuchtodo
+### 2. [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
+💬 139 points | 🧑‍💻 by personjerry
 
-### 3. [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
-💬 84 points | 🧑‍💻 by dp-hackernews
+### 3. [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/)
+💬 662 points | 🧑‍💻 by cannoneyed
 
-### 4. [Binary Fuse Filters: Fast and Smaller Than XOR Filters](https://arxiv.org/abs/2201.01174)
-💬 36 points | 🧑‍💻 by redbell
+### 4. [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
+💬 290 points | 🧑‍💻 by eieio
 
-### 5. [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
-💬 513 points | 🧑‍💻 by huntergemmer
+### 5. [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
+💬 359 points | 🧑‍💻 by hugodan
 

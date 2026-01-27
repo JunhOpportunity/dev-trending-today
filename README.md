@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-27)
 
-### 1. [First, make me care](https://gwern.net/blog/2026/make-me-care)
-💬 342 points | 🧑‍💻 by andsoitis
+### 1. [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
+💬 523 points | 🧑‍💻 by qassiov
 
-### 2. [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
-💬 46 points | 🧑‍💻 by mikhael
+### 2. [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
+💬 181 points | 🧑‍💻 by simonw
 
-### 3. [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
-💬 477 points | 🧑‍💻 by dnw
+### 3. [The Hidden Engineering of Runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
+💬 171 points | 🧑‍💻 by crescit_eundo
 
-### 4. [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
-💬 41 points | 🧑‍💻 by musculus
+### 4. [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+💬 87 points | 🧑‍💻 by alexwennerberg
 
-### 5. [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
-💬 104 points | 🧑‍💻 by KuzeyAbi
+### 5. [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
+💬 171 points | 🧑‍💻 by dakshgupta
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-28)
 
-### 1. [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
-💬 523 points | 🧑‍💻 by qassiov
+### 1. [Prism](https://openai.com/index/introducing-prism)
+💬 449 points | 🧑‍💻 by meetpateltech
 
-### 2. [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
-💬 181 points | 🧑‍💻 by simonw
+### 2. [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
+💬 16 points | 🧑‍💻 by rebasedoctopus
 
-### 3. [The Hidden Engineering of Runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-💬 171 points | 🧑‍💻 by crescit_eundo
+### 3. [Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
+💬 75 points | 🧑‍💻 by justaboutanyone
 
-### 4. [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
-💬 87 points | 🧑‍💻 by alexwennerberg
+### 4. [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
+💬 354 points | 🧑‍💻 by bookofjoe
 
-### 5. [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble)
-💬 171 points | 🧑‍💻 by dakshgupta
+### 5. [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
+💬 332 points | 🧑‍💻 by bigwheels
 

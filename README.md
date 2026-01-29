@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-29)
 
-### 1. [Prism](https://openai.com/index/introducing-prism)
-💬 449 points | 🧑‍💻 by meetpateltech
+### 1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
+💬 383 points | 🧑‍💻 by wubin
 
-### 2. [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/)
-💬 16 points | 🧑‍💻 by rebasedoctopus
+### 2. [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
+💬 229 points | 🧑‍💻 by JustSkyfall
 
-### 3. [Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
-💬 75 points | 🧑‍💻 by justaboutanyone
+### 3. [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
+💬 103 points | 🧑‍💻 by bookofjoe
 
-### 4. [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
-💬 354 points | 🧑‍💻 by bookofjoe
+### 4. [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)
+💬 16 points | 🧑‍💻 by mellosouls
 
-### 5. [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
-💬 332 points | 🧑‍💻 by bigwheels
+### 5. [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+💬 414 points | 🧑‍💻 by randycupertino
 

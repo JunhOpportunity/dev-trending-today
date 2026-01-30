@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-01-30)
 
-### 1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
-💬 383 points | 🧑‍💻 by wubin
+### 1. [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+💬 141 points | 🧑‍💻 by cyrusradfar
 
-### 2. [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
-💬 229 points | 🧑‍💻 by JustSkyfall
+### 2. [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
+💬 290 points | 🧑‍💻 by croes
 
-### 3. [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
-💬 103 points | 🧑‍💻 by bookofjoe
+### 3. [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
+💬 461 points | 🧑‍💻 by meetpateltech
 
-### 4. [Beautiful Mermaid](https://github.com/lukilabs/beautiful-mermaid)
-💬 16 points | 🧑‍💻 by mellosouls
+### 4. [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
+💬 565 points | 🧑‍💻 by qwesr123
 
-### 5. [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
-💬 414 points | 🧑‍💻 by randycupertino
+### 5. [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
+💬 235 points | 🧑‍💻 by axiomdata316
 

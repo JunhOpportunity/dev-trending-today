@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-01-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-02)
 
-### 1. [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-💬 141 points | 🧑‍💻 by cyrusradfar
+### 1. [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
+💬 167 points | 🧑‍💻 by mysterydip
 
-### 2. [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-💬 290 points | 🧑‍💻 by croes
+### 2. [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+💬 262 points | 🧑‍💻 by zdw
 
-### 3. [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-💬 461 points | 🧑‍💻 by meetpateltech
+### 3. [Actors: A Model of Concurrent Computation [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+💬 18 points | 🧑‍💻 by kioku
 
-### 4. [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
-💬 565 points | 🧑‍💻 by qwesr123
+### 4. [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
+💬 193 points | 🧑‍💻 by jimminyx
 
-### 5. [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
-💬 235 points | 🧑‍💻 by axiomdata316
+### 5. [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
+💬 182 points | 🧑‍💻 by janandonly
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-03)
 
-### 1. [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
-💬 167 points | 🧑‍💻 by mysterydip
+### 1. [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
+💬 81 points | 🧑‍💻 by salkahfi
 
-### 2. [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
-💬 262 points | 🧑‍💻 by zdw
+### 2. [The Codex App](https://openai.com/index/introducing-the-codex-app/)
+💬 534 points | 🧑‍💻 by meetpateltech
 
-### 3. [Actors: A Model of Concurrent Computation [pdf]](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
-💬 18 points | 🧑‍💻 by kioku
+### 3. [Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)
+💬 247 points | 🧑‍💻 by trms
 
-### 4. [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
-💬 193 points | 🧑‍💻 by jimminyx
+### 4. [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
+💬 152 points | 🧑‍💻 by bhouston
 
-### 5. [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
-💬 182 points | 🧑‍💻 by janandonly
+### 5. [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
+💬 483 points | 🧑‍💻 by g-mork
 

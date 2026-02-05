@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-05)
 
-### 1. [Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
-💬 333 points | 🧑‍💻 by sberens
+### 1. [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
+💬 750 points | 🧑‍💻 by meetpateltech
 
-### 2. [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
-💬 258 points | 🧑‍💻 by ajyoon
+### 2. [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
+💬 126 points | 🧑‍💻 by jakequist
 
-### 3. [Show HN: Craftplan – I built my wife a production management tool for her bakery](https://github.com/puemos/craftplan)
-💬 106 points | 🧑‍💻 by deofoo
+### 3. [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)
+💬 66 points | 🧑‍💻 by Palmik
 
-### 4. [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
-💬 339 points | 🧑‍💻 by johnspurlock
+### 4. [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
+💬 203 points | 🧑‍💻 by fugu2
 
-### 5. [Xcode 26.3 – Developers can leverage coding agents directly in Xcode](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
-💬 243 points | 🧑‍💻 by davidbarker
+### 5. [Claude Code for Infrastructure](https://www.fluid.sh/)
+💬 157 points | 🧑‍💻 by aspectrr
 

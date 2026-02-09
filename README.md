@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-09)
 
-### 1. [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
-💬 1605 points | 🧑‍💻 by HellsMaddy
+### 1. [Vouch](https://github.com/mitchellh/vouch)
+💬 649 points | 🧑‍💻 by chwtutha
 
-### 2. [It's 2026, Just Use Postgres](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
-💬 411 points | 🧑‍💻 by turtles3
+### 2. [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+💬 45 points | 🧑‍💻 by linolevan
 
-### 3. [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
-💬 1062 points | 🧑‍💻 by meetpateltech
+### 3. [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
+💬 96 points | 🧑‍💻 by kristianp
 
-### 4. [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
-💬 356 points | 🧑‍💻 by anurag
+### 4. [Quartz Crystals](https://www.pa3fwm.nl/technotes/tn13a.html)
+💬 31 points | 🧑‍💻 by gtsnexp
 
-### 5. [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
-💬 389 points | 🧑‍💻 by modeless
+### 5. [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
+💬 49 points | 🧑‍💻 by mattst88
 

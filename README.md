@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-10)
 
-### 1. [Vouch](https://github.com/mitchellh/vouch)
-💬 649 points | 🧑‍💻 by chwtutha
+### 1. [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
+💬 1309 points | 🧑‍💻 by x01
 
-### 2. [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
-💬 45 points | 🧑‍💻 by linolevan
+### 2. [The number of abandoned oil tankers and other commercial ships has shot up](https://www.bbc.com/news/articles/cddg885344do)
+💬 81 points | 🧑‍💻 by 1659447091
 
-### 3. [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
-💬 96 points | 🧑‍💻 by kristianp
+### 3. [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
+💬 80 points | 🧑‍💻 by subset
 
-### 4. [Quartz Crystals](https://www.pa3fwm.nl/technotes/tn13a.html)
-💬 31 points | 🧑‍💻 by gtsnexp
+### 4. [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+💬 20 points | 🧑‍💻 by Curiositry
 
-### 5. [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
-💬 49 points | 🧑‍💻 by mattst88
+### 5. [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
+💬 420 points | 🧑‍💻 by tokyobreakfast
 

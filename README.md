@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-11)
 
-### 1. [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
-💬 1309 points | 🧑‍💻 by x01
+### 1. [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+💬 222 points | 🧑‍💻 by pjf
 
-### 2. [The number of abandoned oil tankers and other commercial ships has shot up](https://www.bbc.com/news/articles/cddg885344do)
-💬 81 points | 🧑‍💻 by 1659447091
+### 2. [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
+💬 134 points | 🧑‍💻 by rramadass
 
-### 3. [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
-💬 80 points | 🧑‍💻 by subset
+### 3. [Thank You, AI](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
+💬 21 points | 🧑‍💻 by dzulp0d
 
-### 4. [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
-💬 20 points | 🧑‍💻 by Curiositry
+### 4. [Exploring a Modern SMTPE 2110 Broadcast Truck](https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/)
+💬 24 points | 🧑‍💻 by assimpleaspossi
 
-### 5. [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
-💬 420 points | 🧑‍💻 by tokyobreakfast
+### 5. [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
+💬 23 points | 🧑‍💻 by socialcommenter
 

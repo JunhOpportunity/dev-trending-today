@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-12)
 
-### 1. [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-💬 222 points | 🧑‍💻 by pjf
+### 1. [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
+💬 380 points | 🧑‍💻 by JustSkyfall
 
-### 2. [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
-💬 134 points | 🧑‍💻 by rramadass
+### 2. ["Nothing" is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
+💬 85 points | 🧑‍💻 by spmvg
 
-### 3. [Thank You, AI](https://www.kraxel.org/blog/2026/01/thank-you-ai/)
-💬 21 points | 🧑‍💻 by dzulp0d
+### 3. [Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/)
+💬 412 points | 🧑‍💻 by bsimpson
 
-### 4. [Exploring a Modern SMTPE 2110 Broadcast Truck](https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/)
-💬 24 points | 🧑‍💻 by assimpleaspossi
+### 4. [Text classification with Python 3.14's ZSTD module](https://maxhalford.github.io/blog/text-classification-zstd/)
+💬 105 points | 🧑‍💻 by alexmolas
 
-### 5. [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
-💬 23 points | 🧑‍💻 by socialcommenter
+### 5. [GLM-5: Targeting complex systems engineering and long-horizon agentic tasks](https://z.ai/blog/glm-5)
+💬 270 points | 🧑‍💻 by CuriouslyC
 

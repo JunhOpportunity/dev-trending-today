@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-13)
 
-### 1. [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
-💬 380 points | 🧑‍💻 by JustSkyfall
+### 1. [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+💬 183 points | 🧑‍💻 by erickhill
 
-### 2. ["Nothing" is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
-💬 85 points | 🧑‍💻 by spmvg
+### 2. [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
+💬 575 points | 🧑‍💻 by meetpateltech
 
-### 3. [Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/)
-💬 412 points | 🧑‍💻 by bsimpson
+### 3. [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/)
+💬 56 points | 🧑‍💻 by randycupertino
 
-### 4. [Text classification with Python 3.14's ZSTD module](https://maxhalford.github.io/blog/text-classification-zstd/)
-💬 105 points | 🧑‍💻 by alexmolas
+### 4. [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
+💬 678 points | 🧑‍💻 by tosh
 
-### 5. [GLM-5: Targeting complex systems engineering and long-horizon agentic tasks](https://z.ai/blog/glm-5)
-💬 270 points | 🧑‍💻 by CuriouslyC
+### 5. [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
+💬 79 points | 🧑‍💻 by sitole
 

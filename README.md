@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-16)
 
-### 1. [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
-💬 183 points | 🧑‍💻 by erickhill
+### 1. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
+💬 598 points | 🧑‍💻 by mfiguiere
 
-### 2. [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
-💬 575 points | 🧑‍💻 by meetpateltech
+### 2. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
+💬 141 points | 🧑‍💻 by prophylaxis
 
-### 3. [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/)
-💬 56 points | 🧑‍💻 by randycupertino
+### 3. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
+💬 53 points | 🧑‍💻 by gnabgib
 
-### 4. [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
-💬 678 points | 🧑‍💻 by tosh
+### 4. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
+💬 315 points | 🧑‍💻 by classichasclass
 
-### 5. [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
-💬 79 points | 🧑‍💻 by sitole
+### 5. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
+💬 45 points | 🧑‍💻 by srcreigh
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-17)
 
-### 1. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-💬 598 points | 🧑‍💻 by mfiguiere
+### 1. [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
+💬 153 points | 🧑‍💻 by colinprince
 
-### 2. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
-💬 141 points | 🧑‍💻 by prophylaxis
+### 2. [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
+💬 267 points | 🧑‍💻 by mustaphah
 
-### 3. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
-💬 53 points | 🧑‍💻 by gnabgib
+### 3. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
+💬 428 points | 🧑‍💻 by bookofjoe
 
-### 4. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
-💬 315 points | 🧑‍💻 by classichasclass
+### 4. [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+💬 153 points | 🧑‍💻 by VorpalWay
 
-### 5. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-💬 45 points | 🧑‍💻 by srcreigh
+### 5. [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
+💬 108 points | 🧑‍💻 by max-m
 

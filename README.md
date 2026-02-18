@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-18)
 
-### 1. [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-💬 153 points | 🧑‍💻 by colinprince
+### 1. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+💬 899 points | 🧑‍💻 by adocomplete
 
-### 2. [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
-💬 267 points | 🧑‍💻 by mustaphah
+### 2. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
+💬 480 points | 🧑‍💻 by chaseadam17
 
-### 3. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
-💬 428 points | 🧑‍💻 by bookofjoe
+### 3. [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
+💬 176 points | 🧑‍💻 by rurban
 
-### 4. [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
-💬 153 points | 🧑‍💻 by VorpalWay
+### 4. [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+💬 97 points | 🧑‍💻 by virgildotcodes
 
-### 5. [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
-💬 108 points | 🧑‍💻 by max-m
+### 5. [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
+💬 290 points | 🧑‍💻 by moWerk
 

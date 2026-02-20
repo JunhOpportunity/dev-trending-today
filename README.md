@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-20)
 
-### 1. [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
-💬 304 points | 🧑‍💻 by zdw
+### 1. [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+💬 555 points | 🧑‍💻 by MallocVoidstar
 
-### 2. [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
-💬 162 points | 🧑‍💻 by surprisetalk
+### 2. [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
+💬 14 points | 🧑‍💻 by neelc
 
-### 3. [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
-💬 287 points | 🧑‍💻 by jfantl
+### 3. [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
+💬 462 points | 🧑‍💻 by cpcloud
 
-### 4. [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
-💬 261 points | 🧑‍💻 by idoxer
+### 4. [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
+💬 120 points | 🧑‍💻 by speckx
 
-### 5. [How to Choose Between Hindley-Milner and Bidirectional Typing](https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/)
-💬 29 points | 🧑‍💻 by thunderseethe
+### 5. [Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)
+💬 3 points | 🧑‍💻 by rahimnathwani
 

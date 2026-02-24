@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-24)
 
-### 1. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
-💬 661 points | 🧑‍💻 by saeedesmaili
+### 1. [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
+💬 89 points | 🧑‍💻 by mhb
 
-### 2. [The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
-💬 30 points | 🧑‍💻 by andsoitis
+### 2. [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
+💬 57 points | 🧑‍💻 by todsacerdoti
 
-### 3. [Show HN: WARN Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
-💬 65 points | 🧑‍💻 by sendkamal
+### 3. [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+💬 269 points | 🧑‍💻 by varankinv
 
-### 4. [Loops is a federated, open-source TikTok](https://joinloops.org/)
-💬 260 points | 🧑‍💻 by Gooblebrai
+### 4. [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
+💬 151 points | 🧑‍💻 by marcodiego
 
-### 5. [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/)
-💬 146 points | 🧑‍💻 by MilkMp
+### 5. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
+💬 1225 points | 🧑‍💻 by oldnetguy
 

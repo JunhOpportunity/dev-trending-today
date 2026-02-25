@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-25)
 
-### 1. [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
-💬 89 points | 🧑‍💻 by mhb
+### 1. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+💬 664 points | 🧑‍💻 by cleak
 
-### 2. [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
-💬 57 points | 🧑‍💻 by todsacerdoti
+### 2. [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
+💬 137 points | 🧑‍💻 by petewarden
 
-### 3. [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
-💬 269 points | 🧑‍💻 by varankinv
+### 3. [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
+💬 87 points | 🧑‍💻 by fittingopposite
 
-### 4. [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
-💬 151 points | 🧑‍💻 by marcodiego
+### 4. [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
+💬 35 points | 🧑‍💻 by surprisetalk
 
-### 5. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
-💬 1225 points | 🧑‍💻 by oldnetguy
+### 5. [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
+💬 184 points | 🧑‍💻 by mengchengfeng
 

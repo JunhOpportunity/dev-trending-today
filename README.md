@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-02-26)
 
-### 1. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
-💬 664 points | 🧑‍💻 by cleak
+### 1. [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+💬 323 points | 🧑‍💻 by tintinnabula
 
-### 2. [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
-💬 137 points | 🧑‍💻 by petewarden
+### 2. [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)
+💬 84 points | 🧑‍💻 by shin_lao
 
-### 3. [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
-💬 87 points | 🧑‍💻 by fittingopposite
+### 3. [First Website (1992)](https://info.cern.ch)
+💬 109 points | 🧑‍💻 by shrikaranhanda
 
-### 4. [Justifying Text-Wrap: Pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
-💬 35 points | 🧑‍💻 by surprisetalk
+### 4. [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
+💬 136 points | 🧑‍💻 by thellimist
 
-### 5. [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
-💬 184 points | 🧑‍💻 by mengchengfeng
+### 5. [Artist who "paints" portraits on glass by hitting it with a hammer](https://simonbergerart.com)
+💬 53 points | 🧑‍💻 by cs702
 

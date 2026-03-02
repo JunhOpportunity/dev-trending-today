@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-02-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-02)
 
-### 1. [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
-💬 981 points | 🧑‍💻 by qwertox
+### 1. [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+💬 142 points | 🧑‍💻 by andsoitis
 
-### 2. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
-💬 498 points | 🧑‍💻 by mlex
+### 2. [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
+💬 92 points | 🧑‍💻 by abelanger
 
-### 3. [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
-💬 325 points | 🧑‍💻 by DamnInteresting
+### 3. [Ghostty – Terminal Emulator](https://ghostty.org/docs)
+💬 625 points | 🧑‍💻 by oli5679
 
-### 4. [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
-💬 252 points | 🧑‍💻 by tin7in
+### 4. [Little Free Library](https://littlefreelibrary.org/)
+💬 57 points | 🧑‍💻 by TigerUniversity
 
-### 5. [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
-💬 324 points | 🧑‍💻 by itunpredictable
+### 5. [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
+💬 12 points | 🧑‍💻 by kossisoroyce
 

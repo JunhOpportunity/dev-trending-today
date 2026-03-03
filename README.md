@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-03)
 
-### 1. [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
-💬 142 points | 🧑‍💻 by andsoitis
+### 1. [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+💬 609 points | 🧑‍💻 by sandbach
 
-### 2. [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
-💬 92 points | 🧑‍💻 by abelanger
+### 2. [Zuckerberg's internal emails rendered as Facebook Messenger](https://zuckmail.vercel.app/)
+💬 68 points | 🧑‍💻 by not-chatgpt
 
-### 3. [Ghostty – Terminal Emulator](https://ghostty.org/docs)
-💬 625 points | 🧑‍💻 by oli5679
+### 3. [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
+💬 73 points | 🧑‍💻 by haunter
 
-### 4. [Little Free Library](https://littlefreelibrary.org/)
-💬 57 points | 🧑‍💻 by TigerUniversity
+### 4. [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+💬 77 points | 🧑‍💻 by da768
 
-### 5. [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
-💬 12 points | 🧑‍💻 by kossisoroyce
+### 5. [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+💬 186 points | 🧑‍💻 by nicktikhonov
 

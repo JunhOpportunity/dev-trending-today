@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-06)
 
-### 1. [Googleworkspace/CLI](https://github.com/googleworkspace/cli)
-💬 126 points | 🧑‍💻 by gonzalovargas
+### 1. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
+💬 648 points | 🧑‍💻 by mudkipdev
 
-### 2. [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
-💬 1585 points | 🧑‍💻 by dm
+### 2. [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
+💬 109 points | 🧑‍💻 by atkrad
 
-### 3. [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
-💬 339 points | 🧑‍💻 by TechPlasma
+### 3. [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
+💬 192 points | 🧑‍💻 by surprisetalk
 
-### 4. [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
-💬 18 points | 🧑‍💻 by anonnona8878
+### 4. [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
+💬 371 points | 🧑‍💻 by ece
 
-### 5. [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
-💬 244 points | 🧑‍💻 by SilverElfin
+### 5. [The Brand Age](https://paulgraham.com/brandage.html)
+💬 236 points | 🧑‍💻 by bigwheels
 

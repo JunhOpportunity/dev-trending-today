@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-09)
 
-### 1. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
-💬 648 points | 🧑‍💻 by mudkipdev
+### 1. [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+💬 350 points | 🧑‍💻 by atombender
 
-### 2. [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-💬 109 points | 🧑‍💻 by atkrad
+### 2. [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
+💬 265 points | 🧑‍💻 by zdw
 
-### 3. [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
-💬 192 points | 🧑‍💻 by surprisetalk
+### 3. [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
+💬 69 points | 🧑‍💻 by zachlatta
 
-### 4. [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
-💬 371 points | 🧑‍💻 by ece
+### 4. [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
+💬 52 points | 🧑‍💻 by david927
 
-### 5. [The Brand Age](https://paulgraham.com/brandage.html)
-💬 236 points | 🧑‍💻 by bigwheels
+### 5. [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
+💬 142 points | 🧑‍💻 by horseradish
 

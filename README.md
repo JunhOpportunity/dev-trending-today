@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-10)
 
-### 1. [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
-💬 350 points | 🧑‍💻 by atombender
+### 1. [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+💬 86 points | 🧑‍💻 by celadevra_
 
-### 2. [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
-💬 265 points | 🧑‍💻 by zdw
+### 2. [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
+💬 400 points | 🧑‍💻 by imadr
 
-### 3. [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
-💬 69 points | 🧑‍💻 by zachlatta
+### 3. [Show HN: Remotely use my guitar tuner](https://realtuner.online/)
+💬 79 points | 🧑‍💻 by smith-kyle
 
-### 4. [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
-💬 52 points | 🧑‍💻 by david927
+### 4. [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+💬 29 points | 🧑‍💻 by jhalderm
 
-### 5. [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
-💬 142 points | 🧑‍💻 by horseradish
+### 5. [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
+💬 258 points | 🧑‍💻 by TechTechTech
 

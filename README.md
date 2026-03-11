@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-11)
 
-### 1. [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
-💬 86 points | 🧑‍💻 by celadevra_
+### 1. [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
+💬 1537 points | 🧑‍💻 by speckx
 
-### 2. [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
-💬 400 points | 🧑‍💻 by imadr
+### 2. [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
+💬 152 points | 🧑‍💻 by cokernel_hacker
 
-### 3. [Show HN: Remotely use my guitar tuner](https://realtuner.online/)
-💬 79 points | 🧑‍💻 by smith-kyle
+### 3. [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
+💬 135 points | 🧑‍💻 by jeffpalmer
 
-### 4. [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
-💬 29 points | 🧑‍💻 by jhalderm
+### 4. [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
+💬 242 points | 🧑‍💻 by aray07
 
-### 5. [JSLinux Now Supports x86_64](https://bellard.org/jslinux/)
-💬 258 points | 🧑‍💻 by TechTechTech
+### 5. [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
+💬 348 points | 🧑‍💻 by helloplanets
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-12)
 
-### 1. [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
-💬 1537 points | 🧑‍💻 by speckx
+### 1. [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
+💬 47 points | 🧑‍💻 by remywang
 
-### 2. [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
-💬 152 points | 🧑‍💻 by cokernel_hacker
+### 2. [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
+💬 546 points | 🧑‍💻 by robpalmer
 
-### 3. [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-💬 135 points | 🧑‍💻 by jeffpalmer
+### 3. [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
+💬 153 points | 🧑‍💻 by mustaphah
 
-### 4. [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep)
-💬 242 points | 🧑‍💻 by aray07
+### 4. [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated)
+💬 2885 points | 🧑‍💻 by usefulposter
 
-### 5. [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
-💬 348 points | 🧑‍💻 by helloplanets
+### 5. [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
+💬 419 points | 🧑‍💻 by mikece
 

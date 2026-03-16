@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-16)
 
-### 1. [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
-💬 888 points | 🧑‍💻 by breton
+### 1. [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
+💬 434 points | 🧑‍💻 by opengrass
 
-### 2. [Malus – Clean Room as a Service](https://malus.sh)
-💬 1066 points | 🧑‍💻 by microflash
+### 2. [Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
+💬 385 points | 🧑‍💻 by xnx
 
-### 3. [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
-💬 267 points | 🧑‍💻 by eieio
+### 3. [The 49MB web page](https://thatshubham.com/blog/news-audit)
+💬 350 points | 🧑‍💻 by kermatt
 
-### 4. [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
-💬 244 points | 🧑‍💻 by mustaphah
+### 4. [What Is Agentic Engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
+💬 57 points | 🧑‍💻 by lumpa
 
-### 5. [ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
-💬 341 points | 🧑‍💻 by colinprince
+### 5. [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)
+💬 106 points | 🧑‍💻 by tjohnell
 

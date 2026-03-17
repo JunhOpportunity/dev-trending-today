@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-17)
 
-### 1. [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
-💬 434 points | 🧑‍💻 by opengrass
+### 1. [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
+💬 296 points | 🧑‍💻 by djoldman
 
-### 2. [Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-💬 385 points | 🧑‍💻 by xnx
+### 2. [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
+💬 322 points | 🧑‍💻 by Poudlardo
 
-### 3. [The 49MB web page](https://thatshubham.com/blog/news-audit)
-💬 350 points | 🧑‍💻 by kermatt
+### 3. [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+💬 358 points | 🧑‍💻 by hahahacorn
 
-### 4. [What Is Agentic Engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
-💬 57 points | 🧑‍💻 by lumpa
+### 4. [The American Healthcare Conundrum](https://github.com/rexrodeo/american-healthcare-conundrum)
+💬 256 points | 🧑‍💻 by rexroad
 
-### 5. [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)
-💬 106 points | 🧑‍💻 by tjohnell
+### 5. [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+💬 327 points | 🧑‍💻 by speckx
 

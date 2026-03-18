@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-18)
 
-### 1. [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
-💬 296 points | 🧑‍💻 by djoldman
+### 1. [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+💬 448 points | 🧑‍💻 by mwkaufma
 
-### 2. [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
-💬 322 points | 🧑‍💻 by Poudlardo
+### 2. [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
+💬 286 points | 🧑‍💻 by guidoiaquinti
 
-### 3. [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
-💬 358 points | 🧑‍💻 by hahahacorn
+### 3. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
+💬 564 points | 🧑‍💻 by crtasm
 
-### 4. [The American Healthcare Conundrum](https://github.com/rexrodeo/american-healthcare-conundrum)
-💬 256 points | 🧑‍💻 by rexroad
+### 4. [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
+💬 63 points | 🧑‍💻 by adammiribyan
 
-### 5. [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
-💬 327 points | 🧑‍💻 by speckx
+### 5. [Mistral AI Releases Forge](https://mistral.ai/news/forge)
+💬 159 points | 🧑‍💻 by pember
 

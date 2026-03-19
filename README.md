@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-19)
 
-### 1. [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
-💬 448 points | 🧑‍💻 by mwkaufma
+### 1. [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+💬 311 points | 🧑‍💻 by matthest
 
-### 2. [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
-💬 286 points | 🧑‍💻 by guidoiaquinti
+### 2. [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
+💬 48 points | 🧑‍💻 by chaisan
 
-### 3. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
-💬 564 points | 🧑‍💻 by crtasm
+### 3. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+💬 213 points | 🧑‍💻 by Stwerner
 
-### 4. [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
-💬 63 points | 🧑‍💻 by adammiribyan
+### 4. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
+💬 172 points | 🧑‍💻 by mmastrac
 
-### 5. [Mistral AI Releases Forge](https://mistral.ai/news/forge)
-💬 159 points | 🧑‍💻 by pember
+### 5. [OpenRocket](https://openrocket.info/)
+💬 423 points | 🧑‍💻 by zeristor
 

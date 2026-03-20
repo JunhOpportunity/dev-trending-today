@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-20)
 
-### 1. [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-💬 311 points | 🧑‍💻 by matthest
+### 1. [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+💬 176 points | 🧑‍💻 by jasonjmcghee
 
-### 2. [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
-💬 48 points | 🧑‍💻 by chaisan
+### 2. [Astral to Join OpenAI](https://astral.sh/blog/openai)
+💬 1237 points | 🧑‍💻 by ibraheemdev
 
-### 3. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-💬 213 points | 🧑‍💻 by Stwerner
+### 3. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
+💬 550 points | 🧑‍💻 by 0xedb
 
-### 4. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
-💬 172 points | 🧑‍💻 by mmastrac
+### 4. [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
+💬 24 points | 🧑‍💻 by nyxgeek
 
-### 5. [OpenRocket](https://openrocket.info/)
-💬 423 points | 🧑‍💻 by zeristor
+### 5. [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
+💬 39 points | 🧑‍💻 by robotnikman
 

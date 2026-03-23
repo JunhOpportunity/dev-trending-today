@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-23)
 
-### 1. [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
-💬 176 points | 🧑‍💻 by jasonjmcghee
+### 1. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+💬 364 points | 🧑‍💻 by JumpCrisscross
 
-### 2. [Astral to Join OpenAI](https://astral.sh/blog/openai)
-💬 1237 points | 🧑‍💻 by ibraheemdev
+### 2. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+💬 228 points | 🧑‍💻 by mariuz
 
-### 3. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
-💬 550 points | 🧑‍💻 by 0xedb
+### 3. [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
+💬 20 points | 🧑‍💻 by cjamsonhn
 
-### 4. [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
-💬 24 points | 🧑‍💻 by nyxgeek
+### 4. [The future of version control](https://bramcohen.com/p/manyana)
+💬 433 points | 🧑‍💻 by c17r
 
-### 5. [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
-💬 39 points | 🧑‍💻 by robotnikman
+### 5. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
+💬 282 points | 🧑‍💻 by stevekrouse
 

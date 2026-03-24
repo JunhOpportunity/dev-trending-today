@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-24)
 
-### 1. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-💬 364 points | 🧑‍💻 by JumpCrisscross
+### 1. [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+💬 165 points | 🧑‍💻 by justsomehnguy
 
-### 2. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-💬 228 points | 🧑‍💻 by mariuz
+### 2. [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)
+💬 280 points | 🧑‍💻 by ykumards
 
-### 3. [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
-💬 20 points | 🧑‍💻 by cjamsonhn
+### 3. [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)
+💬 190 points | 🧑‍💻 by moonka
 
-### 4. [The future of version control](https://bramcohen.com/p/manyana)
-💬 433 points | 🧑‍💻 by c17r
+### 4. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
+💬 492 points | 🧑‍💻 by anemll
 
-### 5. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
-💬 282 points | 🧑‍💻 by stevekrouse
+### 5. [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/)
+💬 60 points | 🧑‍💻 by lawrenceyan
 

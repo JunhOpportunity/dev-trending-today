@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-26)
 
-### 1. [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
-💬 78 points | 🧑‍💻 by jnord
+### 1. [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+💬 415 points | 🧑‍💻 by driesdep
 
-### 2. [Flighty Airports](https://flighty.com/airports)
-💬 93 points | 🧑‍💻 by skogstokig
+### 2. [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259)
+💬 136 points | 🧑‍💻 by qsi
 
-### 3. [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
-💬 420 points | 🧑‍💻 by mikeocool
+### 3. [ARC-AGI-3](https://arcprize.org/arc-agi/3)
+💬 287 points | 🧑‍💻 by lairv
 
-### 4. [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
-💬 216 points | 🧑‍💻 by tezclarke
+### 4. [Two Studies in Compiler Optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/)
+💬 20 points | 🧑‍💻 by hmpc
 
-### 5. [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
-💬 231 points | 🧑‍💻 by Heff
+### 5. [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
+💬 735 points | 🧑‍💻 by wallflower
 

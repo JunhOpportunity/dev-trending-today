@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-30)
 
-### 1. [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
-💬 123 points | 🧑‍💻 by j0rg3
+### 1. [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
+💬 92 points | 🧑‍💻 by smcleod
 
-### 2. [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
-💬 634 points | 🧑‍💻 by Amorymeltzer
+### 2. [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+💬 297 points | 🧑‍💻 by kaycebasques
 
-### 3. [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
-💬 144 points | 🧑‍💻 by bentocorp
+### 3. [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
+💬 93 points | 🧑‍💻 by Philadelphia
 
-### 4. [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
-💬 29 points | 🧑‍💻 by lairv
+### 4. [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
+💬 419 points | 🧑‍💻 by speckx
 
-### 5. [Agent-to-Agent Pair Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
-💬 12 points | 🧑‍💻 by axldelafosse
+### 5. [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+💬 371 points | 🧑‍💻 by alberto-m
 

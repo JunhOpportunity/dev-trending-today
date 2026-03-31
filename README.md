@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-03-31)
 
-### 1. [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
-💬 92 points | 🧑‍💻 by smcleod
+### 1. [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)
+💬 117 points | 🧑‍💻 by killme2008
 
-### 2. [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-💬 297 points | 🧑‍💻 by kaycebasques
+### 2. [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+💬 461 points | 🧑‍💻 by speckx
 
-### 3. [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
-💬 93 points | 🧑‍💻 by Philadelphia
+### 3. [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
+💬 168 points | 🧑‍💻 by ingve
 
-### 4. [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
-💬 419 points | 🧑‍💻 by speckx
+### 4. [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/)
+💬 403 points | 🧑‍💻 by karimf
 
-### 5. [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
-💬 371 points | 🧑‍💻 by alberto-m
+### 5. [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
+💬 226 points | 🧑‍💻 by HughParry
 

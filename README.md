@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-03-31)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-01)
 
-### 1. [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)
-💬 117 points | 🧑‍💻 by killme2008
+### 1. [We intercepted the White House app's traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
+💬 113 points | 🧑‍💻 by donutpepperoni
 
-### 2. [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
-💬 461 points | 🧑‍💻 by speckx
+### 2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
+💬 907 points | 🧑‍💻 by alex000kim
 
-### 3. [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
-💬 168 points | 🧑‍💻 by ingve
+### 3. [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118)
+💬 98 points | 🧑‍💻 by sorenjan
 
-### 4. [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/)
-💬 403 points | 🧑‍💻 by karimf
+### 4. [TruffleRuby](https://chrisseaton.com/truffleruby/)
+💬 62 points | 🧑‍💻 by tosh
 
-### 5. [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
-💬 226 points | 🧑‍💻 by HughParry
+### 5. [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security)
+💬 165 points | 🧑‍💻 by Jimmc414
 

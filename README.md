@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-03)
 
-### 1. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
-💬 700 points | 🧑‍💻 by apitman
+### 1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
+💬 1209 points | 🧑‍💻 by jeffmcjunkin
 
-### 2. [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
-💬 111 points | 🧑‍💻 by glittershark
+### 2. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
+💬 391 points | 🧑‍💻 by axelriet
 
-### 3. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
-💬 53 points | 🧑‍💻 by Strilanc
+### 3. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
+💬 357 points | 🧑‍💻 by tosh
 
-### 4. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
-💬 329 points | 🧑‍💻 by ingve
+### 4. [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
+💬 49 points | 🧑‍💻 by gaigalas
 
-### 5. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
-💬 484 points | 🧑‍💻 by elithrar
+### 5. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
+💬 157 points | 🧑‍💻 by 1659447091
 

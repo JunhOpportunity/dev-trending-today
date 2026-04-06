@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-06)
 
-### 1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
-💬 1209 points | 🧑‍💻 by jeffmcjunkin
+### 1. [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+💬 116 points | 🧑‍💻 by armanified
 
-### 2. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
-💬 391 points | 🧑‍💻 by axelriet
+### 2. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+💬 466 points | 🧑‍💻 by janandonly
 
-### 3. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
-💬 357 points | 🧑‍💻 by tosh
+### 3. [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
+💬 97 points | 🧑‍💻 by nevernothing
 
-### 4. [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
-💬 49 points | 🧑‍💻 by gaigalas
+### 4. [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
+💬 225 points | 🧑‍💻 by cl3misch
 
-### 5. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
-💬 157 points | 🧑‍💻 by 1659447091
+### 5. [Copilot is 'for entertainment purposes only', per Microsoft's terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
+💬 35 points | 🧑‍💻 by airstrike
 

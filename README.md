@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-07)
 
-### 1. [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
-💬 116 points | 🧑‍💻 by armanified
+### 1. [VOID: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
+💬 90 points | 🧑‍💻 by bobsoap
 
-### 2. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-💬 466 points | 🧑‍💻 by janandonly
+### 2. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+💬 259 points | 🧑‍💻 by MattHart88
 
-### 3. [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
-💬 97 points | 🧑‍💻 by nevernothing
+### 3. [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
+💬 38 points | 🧑‍💻 by TheWiggles
 
-### 4. [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
-💬 225 points | 🧑‍💻 by cl3misch
+### 4. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/)
+💬 216 points | 🧑‍💻 by benswerd
 
-### 5. [Copilot is 'for entertainment purposes only', per Microsoft's terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
-💬 35 points | 🧑‍💻 by airstrike
+### 5. [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
+💬 359 points | 🧑‍💻 by thadt
 

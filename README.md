@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-08)
 
-### 1. [VOID: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
-💬 90 points | 🧑‍💻 by bobsoap
+### 1. [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
+💬 118 points | 🧑‍💻 by surprisetalk
 
-### 2. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-💬 259 points | 🧑‍💻 by MattHart88
+### 2. [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
+💬 273 points | 🧑‍💻 by g-b-r
 
-### 3. [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
-💬 38 points | 🧑‍💻 by TheWiggles
+### 3. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+💬 977 points | 🧑‍💻 by Ryan5453
 
-### 4. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/)
-💬 216 points | 🧑‍💻 by benswerd
+### 4. [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
+💬 450 points | 🧑‍💻 by kipi
 
-### 5. [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
-💬 359 points | 🧑‍💻 by thadt
+### 5. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+💬 563 points | 🧑‍💻 by be7a
 

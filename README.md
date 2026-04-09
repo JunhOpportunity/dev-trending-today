@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-09)
 
-### 1. [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
-💬 118 points | 🧑‍💻 by surprisetalk
+### 1. [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+💬 233 points | 🧑‍💻 by pluc
 
-### 2. [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
-💬 273 points | 🧑‍💻 by g-b-r
+### 2. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+💬 1313 points | 🧑‍💻 by blkhp19
 
-### 3. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
-💬 977 points | 🧑‍💻 by Ryan5453
+### 3. [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+💬 204 points | 🧑‍💻 by WerWolv
 
-### 4. [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
-💬 450 points | 🧑‍💻 by kipi
+### 4. [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
+💬 255 points | 🧑‍💻 by alex_be
 
-### 5. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
-💬 563 points | 🧑‍💻 by be7a
+### 5. [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
+💬 428 points | 🧑‍💻 by surprisetalk
 

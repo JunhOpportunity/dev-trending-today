@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-10)
 
-### 1. [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-💬 233 points | 🧑‍💻 by pluc
+### 1. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+💬 134 points | 🧑‍💻 by speckx
 
-### 2. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-💬 1313 points | 🧑‍💻 by blkhp19
+### 2. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+💬 353 points | 🧑‍💻 by PaulHoule
 
-### 3. [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-💬 204 points | 🧑‍💻 by WerWolv
+### 3. [Generative art over the years](https://blog.veitheller.de/Generative_art_over_the_years.html)
+💬 36 points | 🧑‍💻 by evakhoury
 
-### 4. [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
-💬 255 points | 🧑‍💻 by alex_be
+### 4. [Apple's New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
+💬 31 points | 🧑‍💻 by josephcsible
 
-### 5. [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/)
-💬 428 points | 🧑‍💻 by surprisetalk
+### 5. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+💬 152 points | 🧑‍💻 by rickcarlino
 

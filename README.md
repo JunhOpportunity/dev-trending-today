@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-13)
 
-### 1. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
-💬 134 points | 🧑‍💻 by speckx
+### 1. [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+💬 36 points | 🧑‍💻 by pizza
 
-### 2. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
-💬 353 points | 🧑‍💻 by PaulHoule
+### 2. [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+💬 87 points | 🧑‍💻 by mindcrime
 
-### 3. [Generative art over the years](https://blog.veitheller.de/Generative_art_over_the_years.html)
-💬 36 points | 🧑‍💻 by evakhoury
+### 3. [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+💬 268 points | 🧑‍💻 by a-ve
 
-### 4. [Apple's New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
-💬 31 points | 🧑‍💻 by josephcsible
+### 4. [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)
+💬 22 points | 🧑‍💻 by mpweiher
 
-### 5. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
-💬 152 points | 🧑‍💻 by rickcarlino
+### 5. [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+💬 491 points | 🧑‍💻 by phil294
 

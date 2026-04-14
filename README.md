@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-14)
 
-### 1. [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-💬 36 points | 🧑‍💻 by pizza
+### 1. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+💬 746 points | 🧑‍💻 by speckx
 
-### 2. [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-💬 87 points | 🧑‍💻 by mindcrime
+### 2. [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+💬 489 points | 🧑‍💻 by ezekg
 
-### 3. [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
-💬 268 points | 🧑‍💻 by a-ve
+### 3. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+💬 127 points | 🧑‍💻 by bumbledraven
 
-### 4. [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)
-💬 22 points | 🧑‍💻 by mpweiher
+### 4. [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+💬 32 points | 🧑‍💻 by thebiblelover7
 
-### 5. [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
-💬 491 points | 🧑‍💻 by phil294
+### 5. [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
+💬 76 points | 🧑‍💻 by throwawayk7h
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-15)
 
-### 1. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
-💬 746 points | 🧑‍💻 by speckx
+### 1. [Claude Code Routines](https://code.claude.com/docs/en/routines)
+💬 474 points | 🧑‍💻 by matthieu_bl
 
-### 2. [GitHub Stacked PRs](https://github.github.com/gh-stack/)
-💬 489 points | 🧑‍💻 by ezekg
+### 2. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+💬 556 points | 🧑‍💻 by jrm-veris
 
-### 3. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-💬 127 points | 🧑‍💻 by bumbledraven
+### 3. [Stop Flock](https://stopflock.com)
+💬 424 points | 🧑‍💻 by cdrnsf
 
-### 4. [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
-💬 32 points | 🧑‍💻 by thebiblelover7
+### 4. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
+💬 132 points | 🧑‍💻 by rcarmo
 
-### 5. [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
-💬 76 points | 🧑‍💻 by throwawayk7h
+### 5. [A Communist Apple II and Fourteen Years of Not Knowing What You're Testing](https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/)
+💬 62 points | 🧑‍💻 by major4x
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-16)
 
-### 1. [Claude Code Routines](https://code.claude.com/docs/en/routines)
-💬 474 points | 🧑‍💻 by matthieu_bl
+### 1. [Stealth signals are bypassing Iran’s internet blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
+💬 19 points | 🧑‍💻 by WaitWaitWha
 
-### 2. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
-💬 556 points | 🧑‍💻 by jrm-veris
+### 2. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
+💬 293 points | 🧑‍💻 by dbreunig
 
-### 3. [Stop Flock](https://stopflock.com)
-💬 424 points | 🧑‍💻 by cdrnsf
+### 3. [The paper computer](https://jsomers.net/blog/the-paper-computer)
+💬 17 points | 🧑‍💻 by jsomers
 
-### 4. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
-💬 132 points | 🧑‍💻 by rcarmo
+### 4. [I made a terminal pager](https://theleo.zone/posts/pager/)
+💬 79 points | 🧑‍💻 by speckx
 
-### 5. [A Communist Apple II and Fourteen Years of Not Knowing What You're Testing](https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/)
-💬 62 points | 🧑‍💻 by major4x
+### 5. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
+💬 1207 points | 🧑‍💻 by Brajeshwar
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-17)
 
-### 1. [Stealth signals are bypassing Iran’s internet blackout](https://spectrum.ieee.org/iran-internet-blackout-satellite-tv)
-💬 19 points | 🧑‍💻 by WaitWaitWha
+### 1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+💬 1542 points | 🧑‍💻 by meetpateltech
 
-### 2. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
-💬 293 points | 🧑‍💻 by dbreunig
+### 2. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+💬 726 points | 🧑‍💻 by mikeevans
 
-### 3. [The paper computer](https://jsomers.net/blog/the-paper-computer)
-💬 17 points | 🧑‍💻 by jsomers
+### 3. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
+💬 57 points | 🧑‍💻 by gregsadetsky
 
-### 4. [I made a terminal pager](https://theleo.zone/posts/pager/)
-💬 79 points | 🧑‍💻 by speckx
+### 4. [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
+💬 109 points | 🧑‍💻 by scaredpelican
 
-### 5. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
-💬 1207 points | 🧑‍💻 by Brajeshwar
+### 5. [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
+💬 33 points | 🧑‍💻 by _fizz_buzz_
 

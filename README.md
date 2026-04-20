@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-20)
 
-### 1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
-💬 1542 points | 🧑‍💻 by meetpateltech
+### 1. [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
+💬 80 points | 🧑‍💻 by shivampkumar
 
-### 2. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
-💬 726 points | 🧑‍💻 by mikeevans
+### 2. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
+💬 104 points | 🧑‍💻 by vinhnx
 
-### 3. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
-💬 57 points | 🧑‍💻 by gregsadetsky
+### 3. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+💬 594 points | 🧑‍💻 by colesantiago
 
-### 4. [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
-💬 109 points | 🧑‍💻 by scaredpelican
+### 4. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+💬 166 points | 🧑‍💻 by crescit_eundo
 
-### 5. [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
-💬 33 points | 🧑‍💻 by _fizz_buzz_
+### 5. [Mechanical Keyboard Sounds - A listening Museum](https://sheets.works/data-viz/keyboard-sounds)
+💬 46 points | 🧑‍💻 by akashwadhwani35
 

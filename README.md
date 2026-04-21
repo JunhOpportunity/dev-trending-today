@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-21)
 
-### 1. [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
-💬 80 points | 🧑‍💻 by shivampkumar
+### 1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+💬 1334 points | 🧑‍💻 by schappim
 
-### 2. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
-💬 104 points | 🧑‍💻 by vinhnx
+### 2. [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
+💬 64 points | 🧑‍💻 by pizlonator
 
-### 3. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-💬 594 points | 🧑‍💻 by colesantiago
+### 3. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+💬 164 points | 🧑‍💻 by icorbrey
 
-### 4. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
-💬 166 points | 🧑‍💻 by crescit_eundo
+### 4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
+💬 559 points | 🧑‍💻 by mfiguiere
 
-### 5. [Mechanical Keyboard Sounds - A listening Museum](https://sheets.works/data-viz/keyboard-sounds)
-💬 46 points | 🧑‍💻 by akashwadhwani35
+### 5. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
+💬 184 points | 🧑‍💻 by Alifatisk
 

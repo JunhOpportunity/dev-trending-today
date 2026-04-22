@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-22)
 
-### 1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
-💬 1334 points | 🧑‍💻 by schappim
+### 1. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
+💬 535 points | 🧑‍💻 by wahnfrieden
 
-### 2. [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
-💬 64 points | 🧑‍💻 by pizlonator
+### 2. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+💬 350 points | 🧑‍💻 by dmarcos
 
-### 3. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
-💬 164 points | 🧑‍💻 by icorbrey
+### 3. [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
+💬 14 points | 🧑‍💻 by kaipereira
 
-### 4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
-💬 559 points | 🧑‍💻 by mfiguiere
+### 4. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
+💬 279 points | 🧑‍💻 by queenelvis
 
-### 5. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
-💬 184 points | 🧑‍💻 by Alifatisk
+### 5. [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
+💬 115 points | 🧑‍💻 by littlexsparkee
 

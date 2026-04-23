@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-23)
 
-### 1. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
-💬 535 points | 🧑‍💻 by wahnfrieden
+### 1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+💬 1430 points | 🧑‍💻 by Kaibeezy
 
-### 2. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
-💬 350 points | 🧑‍💻 by dmarcos
+### 2. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+💬 425 points | 🧑‍💻 by cdrnsf
 
-### 3. [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
-💬 14 points | 🧑‍💻 by kaipereira
+### 3. [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
+💬 494 points | 🧑‍💻 by danpinto
 
-### 4. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
-💬 279 points | 🧑‍💻 by queenelvis
+### 4. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
+💬 740 points | 🧑‍💻 by mfiguiere
 
-### 5. [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply)
-💬 115 points | 🧑‍💻 by littlexsparkee
+### 5. [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
+💬 469 points | 🧑‍💻 by zdw
 

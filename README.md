@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-24)
 
-### 1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
-💬 1430 points | 🧑‍💻 by Kaibeezy
+### 1. [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+💬 48 points | 🧑‍💻 by RyanShook
 
-### 2. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-💬 425 points | 🧑‍💻 by cdrnsf
+### 2. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+💬 1161 points | 🧑‍💻 by rd
 
-### 3. [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
-💬 494 points | 🧑‍💻 by danpinto
+### 3. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+💬 673 points | 🧑‍💻 by tosh
 
-### 4. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
-💬 740 points | 🧑‍💻 by mfiguiere
+### 4. [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
+💬 122 points | 🧑‍💻 by lucaronin
 
-### 5. [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
-💬 469 points | 🧑‍💻 by zdw
+### 5. [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency)
+💬 442 points | 🧑‍💻 by Vaslo
 

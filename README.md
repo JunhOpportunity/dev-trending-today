@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-27)
 
-### 1. [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
-💬 48 points | 🧑‍💻 by RyanShook
+### 1. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+💬 510 points | 🧑‍💻 by ca98am79
 
-### 2. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
-💬 1161 points | 🧑‍💻 by rd
+### 2. [Self-updating screenshots](https://interblah.net/self-updating-screenshots)
+💬 112 points | 🧑‍💻 by bjhess
 
-### 3. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
-💬 673 points | 🧑‍💻 by tosh
+### 3. [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
+💬 85 points | 🧑‍💻 by nervous_north
 
-### 4. [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
-💬 122 points | 🧑‍💻 by lucaronin
+### 4. [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
+💬 18 points | 🧑‍💻 by kweezar
 
-### 5. [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency)
-💬 442 points | 🧑‍💻 by Vaslo
+### 5. [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
+💬 18 points | 🧑‍💻 by evanklem2004
 

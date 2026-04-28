@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-28)
 
-### 1. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
-💬 510 points | 🧑‍💻 by ca98am79
+### 1. [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
+💬 151 points | 🧑‍💻 by jekude
 
-### 2. [Self-updating screenshots](https://interblah.net/self-updating-screenshots)
-💬 112 points | 🧑‍💻 by bjhess
+### 2. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+💬 790 points | 🧑‍💻 by helsinkiandrew
 
-### 3. [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)
-💬 85 points | 🧑‍💻 by nervous_north
+### 3. [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
+💬 78 points | 🧑‍💻 by vermaden
 
-### 4. [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
-💬 18 points | 🧑‍💻 by kweezar
+### 4. [Meetings are forcing functions](https://www.mooreds.com/wordpress/archives/3734)
+💬 74 points | 🧑‍💻 by zdw
 
-### 5. [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
-💬 18 points | 🧑‍💻 by evanklem2004
+### 5. [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+💬 124 points | 🧑‍💻 by gnabgib
 

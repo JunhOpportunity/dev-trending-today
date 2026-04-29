@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-04-29)
 
-### 1. [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
-💬 151 points | 🧑‍💻 by jekude
+### 1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+💬 1920 points | 🧑‍💻 by WadeGrimridge
 
-### 2. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
-💬 790 points | 🧑‍💻 by helsinkiandrew
+### 2. [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+💬 311 points | 🧑‍💻 by mlex
 
-### 3. [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
-💬 78 points | 🧑‍💻 by vermaden
+### 3. [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+💬 195 points | 🧑‍💻 by lmbbuchodi
 
-### 4. [Meetings are forcing functions](https://www.mooreds.com/wordpress/archives/3734)
-💬 74 points | 🧑‍💻 by zdw
+### 4. [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+💬 168 points | 🧑‍💻 by thomashobohm
 
-### 5. [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
-💬 124 points | 🧑‍💻 by gnabgib
+### 5. [Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU](https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md)
+💬 31 points | 🧑‍💻 by fesens
 

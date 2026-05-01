@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-04-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-01)
 
-### 1. [Where the Goblins Came From](https://openai.com/index/where-the-goblins-came-from/)
-💬 69 points | 🧑‍💻 by ilreb
+### 1. [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
+💬 32 points | 🧑‍💻 by kernalix7
 
-### 2. [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
-💬 122 points | 🧑‍💻 by rdl
+### 2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+💬 470 points | 🧑‍💻 by the-mitr
 
-### 3. [Zed 1.0](https://zed.dev/blog/zed-1-0)
-💬 1619 points | 🧑‍💻 by salkahfi
+### 3. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)
+💬 221 points | 🧑‍💻 by ilamont
 
-### 4. [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
-💬 11 points | 🧑‍💻 by the-mitr
+### 4. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10)
+💬 407 points | 🧑‍💻 by ori_b
 
-### 5. [Copy Fail](https://copy.fail/)
-💬 693 points | 🧑‍💻 by unsnap_biceps
+### 5. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+💬 341 points | 🧑‍💻 by j12y
 

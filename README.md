@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-04)
 
-### 1. [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
-💬 32 points | 🧑‍💻 by kernalix7
+### 1. [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+💬 296 points | 🧑‍💻 by nullagent
 
-### 2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
-💬 470 points | 🧑‍💻 by the-mitr
+### 2. [Using "underdrawings" for accurate text and numbers](https://samcollins.blog/underdrawings/)
+💬 68 points | 🧑‍💻 by samcollins
 
-### 3. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)
-💬 221 points | 🧑‍💻 by ilamont
+### 3. [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
+💬 224 points | 🧑‍💻 by alattaran
 
-### 4. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10)
-💬 407 points | 🧑‍💻 by ori_b
+### 4. [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
+💬 231 points | 🧑‍💻 by bjhess
 
-### 5. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
-💬 341 points | 🧑‍💻 by j12y
+### 5. [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+💬 80 points | 🧑‍💻 by jdgr
 

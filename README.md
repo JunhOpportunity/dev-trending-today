@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-05)
 
-### 1. [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
-💬 296 points | 🧑‍💻 by nullagent
+### 1. [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
+💬 221 points | 🧑‍💻 by SergeAx
 
-### 2. [Using "underdrawings" for accurate text and numbers](https://samcollins.blog/underdrawings/)
-💬 68 points | 🧑‍💻 by samcollins
+### 2. [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+💬 48 points | 🧑‍💻 by raphaelcosta
 
-### 3. [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
-💬 224 points | 🧑‍💻 by alattaran
+### 3. [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+💬 316 points | 🧑‍💻 by Sean-Der
 
-### 4. [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
-💬 231 points | 🧑‍💻 by bjhess
+### 4. [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
+💬 19 points | 🧑‍💻 by jay_kyburz
 
-### 5. [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-💬 80 points | 🧑‍💻 by jdgr
+### 5. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+💬 1224 points | 🧑‍💻 by thitran
 

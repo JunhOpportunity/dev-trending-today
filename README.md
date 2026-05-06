@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-06)
 
-### 1. [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
-💬 221 points | 🧑‍💻 by SergeAx
+### 1. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+💬 562 points | 🧑‍💻 by warpspin
 
-### 2. [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
-💬 48 points | 🧑‍💻 by raphaelcosta
+### 2. [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+💬 52 points | 🧑‍💻 by debo_
 
-### 3. [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
-💬 316 points | 🧑‍💻 by Sean-Der
+### 3. [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+💬 13 points | 🧑‍💻 by rolph
 
-### 4. [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
-💬 19 points | 🧑‍💻 by jay_kyburz
+### 4. [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
+💬 485 points | 🧑‍💻 by amrrs
 
-### 5. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
-💬 1224 points | 🧑‍💻 by thitran
+### 5. [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+💬 166 points | 🧑‍💻 by nohell
 

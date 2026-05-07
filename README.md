@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-07)
 
-### 1. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
-💬 562 points | 🧑‍💻 by warpspin
+### 1. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+💬 1146 points | 🧑‍💻 by haunter
 
-### 2. [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
-💬 52 points | 🧑‍💻 by debo_
+### 2. [Permacomputing Principles](https://permacomputing.net/principles/)
+💬 23 points | 🧑‍💻 by andsoitis
 
-### 3. [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-💬 13 points | 🧑‍💻 by rolph
+### 3. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+💬 801 points | 🧑‍💻 by diebillionaires
 
-### 4. [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
-💬 485 points | 🧑‍💻 by amrrs
+### 4. [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
+💬 68 points | 🧑‍💻 by ks2048
 
-### 5. [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
-💬 166 points | 🧑‍💻 by nohell
+### 5. [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
+💬 448 points | 🧑‍💻 by e12e
 

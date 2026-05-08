@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-08)
 
-### 1. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
-💬 1146 points | 🧑‍💻 by haunter
+### 1. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+💬 351 points | 🧑‍💻 by stefanpie
 
-### 2. [Permacomputing Principles](https://permacomputing.net/principles/)
-💬 23 points | 🧑‍💻 by andsoitis
+### 2. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+💬 224 points | 🧑‍💻 by psxuaw
 
-### 3. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
-💬 801 points | 🧑‍💻 by diebillionaires
+### 3. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+💬 469 points | 🧑‍💻 by flipped
 
-### 4. [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
-💬 68 points | 🧑‍💻 by ks2048
+### 4. [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/)
+💬 28 points | 🧑‍💻 by cemsakarya
 
-### 5. [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
-💬 448 points | 🧑‍💻 by e12e
+### 5. [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
+💬 307 points | 🧑‍💻 by PriorityLeft
 

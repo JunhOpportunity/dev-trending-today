@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-12)
 
-### 1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
-💬 1057 points | 🧑‍💻 by ChuckMcM
+### 1. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+💬 609 points | 🧑‍💻 by varunsharma07
 
-### 2. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-💬 741 points | 🧑‍💻 by cylo
+### 2. [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+💬 51 points | 🧑‍💻 by matrixhelix
 
-### 3. [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
-💬 130 points | 🧑‍💻 by dropbox_miner
+### 3. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+💬 251 points | 🧑‍💻 by indigodaddy
 
-### 4. [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
-💬 39 points | 🧑‍💻 by susam
+### 4. [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
+💬 268 points | 🧑‍💻 by bookofjoe
 
-### 5. [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-💬 167 points | 🧑‍💻 by shintoist
+### 5. [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
+💬 45 points | 🧑‍💻 by tokenburner
 

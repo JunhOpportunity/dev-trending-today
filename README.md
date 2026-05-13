@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-13)
 
-### 1. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-💬 609 points | 🧑‍💻 by varunsharma07
+### 1. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+💬 248 points | 🧑‍💻 by Murfalo
 
-### 2. [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
-💬 51 points | 🧑‍💻 by matrixhelix
+### 2. [Googlebook](https://googlebook.google/)
+💬 659 points | 🧑‍💻 by tambourine_man
 
-### 3. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
-💬 251 points | 🧑‍💻 by indigodaddy
+### 3. [Starship V3](https://www.spacex.com/updates#starship-v3)
+💬 140 points | 🧑‍💻 by fprog
 
-### 4. [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
-💬 268 points | 🧑‍💻 by bookofjoe
+### 4. [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+💬 95 points | 🧑‍💻 by ericswpark
 
-### 5. [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
-💬 45 points | 🧑‍💻 by tokenburner
+### 5. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+💬 329 points | 🧑‍💻 by HenryNdubuaku
 

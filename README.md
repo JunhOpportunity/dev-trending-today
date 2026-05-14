@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-14)
 
-### 1. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-💬 248 points | 🧑‍💻 by Murfalo
+### 1. [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
+💬 156 points | 🧑‍💻 by meshko
 
-### 2. [Googlebook](https://googlebook.google/)
-💬 659 points | 🧑‍💻 by tambourine_man
+### 2. [Cisco Workforce Reductions](https://blogs.cisco.com/news/our-path-forward)
+💬 62 points | 🧑‍💻 by ahmedomran8
 
-### 3. [Starship V3](https://www.spacex.com/updates#starship-v3)
-💬 140 points | 🧑‍💻 by fprog
+### 3. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
+💬 588 points | 🧑‍💻 by haunter
 
-### 4. [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-💬 95 points | 🧑‍💻 by ericswpark
+### 4. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
+💬 523 points | 🧑‍💻 by speckx
 
-### 5. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
-💬 329 points | 🧑‍💻 by HenryNdubuaku
+### 5. [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
+💬 310 points | 🧑‍💻 by laurentlb
 

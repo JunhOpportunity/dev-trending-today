@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-15)
 
-### 1. [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
-💬 156 points | 🧑‍💻 by meshko
+### 1. [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
+💬 111 points | 🧑‍💻 by RGBCube
 
-### 2. [Cisco Workforce Reductions](https://blogs.cisco.com/news/our-path-forward)
-💬 62 points | 🧑‍💻 by ahmedomran8
+### 2. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+💬 687 points | 🧑‍💻 by arkadiyt
 
-### 3. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
-💬 588 points | 🧑‍💻 by haunter
+### 3. [A few words on DS4](https://antirez.com/news/165)
+💬 207 points | 🧑‍💻 by caust1c
 
-### 4. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
-💬 523 points | 🧑‍💻 by speckx
+### 4. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
+💬 295 points | 🧑‍💻 by quadrige
 
-### 5. [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
-💬 310 points | 🧑‍💻 by laurentlb
+### 5. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+💬 517 points | 🧑‍💻 by allenleee
 

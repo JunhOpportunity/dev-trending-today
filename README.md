@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-18)
 
-### 1. [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
-💬 111 points | 🧑‍💻 by RGBCube
+### 1. [GenCAD](https://gencad.github.io/)
+💬 172 points | 🧑‍💻 by dagenix
 
-### 2. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
-💬 687 points | 🧑‍💻 by arkadiyt
+### 2. [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
+💬 280 points | 🧑‍💻 by tech4bot
 
-### 3. [A few words on DS4](https://antirez.com/news/165)
-💬 207 points | 🧑‍💻 by caust1c
+### 3. [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
+💬 68 points | 🧑‍💻 by gaws
 
-### 4. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
-💬 295 points | 🧑‍💻 by quadrige
+### 4. [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+💬 73 points | 🧑‍💻 by RohanAdwankar
 
-### 5. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
-💬 517 points | 🧑‍💻 by allenleee
+### 5. [A Good Lemma Is Worth a Thousand Theorems (2007)](https://sites.math.rutgers.edu/~zeilberg/Opinion82.html)
+💬 22 points | 🧑‍💻 by susam
 

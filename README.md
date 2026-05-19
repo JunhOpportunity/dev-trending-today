@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-19)
 
-### 1. [GenCAD](https://gencad.github.io/)
-💬 172 points | 🧑‍💻 by dagenix
+### 1. [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
+💬 65 points | 🧑‍💻 by speckx
 
-### 2. [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-💬 280 points | 🧑‍💻 by tech4bot
+### 2. [Click (2016)](https://clickclickclick.click/)
+💬 233 points | 🧑‍💻 by andrewzeno
 
-### 3. [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
-💬 68 points | 🧑‍💻 by gaws
+### 3. [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+💬 77 points | 🧑‍💻 by yakkomajuri
 
-### 4. [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
-💬 73 points | 🧑‍💻 by RohanAdwankar
+### 4. [Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+💬 46 points | 🧑‍💻 by surprisetalk
 
-### 5. [A Good Lemma Is Worth a Thousand Theorems (2007)](https://sites.math.rutgers.edu/~zeilberg/Opinion82.html)
-💬 22 points | 🧑‍💻 by susam
+### 5. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+💬 389 points | 🧑‍💻 by tomeraberbach
 

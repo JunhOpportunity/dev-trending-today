@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-21)
 
-### 1. [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-💬 296 points | 🧑‍💻 by aarondf
+### 1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+💬 858 points | 🧑‍💻 by tedsanders
 
-### 2. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
-💬 647 points | 🧑‍💻 by spectraldrift
+### 2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
+💬 624 points | 🧑‍💻 by Timofeibu
 
-### 3. [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
-💬 63 points | 🧑‍💻 by ChocMontePy
+### 3. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
+💬 146 points | 🧑‍💻 by kageroumado
 
-### 4. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
-💬 648 points | 🧑‍💻 by andreww591
+### 4. [DOS Zone](https://dos.zone/)
+💬 147 points | 🧑‍💻 by rglover
 
-### 5. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
-💬 425 points | 🧑‍💻 by berkeleyjunk
+### 5. [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
+💬 178 points | 🧑‍💻 by ki4jgt
 

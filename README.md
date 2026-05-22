@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-22)
 
-### 1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-💬 858 points | 🧑‍💻 by tedsanders
+### 1. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+💬 676 points | 🧑‍💻 by speleo
 
-### 2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
-💬 624 points | 🧑‍💻 by Timofeibu
+### 2. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
+💬 200 points | 🧑‍💻 by speckx
 
-### 3. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
-💬 146 points | 🧑‍💻 by kageroumado
+### 3. [The Death of the Brick and Mortar Toy Store](https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/)
+💬 46 points | 🧑‍💻 by speckx
 
-### 4. [DOS Zone](https://dos.zone/)
-💬 147 points | 🧑‍💻 by rglover
+### 4. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+💬 157 points | 🧑‍💻 by speckx
 
-### 5. [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
-💬 178 points | 🧑‍💻 by ki4jgt
+### 5. [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+💬 114 points | 🧑‍💻 by carabiner
 

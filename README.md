@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-25)
 
-### 1. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
-💬 676 points | 🧑‍💻 by speleo
+### 1. [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+💬 43 points | 🧑‍💻 by razin
 
-### 2. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
-💬 200 points | 🧑‍💻 by speckx
+### 2. [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
+💬 246 points | 🧑‍💻 by pantelisk
 
-### 3. [The Death of the Brick and Mortar Toy Store](https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/)
-💬 46 points | 🧑‍💻 by speckx
+### 3. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+💬 491 points | 🧑‍💻 by Alifatisk
 
-### 4. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
-💬 157 points | 🧑‍💻 by speckx
+### 4. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+💬 169 points | 🧑‍💻 by jabits
 
-### 5. [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
-💬 114 points | 🧑‍💻 by carabiner
+### 5. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
+💬 108 points | 🧑‍💻 by littlexsparkee
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-26)
 
-### 1. [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
-💬 43 points | 🧑‍💻 by razin
+### 1. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+💬 271 points | 🧑‍💻 by signa11
 
-### 2. [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-💬 246 points | 🧑‍💻 by pantelisk
+### 2. [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
+💬 136 points | 🧑‍💻 by bilsbie
 
-### 3. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
-💬 491 points | 🧑‍💻 by Alifatisk
+### 3. [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
+💬 98 points | 🧑‍💻 by subract
 
-### 4. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-💬 169 points | 🧑‍💻 by jabits
+### 4. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
+💬 193 points | 🧑‍💻 by rbanffy
 
-### 5. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-💬 108 points | 🧑‍💻 by littlexsparkee
+### 5. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
+💬 299 points | 🧑‍💻 by Cider9986
 

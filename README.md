@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-05-27)
 
-### 1. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
-💬 271 points | 🧑‍💻 by signa11
+### 1. [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
+💬 33 points | 🧑‍💻 by jxmorris12
 
-### 2. [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
-💬 136 points | 🧑‍💻 by bilsbie
+### 2. [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
+💬 130 points | 🧑‍💻 by tjek
 
-### 3. [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
-💬 98 points | 🧑‍💻 by subract
+### 3. [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+💬 284 points | 🧑‍💻 by nooks
 
-### 4. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
-💬 193 points | 🧑‍💻 by rbanffy
+### 4. [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+💬 65 points | 🧑‍💻 by 0x5FC3
 
-### 5. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
-💬 299 points | 🧑‍💻 by Cider9986
+### 5. [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)
+💬 62 points | 🧑‍💻 by susam
 

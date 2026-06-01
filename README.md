@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-05-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-01)
 
-### 1. [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
-💬 95 points | 🧑‍💻 by 1vuio0pswjnm7
+### 1. [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+💬 130 points | 🧑‍💻 by thcipriani
 
-### 2. [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
-💬 44 points | 🧑‍💻 by benbreen
+### 2. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+💬 576 points | 🧑‍💻 by HypnoticOcelot
 
-### 3. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
-💬 1318 points | 🧑‍💻 by craigmart
+### 3. [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
+💬 54 points | 🧑‍💻 by rawgabbit
 
-### 4. [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
-💬 718 points | 🧑‍💻 by philips
+### 4. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
+💬 329 points | 🧑‍💻 by modinfo
 
-### 5. [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/)
-💬 249 points | 🧑‍💻 by mattrighetti
+### 5. [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+💬 419 points | 🧑‍💻 by captain_bender
 

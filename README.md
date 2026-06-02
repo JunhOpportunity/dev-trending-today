@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-02)
 
-### 1. [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-💬 130 points | 🧑‍💻 by thcipriani
+### 1. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+💬 138 points | 🧑‍💻 by ranebo
 
-### 2. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
-💬 576 points | 🧑‍💻 by HypnoticOcelot
+### 2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+💬 1482 points | 🧑‍💻 by ssiddharth
 
-### 3. [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
-💬 54 points | 🧑‍💻 by rawgabbit
+### 3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+💬 181 points | 🧑‍💻 by 1vuio0pswjnm7
 
-### 4. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
-💬 329 points | 🧑‍💻 by modinfo
+### 4. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+💬 63 points | 🧑‍💻 by hasheddan
 
-### 5. [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
-💬 419 points | 🧑‍💻 by captain_bender
+### 5. [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
+💬 126 points | 🧑‍💻 by nigelgutzmann
 

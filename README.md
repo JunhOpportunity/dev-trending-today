@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-03)
 
-### 1. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
-💬 138 points | 🧑‍💻 by ranebo
+### 1. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+💬 153 points | 🧑‍💻 by ammar2
 
-### 2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
-💬 1482 points | 🧑‍💻 by ssiddharth
+### 2. [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis)
+💬 31 points | 🧑‍💻 by JumpCrisscross
 
-### 3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
-💬 181 points | 🧑‍💻 by 1vuio0pswjnm7
+### 3. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+💬 199 points | 🧑‍💻 by tanelpoder
 
-### 4. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
-💬 63 points | 🧑‍💻 by hasheddan
+### 4. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+💬 426 points | 🧑‍💻 by EvanZhouDev
 
-### 5. [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
-💬 126 points | 🧑‍💻 by nigelgutzmann
+### 5. [Agentic Mfw](https://agenticmotherfucking.website)
+💬 87 points | 🧑‍💻 by elmerland
 

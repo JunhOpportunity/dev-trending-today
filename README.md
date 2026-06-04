@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-04)
 
-### 1. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
-💬 153 points | 🧑‍💻 by ammar2
+### 1. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+💬 635 points | 🧑‍💻 by cloud8421
 
-### 2. [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis)
-💬 31 points | 🧑‍💻 by JumpCrisscross
+### 2. [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
+💬 108 points | 🧑‍💻 by jc4p
 
-### 3. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
-💬 199 points | 🧑‍💻 by tanelpoder
+### 3. ["They're made out of weights"](https://maxleiter.com/blog/weights)
+💬 157 points | 🧑‍💻 by MaxLeiter
 
-### 4. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
-💬 426 points | 🧑‍💻 by EvanZhouDev
+### 4. [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+💬 88 points | 🧑‍💻 by littlexsparkee
 
-### 5. [Agentic Mfw](https://agenticmotherfucking.website)
-💬 87 points | 🧑‍💻 by elmerland
+### 5. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+💬 756 points | 🧑‍💻 by rvz
 

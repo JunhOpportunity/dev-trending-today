@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-05)
 
-### 1. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
-💬 635 points | 🧑‍💻 by cloud8421
+### 1. [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+💬 131 points | 🧑‍💻 by jenders
 
-### 2. [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
-💬 108 points | 🧑‍💻 by jc4p
+### 2. [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
+💬 22 points | 🧑‍💻 by haydenbarnes
 
-### 3. ["They're made out of weights"](https://maxleiter.com/blog/weights)
-💬 157 points | 🧑‍💻 by MaxLeiter
+### 3. [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
+💬 329 points | 🧑‍💻 by binyu
 
-### 4. [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
-💬 88 points | 🧑‍💻 by littlexsparkee
+### 4. [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+💬 128 points | 🧑‍💻 by Anon84
 
-### 5. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
-💬 756 points | 🧑‍💻 by rvz
+### 5. [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
+💬 91 points | 🧑‍💻 by geoffbp
 

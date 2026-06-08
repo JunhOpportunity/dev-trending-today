@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-08)
 
-### 1. [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
-💬 131 points | 🧑‍💻 by jenders
+### 1. [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
+💬 95 points | 🧑‍💻 by gmays
 
-### 2. [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
-💬 22 points | 🧑‍💻 by haydenbarnes
+### 2. [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+💬 146 points | 🧑‍💻 by vthommeret
 
-### 3. [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-💬 329 points | 🧑‍💻 by binyu
+### 3. [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+💬 29 points | 🧑‍💻 by 882542F3884314B
 
-### 4. [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
-💬 128 points | 🧑‍💻 by Anon84
+### 4. [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
+💬 113 points | 🧑‍💻 by DevarshRanpara
 
-### 5. [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
-💬 91 points | 🧑‍💻 by geoffbp
+### 5. [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+💬 506 points | 🧑‍💻 by gavinray
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-09)
 
-### 1. [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
-💬 95 points | 🧑‍💻 by gmays
+### 1. [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
+💬 48 points | 🧑‍💻 by mooreds
 
-### 2. [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
-💬 146 points | 🧑‍💻 by vthommeret
+### 2. [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+💬 427 points | 🧑‍💻 by unclefuzzy
 
-### 3. [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-💬 29 points | 🧑‍💻 by 882542F3884314B
+### 3. [Siri AI](https://www.apple.com/apple-intelligence/)
+💬 473 points | 🧑‍💻 by 0xedb
 
-### 4. [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
-💬 113 points | 🧑‍💻 by DevarshRanpara
+### 4. [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
+💬 848 points | 🧑‍💻 by lizhang
 
-### 5. [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
-💬 506 points | 🧑‍💻 by gavinray
+### 5. [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
+💬 466 points | 🧑‍💻 by martinald
 

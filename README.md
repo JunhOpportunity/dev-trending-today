@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-10)
 
-### 1. [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
-💬 48 points | 🧑‍💻 by mooreds
+### 1. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+💬 380 points | 🧑‍💻 by timsneath
 
-### 2. [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-💬 427 points | 🧑‍💻 by unclefuzzy
+### 2. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+💬 1922 points | 🧑‍💻 by Philpax
 
-### 3. [Siri AI](https://www.apple.com/apple-intelligence/)
-💬 473 points | 🧑‍💻 by 0xedb
+### 3. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+💬 246 points | 🧑‍💻 by plasma
 
-### 4. [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
-💬 848 points | 🧑‍💻 by lizhang
+### 4. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+💬 39 points | 🧑‍💻 by yimby
 
-### 5. [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
-💬 466 points | 🧑‍💻 by martinald
+### 5. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+💬 176 points | 🧑‍💻 by ahlCVA
 

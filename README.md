@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-15)
 
-### 1. [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-💬 234 points | 🧑‍💻 by sam_bristow
+### 1. [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+💬 348 points | 🧑‍💻 by sohkamyung
 
-### 2. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-💬 397 points | 🧑‍💻 by jjfoooo4
+### 2. [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+💬 60 points | 🧑‍💻 by signa11
 
-### 3. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
-💬 1081 points | 🧑‍💻 by mikemcquaid
+### 3. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+💬 472 points | 🧑‍💻 by tamnd
 
-### 4. [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-💬 239 points | 🧑‍💻 by lumpa
+### 4. [Bitsy](https://bitsy.org/)
+💬 92 points | 🧑‍💻 by tosh
 
-### 5. [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-💬 318 points | 🧑‍💻 by matthewbarras
+### 5. [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
+💬 47 points | 🧑‍💻 by teleforce
 

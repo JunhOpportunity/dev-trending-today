@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-15)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-16)
 
-### 1. [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-💬 348 points | 🧑‍💻 by sohkamyung
+### 1. [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+💬 57 points | 🧑‍💻 by paulmooreparks
 
-### 2. [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-💬 60 points | 🧑‍💻 by signa11
+### 2. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+💬 905 points | 🧑‍💻 by lwhsiao
 
-### 3. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-💬 472 points | 🧑‍💻 by tamnd
+### 3. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+💬 258 points | 🧑‍💻 by sohkamyung
 
-### 4. [Bitsy](https://bitsy.org/)
-💬 92 points | 🧑‍💻 by tosh
+### 4. [Iroh 1.0](https://www.iroh.computer/blog/v1)
+💬 1051 points | 🧑‍💻 by chadfowler
 
-### 5. [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
-💬 47 points | 🧑‍💻 by teleforce
+### 5. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
+💬 692 points | 🧑‍💻 by tinywind
 

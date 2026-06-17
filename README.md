@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-17)
 
-### 1. [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
-💬 57 points | 🧑‍💻 by paulmooreparks
+### 1. [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
+💬 83 points | 🧑‍💻 by TechApocalypse
 
-### 2. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-💬 905 points | 🧑‍💻 by lwhsiao
+### 2. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+💬 536 points | 🧑‍💻 by Cider9986
 
-### 3. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
-💬 258 points | 🧑‍💻 by sohkamyung
+### 3. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+💬 1137 points | 🧑‍💻 by jfb
 
-### 4. [Iroh 1.0](https://www.iroh.computer/blog/v1)
-💬 1051 points | 🧑‍💻 by chadfowler
+### 4. [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+💬 155 points | 🧑‍💻 by denysvitali
 
-### 5. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
-💬 692 points | 🧑‍💻 by tinywind
+### 5. [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+💬 118 points | 🧑‍💻 by alok-g
 

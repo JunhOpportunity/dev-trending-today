@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-18)
 
-### 1. [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
-💬 83 points | 🧑‍💻 by TechApocalypse
+### 1. [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
+💬 323 points | 🧑‍💻 by ricochet11
 
-### 2. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
-💬 536 points | 🧑‍💻 by Cider9986
+### 2. [Lore – Open source version control system designed for scalability](https://lore.org/)
+💬 1054 points | 🧑‍💻 by regnerba
 
-### 3. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
-💬 1137 points | 🧑‍💻 by jfb
+### 3. [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+💬 25 points | 🧑‍💻 by alphabettsy
 
-### 4. [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
-💬 155 points | 🧑‍💻 by denysvitali
+### 4. [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
+💬 408 points | 🧑‍💻 by giuliomagnifico
 
-### 5. [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
-💬 118 points | 🧑‍💻 by alok-g
+### 5. [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
+💬 103 points | 🧑‍💻 by beatthatflight
 

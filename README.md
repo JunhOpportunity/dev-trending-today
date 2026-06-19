@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-19)
 
-### 1. [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-💬 323 points | 🧑‍💻 by ricochet11
+### 1. [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
+💬 78 points | 🧑‍💻 by widdakay
 
-### 2. [Lore – Open source version control system designed for scalability](https://lore.org/)
-💬 1054 points | 🧑‍💻 by regnerba
+### 2. [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+💬 47 points | 🧑‍💻 by js2
 
-### 3. [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-💬 25 points | 🧑‍💻 by alphabettsy
+### 3. [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+💬 104 points | 🧑‍💻 by speckx
 
-### 4. [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
-💬 408 points | 🧑‍💻 by giuliomagnifico
+### 4. [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+💬 29 points | 🧑‍💻 by marklit
 
-### 5. [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
-💬 103 points | 🧑‍💻 by beatthatflight
+### 5. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+💬 152 points | 🧑‍💻 by niyikiza
 

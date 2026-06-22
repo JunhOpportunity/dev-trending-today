@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-22)
 
-### 1. [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
-💬 78 points | 🧑‍💻 by widdakay
+### 1. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+💬 371 points | 🧑‍💻 by advisedwang
 
-### 2. [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
-💬 47 points | 🧑‍💻 by js2
+### 2. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+💬 73 points | 🧑‍💻 by gregsadetsky
 
-### 3. [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
-💬 104 points | 🧑‍💻 by speckx
+### 3. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+💬 287 points | 🧑‍💻 by T-A
 
-### 4. [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
-💬 29 points | 🧑‍💻 by marklit
+### 4. [Sakana Fugu](https://sakana.ai/fugu/)
+💬 68 points | 🧑‍💻 by Finbarr
 
-### 5. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-💬 152 points | 🧑‍💻 by niyikiza
+### 5. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
+💬 167 points | 🧑‍💻 by E-Reverance
 

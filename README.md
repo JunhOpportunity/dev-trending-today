@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-23)
 
-### 1. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-💬 371 points | 🧑‍💻 by advisedwang
+### 1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+💬 1328 points | 🧑‍💻 by theschwa
 
-### 2. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
-💬 73 points | 🧑‍💻 by gregsadetsky
+### 2. [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
+💬 242 points | 🧑‍💻 by TechTechTech
 
-### 3. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
-💬 287 points | 🧑‍💻 by T-A
+### 3. [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+💬 42 points | 🧑‍💻 by timhigins
 
-### 4. [Sakana Fugu](https://sakana.ai/fugu/)
-💬 68 points | 🧑‍💻 by Finbarr
+### 4. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+💬 74 points | 🧑‍💻 by j03b
 
-### 5. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
-💬 167 points | 🧑‍💻 by E-Reverance
+### 5. [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
+💬 78 points | 🧑‍💻 by Vaslo
 

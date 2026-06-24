@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-24)
 
-### 1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-💬 1328 points | 🧑‍💻 by theschwa
+### 1. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+💬 129 points | 🧑‍💻 by goranmoomin
 
-### 2. [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
-💬 242 points | 🧑‍💻 by TechTechTech
+### 2. [Jerry's Map](http://www.jerrysmap.com/the-map)
+💬 367 points | 🧑‍💻 by turtleyacht
 
-### 3. [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
-💬 42 points | 🧑‍💻 by timhigins
+### 3. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
+💬 357 points | 🧑‍💻 by futohq
 
-### 4. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
-💬 74 points | 🧑‍💻 by j03b
+### 4. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
+💬 113 points | 🧑‍💻 by mauvehaus
 
-### 5. [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
-💬 78 points | 🧑‍💻 by Vaslo
+### 5. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
+💬 216 points | 🧑‍💻 by saikatsg
 

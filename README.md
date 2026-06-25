@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-25)
 
-### 1. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-💬 129 points | 🧑‍💻 by goranmoomin
+### 1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+💬 608 points | 🧑‍💻 by jamdesk
 
-### 2. [Jerry's Map](http://www.jerrysmap.com/the-map)
-💬 367 points | 🧑‍💻 by turtleyacht
+### 2. [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
+💬 87 points | 🧑‍💻 by EthanFantl
 
-### 3. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
-💬 357 points | 🧑‍💻 by futohq
+### 3. [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+💬 158 points | 🧑‍💻 by htrp
 
-### 4. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
-💬 113 points | 🧑‍💻 by mauvehaus
+### 4. [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+💬 92 points | 🧑‍💻 by phreddypharkus
 
-### 5. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
-💬 216 points | 🧑‍💻 by saikatsg
+### 5. [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+💬 40 points | 🧑‍💻 by terryds
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-26)
 
-### 1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
-💬 608 points | 🧑‍💻 by jamdesk
+### 1. [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+💬 619 points | 🧑‍💻 by minimaxir
 
-### 2. [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
-💬 87 points | 🧑‍💻 by EthanFantl
+### 2. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+💬 1074 points | 🧑‍💻 by verditelabs
 
-### 3. [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
-💬 158 points | 🧑‍💻 by htrp
+### 3. [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+💬 24 points | 🧑‍💻 by luu
 
-### 4. [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
-💬 92 points | 🧑‍💻 by phreddypharkus
+### 4. [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+💬 75 points | 🧑‍💻 by Alupis
 
-### 5. [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
-💬 40 points | 🧑‍💻 by terryds
+### 5. [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
+💬 144 points | 🧑‍💻 by scrlk
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-29)
 
-### 1. [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
-💬 619 points | 🧑‍💻 by minimaxir
+### 1. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+💬 603 points | 🧑‍💻 by jms703
 
-### 2. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-💬 1074 points | 🧑‍💻 by verditelabs
+### 2. [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+💬 132 points | 🧑‍💻 by arkhiver
 
-### 3. [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
-💬 24 points | 🧑‍💻 by luu
+### 3. [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+💬 232 points | 🧑‍💻 by vga1
 
-### 4. [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
-💬 75 points | 🧑‍💻 by Alupis
+### 4. [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
+💬 343 points | 🧑‍💻 by xbryanx
 
-### 5. [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
-💬 144 points | 🧑‍💻 by scrlk
+### 5. [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
+💬 67 points | 🧑‍💻 by babelfish
 

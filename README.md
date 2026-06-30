@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-06-30)
 
-### 1. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-💬 603 points | 🧑‍💻 by jms703
+### 1. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+💬 707 points | 🧑‍💻 by stared
 
-### 2. [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
-💬 132 points | 🧑‍💻 by arkhiver
+### 2. [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+💬 383 points | 🧑‍💻 by HumanCCF
 
-### 3. [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-💬 232 points | 🧑‍💻 by vga1
+### 3. [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
+💬 301 points | 🧑‍💻 by zdw
 
-### 4. [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
-💬 343 points | 🧑‍💻 by xbryanx
+### 4. [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
+💬 53 points | 🧑‍💻 by modeless
 
-### 5. [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
-💬 67 points | 🧑‍💻 by babelfish
+### 5. [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
+💬 52 points | 🧑‍💻 by benjiro29
 

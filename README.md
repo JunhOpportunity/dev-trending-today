@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-06-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-01)
 
-### 1. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
-💬 707 points | 🧑‍💻 by stared
+### 1. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+💬 974 points | 🧑‍💻 by marinesebastian
 
-### 2. [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
-💬 383 points | 🧑‍💻 by HumanCCF
+### 2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
+💬 1574 points | 🧑‍💻 by kirushik
 
-### 3. [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
-💬 301 points | 🧑‍💻 by zdw
+### 3. [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
+💬 43 points | 🧑‍💻 by lobbly
 
-### 4. [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
-💬 53 points | 🧑‍💻 by modeless
+### 4. [Google copybara: moving code between repositories](https://github.com/google/copybara)
+💬 122 points | 🧑‍💻 by reconnecting
 
-### 5. [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
-💬 52 points | 🧑‍💻 by benjiro29
+### 5. [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+💬 429 points | 🧑‍💻 by Pragmata
 

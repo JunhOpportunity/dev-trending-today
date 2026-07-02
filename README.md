@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-02)
 
-### 1. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-💬 974 points | 🧑‍💻 by marinesebastian
+### 1. [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+💬 53 points | 🧑‍💻 by pentagrama
 
-### 2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
-💬 1574 points | 🧑‍💻 by kirushik
+### 2. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+💬 272 points | 🧑‍💻 by chvid
 
-### 3. [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
-💬 43 points | 🧑‍💻 by lobbly
+### 3. [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
+💬 283 points | 🧑‍💻 by IESAI_ski
 
-### 4. [Google copybara: moving code between repositories](https://github.com/google/copybara)
-💬 122 points | 🧑‍💻 by reconnecting
+### 4. [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+💬 94 points | 🧑‍💻 by devicelimit
 
-### 5. [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
-💬 429 points | 🧑‍💻 by Pragmata
+### 5. [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
+💬 17 points | 🧑‍💻 by matt_d
 

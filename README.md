@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-03)
 
-### 1. [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
-💬 53 points | 🧑‍💻 by pentagrama
+### 1. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+💬 595 points | 🧑‍💻 by toomuchtodo
 
-### 2. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
-💬 272 points | 🧑‍💻 by chvid
+### 2. [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+💬 89 points | 🧑‍💻 by sprawl_
 
-### 3. [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
-💬 283 points | 🧑‍💻 by IESAI_ski
+### 3. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+💬 178 points | 🧑‍💻 by Philpax
 
-### 4. [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-💬 94 points | 🧑‍💻 by devicelimit
+### 4. [Right to Local Intelligence](https://righttointelligence.org/)
+💬 72 points | 🧑‍💻 by thoughtpeddler
 
-### 5. [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
-💬 17 points | 🧑‍💻 by matt_d
+### 5. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+💬 422 points | 🧑‍💻 by IngoBlechschmid
 

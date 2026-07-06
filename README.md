@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-06)
 
-### 1. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-💬 595 points | 🧑‍💻 by toomuchtodo
+### 1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+💬 133 points | 🧑‍💻 by mfiguiere
 
-### 2. [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-💬 89 points | 🧑‍💻 by sprawl_
+### 2. [OpenPrinter](https://www.opentools.studio/)
+💬 543 points | 🧑‍💻 by bouh
 
-### 3. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
-💬 178 points | 🧑‍💻 by Philpax
+### 3. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+💬 131 points | 🧑‍💻 by wxw
 
-### 4. [Right to Local Intelligence](https://righttointelligence.org/)
-💬 72 points | 🧑‍💻 by thoughtpeddler
+### 4. [Organic Maps](https://organicmaps.app/)
+💬 851 points | 🧑‍💻 by tosh
 
-### 5. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
-💬 422 points | 🧑‍💻 by IngoBlechschmid
+### 5. [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+💬 22 points | 🧑‍💻 by dabluck
 

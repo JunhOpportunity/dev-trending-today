@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-07)
 
-### 1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-💬 133 points | 🧑‍💻 by mfiguiere
+### 1. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+💬 227 points | 🧑‍💻 by modinfo
 
-### 2. [OpenPrinter](https://www.opentools.studio/)
-💬 543 points | 🧑‍💻 by bouh
+### 2. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+💬 482 points | 🧑‍💻 by peter_d_sherman
 
-### 3. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-💬 131 points | 🧑‍💻 by wxw
+### 3. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+💬 94 points | 🧑‍💻 by bilsbie
 
-### 4. [Organic Maps](https://organicmaps.app/)
-💬 851 points | 🧑‍💻 by tosh
+### 4. [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+💬 362 points | 🧑‍💻 by basilikum
 
-### 5. [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
-💬 22 points | 🧑‍💻 by dabluck
+### 5. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+💬 227 points | 🧑‍💻 by martinald
 

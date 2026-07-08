@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-08)
 
-### 1. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
-💬 227 points | 🧑‍💻 by modinfo
+### 1. [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+💬 43 points | 🧑‍💻 by nreece
 
-### 2. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-💬 482 points | 🧑‍💻 by peter_d_sherman
+### 2. [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
+💬 141 points | 🧑‍💻 by Jimmc414
 
-### 3. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
-💬 94 points | 🧑‍💻 by bilsbie
+### 3. [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
+💬 65 points | 🧑‍💻 by miniBill
 
-### 4. [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
-💬 362 points | 🧑‍💻 by basilikum
+### 4. [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+💬 57 points | 🧑‍💻 by gjvc
 
-### 5. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
-💬 227 points | 🧑‍💻 by martinald
+### 5. [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211)
+💬 61 points | 🧑‍💻 by throw0101a
 

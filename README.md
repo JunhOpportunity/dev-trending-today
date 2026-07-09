@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-09)
 
-### 1. [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
-💬 43 points | 🧑‍💻 by nreece
+### 1. [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+💬 462 points | 🧑‍💻 by djoldman
 
-### 2. [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
-💬 141 points | 🧑‍💻 by Jimmc414
+### 2. [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+💬 184 points | 🧑‍💻 by sosodev
 
-### 3. [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
-💬 65 points | 🧑‍💻 by miniBill
+### 3. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
+💬 802 points | 🧑‍💻 by speckx
 
-### 4. [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
-💬 57 points | 🧑‍💻 by gjvc
+### 4. [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+💬 179 points | 🧑‍💻 by sk4rekr0w
 
-### 5. [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211)
-💬 61 points | 🧑‍💻 by throw0101a
+### 5. [Cloudflare Drop](https://www.cloudflare.com/drop/)
+💬 314 points | 🧑‍💻 by coloneltcb
 

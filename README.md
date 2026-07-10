@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-10)
 
-### 1. [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-💬 462 points | 🧑‍💻 by djoldman
+### 1. [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
+💬 448 points | 🧑‍💻 by vforno
 
-### 2. [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
-💬 184 points | 🧑‍💻 by sosodev
+### 2. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+💬 1057 points | 🧑‍💻 by rapnie
 
-### 3. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
-💬 802 points | 🧑‍💻 by speckx
+### 3. [Focus](https://boz.com/articles/focus)
+💬 75 points | 🧑‍💻 by iacguy
 
-### 4. [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
-💬 179 points | 🧑‍💻 by sk4rekr0w
+### 4. [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+💬 17 points | 🧑‍💻 by Jimmc414
 
-### 5. [Cloudflare Drop](https://www.cloudflare.com/drop/)
-💬 314 points | 🧑‍💻 by coloneltcb
+### 5. [Show HN: 18 Words](https://18words.com/)
+💬 869 points | 🧑‍💻 by pompomsheep
 

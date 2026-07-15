@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-15)
 
-### 1. [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
-💬 88 points | 🧑‍💻 by turbocon
+### 1. [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
+💬 142 points | 🧑‍💻 by LookAtThatBacon
 
-### 2. [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
-💬 26 points | 🧑‍💻 by teleforce
+### 2. [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
+💬 56 points | 🧑‍💻 by jervant
 
-### 3. [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-💬 14 points | 🧑‍💻 by donohoe
+### 3. [Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/)
+💬 42 points | 🧑‍💻 by tejohnso
 
-### 4. [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
-💬 28 points | 🧑‍💻 by randomwalker
+### 4. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
+💬 466 points | 🧑‍💻 by xenova
 
-### 5. [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
-💬 341 points | 🧑‍💻 by speckx
+### 5. [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+💬 114 points | 🧑‍💻 by woodruffw
 

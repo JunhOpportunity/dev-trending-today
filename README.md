@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-17)
 
-### 1. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-💬 756 points | 🧑‍💻 by vimarsh6739
+### 1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+💬 1257 points | 🧑‍💻 by vincent_s
 
-### 2. [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
-💬 142 points | 🧑‍💻 by gnyeki
+### 2. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+💬 573 points | 🧑‍💻 by jervant
 
-### 3. [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
-💬 44 points | 🧑‍💻 by serial_dev
+### 3. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+💬 177 points | 🧑‍💻 by minimaxir
 
-### 4. [Grok Build is open source](https://github.com/xai-org/grok-build)
-💬 304 points | 🧑‍💻 by skp1995
+### 4. [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
+💬 434 points | 🧑‍💻 by ray__
 
-### 5. [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
-💬 106 points | 🧑‍💻 by bilsbie
+### 5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
+💬 42 points | 🧑‍💻 by hnburnsy
 

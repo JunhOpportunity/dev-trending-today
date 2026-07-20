@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-20)
 
-### 1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
-💬 1257 points | 🧑‍💻 by vincent_s
+### 1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
+💬 1738 points | 🧑‍💻 by section33
 
-### 2. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
-💬 573 points | 🧑‍💻 by jervant
+### 2. [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+💬 418 points | 🧑‍💻 by tosh
 
-### 3. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-💬 177 points | 🧑‍💻 by minimaxir
+### 3. [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
+💬 128 points | 🧑‍💻 by edgar_ortega
 
-### 4. [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
-💬 434 points | 🧑‍💻 by ray__
+### 4. [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+💬 430 points | 🧑‍💻 by chipweinberger
 
-### 5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
-💬 42 points | 🧑‍💻 by hnburnsy
+### 5. [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+💬 285 points | 🧑‍💻 by ObviouslyFlamer
 

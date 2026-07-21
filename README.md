@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-21)
 
-### 1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
-💬 1738 points | 🧑‍💻 by section33
+### 1. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+💬 354 points | 🧑‍💻 by mfiguiere
 
-### 2. [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
-💬 418 points | 🧑‍💻 by tosh
+### 2. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
+💬 127 points | 🧑‍💻 by swat535
 
-### 3. [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
-💬 128 points | 🧑‍💻 by edgar_ortega
+### 3. [Kimi Work](https://www.kimi.com/products/kimi-work)
+💬 425 points | 🧑‍💻 by ms7892
 
-### 4. [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
-💬 430 points | 🧑‍💻 by chipweinberger
+### 4. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+💬 378 points | 🧑‍💻 by baldvinmar
 
-### 5. [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
-💬 285 points | 🧑‍💻 by ObviouslyFlamer
+### 5. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
+💬 254 points | 🧑‍💻 by artninja1988
 

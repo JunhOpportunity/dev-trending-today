@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-23)
 
-### 1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-💬 803 points | 🧑‍💻 by mfiguiere
+### 1. [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
+💬 65 points | 🧑‍💻 by snorbleck
 
-### 2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
-💬 368 points | 🧑‍💻 by piotrgrabowski
+### 2. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+💬 668 points | 🧑‍💻 by gmays
 
-### 3. [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
-💬 30 points | 🧑‍💻 by DemiGuru
+### 3. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+💬 196 points | 🧑‍💻 by benbreen
 
-### 4. [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-💬 443 points | 🧑‍💻 by FriedPickles
+### 4. [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+💬 395 points | 🧑‍💻 by syrusakbary
 
-### 5. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
-💬 203 points | 🧑‍💻 by jeremyscanvic
+### 5. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
+💬 688 points | 🧑‍💻 by starfallg
 

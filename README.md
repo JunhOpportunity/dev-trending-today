@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-24)
 
-### 1. [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
-💬 65 points | 🧑‍💻 by snorbleck
+### 1. [98.css](https://jdan.github.io/98.css/#status-bar)
+💬 311 points | 🧑‍💻 by lopespm
 
-### 2. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-💬 668 points | 🧑‍💻 by gmays
+### 2. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+💬 1037 points | 🧑‍💻 by dwwoelfel
 
-### 3. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
-💬 196 points | 🧑‍💻 by benbreen
+### 3. [The Visual 6502](http://visual6502.org/JSSim/index.html)
+💬 66 points | 🧑‍💻 by infiniteregrets
 
-### 4. [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-💬 395 points | 🧑‍💻 by syrusakbary
+### 4. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+💬 262 points | 🧑‍💻 by adam_rida
 
-### 5. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
-💬 688 points | 🧑‍💻 by starfallg
+### 5. [The Beam Engine](https://glinscott.github.io/beam-engine/)
+💬 197 points | 🧑‍💻 by glinscott
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-28)
 
-### 1. [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-💬 217 points | 🧑‍💻 by jonbaer
+### 1. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+💬 543 points | 🧑‍💻 by surprisetalk
 
-### 2. [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
-💬 105 points | 🧑‍💻 by aplavin
+### 2. [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
+💬 26 points | 🧑‍💻 by msaltz
 
-### 3. [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
-💬 252 points | 🧑‍💻 by tosh
+### 3. [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
+💬 18 points | 🧑‍💻 by ilreb
 
-### 4. [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
-💬 215 points | 🧑‍💻 by saaaaaam
+### 4. [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
+💬 166 points | 🧑‍💻 by dhorthy
 
-### 5. [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-💬 50 points | 🧑‍💻 by maxloh
+### 5. [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
+💬 102 points | 🧑‍💻 by zdw
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-29)
 
-### 1. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
-💬 543 points | 🧑‍💻 by surprisetalk
+### 1. [Codex Security](https://github.com/openai/codex-security)
+💬 381 points | 🧑‍💻 by bakigul
 
-### 2. [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
-💬 26 points | 🧑‍💻 by msaltz
+### 2. [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
+💬 41 points | 🧑‍💻 by ajhai
 
-### 3. [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
-💬 18 points | 🧑‍💻 by ilreb
+### 3. [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+💬 169 points | 🧑‍💻 by twalichiewicz
 
-### 4. [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
-💬 166 points | 🧑‍💻 by dhorthy
+### 4. [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+💬 174 points | 🧑‍💻 by freediver
 
-### 5. [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
-💬 102 points | 🧑‍💻 by zdw
+### 5. [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
+💬 438 points | 🧑‍💻 by speckx
 

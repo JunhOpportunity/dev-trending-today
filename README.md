@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-07-30)
 
-### 1. [Codex Security](https://github.com/openai/codex-security)
-💬 381 points | 🧑‍💻 by bakigul
+### 1. [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+💬 262 points | 🧑‍💻 by YeGoblynQueenne
 
-### 2. [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
-💬 41 points | 🧑‍💻 by ajhai
+### 2. [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+💬 435 points | 🧑‍💻 by robbiet480
 
-### 3. [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
-💬 169 points | 🧑‍💻 by twalichiewicz
+### 3. [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
+💬 29 points | 🧑‍💻 by omerhj
 
-### 4. [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
-💬 174 points | 🧑‍💻 by freediver
+### 4. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
+💬 673 points | 🧑‍💻 by gitpusher42
 
-### 5. [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
-💬 438 points | 🧑‍💻 by speckx
+### 5. [Superlogical](https://www.superlogical.com/)
+💬 550 points | 🧑‍💻 by yan
 

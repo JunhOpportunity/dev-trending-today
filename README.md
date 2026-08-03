@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-07-31)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-03)
 
-### 1. [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-💬 167 points | 🧑‍💻 by montroser
+### 1. [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+💬 89 points | 🧑‍💻 by ai2027
 
-### 2. [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
-💬 11 points | 🧑‍💻 by Jimmc414
+### 2. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+💬 42 points | 🧑‍💻 by TMWNN
 
-### 3. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-💬 611 points | 🧑‍💻 by speckx
+### 3. [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+💬 76 points | 🧑‍💻 by nuwandavek
 
-### 4. [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-💬 118 points | 🧑‍💻 by volumes94
+### 4. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
+💬 476 points | 🧑‍💻 by delichon
 
-### 5. [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
-💬 235 points | 🧑‍💻 by navs
+### 5. [Show HN: ssh ssh.place](https://ssh.place)
+💬 47 points | 🧑‍💻 by jeninh
 

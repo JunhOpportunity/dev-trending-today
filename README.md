@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-04)
 
-### 1. [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-💬 89 points | 🧑‍💻 by ai2027
+### 1. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+💬 542 points | 🧑‍💻 by MaxMussio
 
-### 2. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-💬 42 points | 🧑‍💻 by TMWNN
+### 2. [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
+💬 56 points | 🧑‍💻 by marojejian
 
-### 3. [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-💬 76 points | 🧑‍💻 by nuwandavek
+### 3. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+💬 466 points | 🧑‍💻 by milkshakes
 
-### 4. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
-💬 476 points | 🧑‍💻 by delichon
+### 4. [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
+💬 13 points | 🧑‍💻 by leonickson
 
-### 5. [Show HN: ssh ssh.place](https://ssh.place)
-💬 47 points | 🧑‍💻 by jeninh
+### 5. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+💬 524 points | 🧑‍💻 by bryanmikaelian
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-05)
 
-### 1. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-💬 542 points | 🧑‍💻 by MaxMussio
+### 1. [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
+💬 169 points | 🧑‍💻 by spyc
 
-### 2. [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
-💬 56 points | 🧑‍💻 by marojejian
+### 2. [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+💬 100 points | 🧑‍💻 by tchalla
 
-### 3. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
-💬 466 points | 🧑‍💻 by milkshakes
+### 3. [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
+💬 149 points | 🧑‍💻 by luispa
 
-### 4. [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
-💬 13 points | 🧑‍💻 by leonickson
+### 4. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
+💬 329 points | 🧑‍💻 by riadsila
 
-### 5. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
-💬 524 points | 🧑‍💻 by bryanmikaelian
+### 5. [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+💬 53 points | 🧑‍💻 by lapcat
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-06)
 
-### 1. [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
-💬 169 points | 🧑‍💻 by spyc
+### 1. [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
+💬 53 points | 🧑‍💻 by mapping365
 
-### 2. [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
-💬 100 points | 🧑‍💻 by tchalla
+### 2. [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+💬 43 points | 🧑‍💻 by rowbin
 
-### 3. [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
-💬 149 points | 🧑‍💻 by luispa
+### 3. [Discovery Loop](https://www.discoveryloop.com/)
+💬 629 points | 🧑‍💻 by xtreak29
 
-### 4. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
-💬 329 points | 🧑‍💻 by riadsila
+### 4. [Zed DeltaDB](https://zed.dev/deltadb)
+💬 328 points | 🧑‍💻 by ahamez
 
-### 5. [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
-💬 53 points | 🧑‍💻 by lapcat
+### 5. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+💬 175 points | 🧑‍💻 by ExMachina73
 

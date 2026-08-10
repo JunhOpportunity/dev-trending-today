@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-10)
 
-### 1. [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-💬 422 points | 🧑‍💻 by itvision
+### 1. [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+💬 438 points | 🧑‍💻 by laurentiurad
 
-### 2. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
-💬 907 points | 🧑‍💻 by theanonymousone
+### 2. [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+💬 22 points | 🧑‍💻 by craigkerstiens
 
-### 3. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
-💬 158 points | 🧑‍💻 by neversaydie
+### 3. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
+💬 564 points | 🧑‍💻 by satvikpendem
 
-### 4. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
-💬 101 points | 🧑‍💻 by baranul
+### 4. ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/)
+💬 29 points | 🧑‍💻 by Thevet
 
-### 5. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
-💬 102 points | 🧑‍💻 by gnabgib
+### 5. [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+💬 80 points | 🧑‍💻 by berghoffer
 

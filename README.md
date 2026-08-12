@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-12)
 
-### 1. [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
-💬 212 points | 🧑‍💻 by slowin
+### 1. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+💬 134 points | 🧑‍💻 by EwanG
 
-### 2. [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-💬 46 points | 🧑‍💻 by eatonphil
+### 2. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+💬 270 points | 🧑‍💻 by nikolay
 
-### 3. [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-💬 70 points | 🧑‍💻 by Alen123
+### 3. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+💬 187 points | 🧑‍💻 by droidjj
 
-### 4. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-💬 1047 points | 🧑‍💻 by riordan
+### 4. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
+💬 301 points | 🧑‍💻 by dayanruben
 
-### 5. [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
-💬 51 points | 🧑‍💻 by benbreen
+### 5. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+💬 507 points | 🧑‍💻 by quantumgarbage
 

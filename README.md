@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-12)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-13)
 
-### 1. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-💬 134 points | 🧑‍💻 by EwanG
+### 1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+💬 766 points | 🧑‍💻 by explosion-s
 
-### 2. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-💬 270 points | 🧑‍💻 by nikolay
+### 2. [Delta](https://zed.dev/blog/introducing-delta)
+💬 416 points | 🧑‍💻 by khy
 
-### 3. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-💬 187 points | 🧑‍💻 by droidjj
+### 3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+💬 817 points | 🧑‍💻 by ropbear
 
-### 4. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
-💬 301 points | 🧑‍💻 by dayanruben
+### 4. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+💬 511 points | 🧑‍💻 by Philpax
 
-### 5. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
-💬 507 points | 🧑‍💻 by quantumgarbage
+### 5. [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+💬 51 points | 🧑‍💻 by gumby271
 

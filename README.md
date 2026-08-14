@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-14)
 
-### 1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
-💬 766 points | 🧑‍💻 by explosion-s
+### 1. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+💬 632 points | 🧑‍💻 by thisisauserid
 
-### 2. [Delta](https://zed.dev/blog/introducing-delta)
-💬 416 points | 🧑‍💻 by khy
+### 2. [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
+💬 55 points | 🧑‍💻 by paulnpace
 
-### 3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
-💬 817 points | 🧑‍💻 by ropbear
+### 3. [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+💬 73 points | 🧑‍💻 by danabramov
 
-### 4. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-💬 511 points | 🧑‍💻 by Philpax
+### 4. [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+💬 439 points | 🧑‍💻 by pr337h4m
 
-### 5. [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-💬 51 points | 🧑‍💻 by gumby271
+### 5. [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
+💬 564 points | 🧑‍💻 by bjin
 

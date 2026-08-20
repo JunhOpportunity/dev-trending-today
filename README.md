@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-20)
 
-### 1. [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
-💬 155 points | 🧑‍💻 by phoenix120
+### 1. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+💬 633 points | 🧑‍💻 by rvz
 
-### 2. [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
-💬 16 points | 🧑‍💻 by jplusequalt
+### 2. [Go 1.27](https://go.dev/blog/go1.27)
+💬 445 points | 🧑‍💻 by database64128
 
-### 3. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
-💬 936 points | 🧑‍💻 by herbertl
+### 3. [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+💬 290 points | 🧑‍💻 by Animux
 
-### 4. [Cerebras CS4](https://www.cerebras.ai/cs4)
-💬 29 points | 🧑‍💻 by sunils34
+### 4. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+💬 130 points | 🧑‍💻 by 1e1a
 
-### 5. [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
-💬 36 points | 🧑‍💻 by zX41ZdbW
+### 5. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+💬 184 points | 🧑‍💻 by jonesy827
 

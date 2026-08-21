@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-21)
 
-### 1. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-💬 633 points | 🧑‍💻 by rvz
+### 1. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+💬 83 points | 🧑‍💻 by u1hcw9nx
 
-### 2. [Go 1.27](https://go.dev/blog/go1.27)
-💬 445 points | 🧑‍💻 by database64128
+### 2. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+💬 316 points | 🧑‍💻 by 0xedb
 
-### 3. [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
-💬 290 points | 🧑‍💻 by Animux
+### 3. [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+💬 19 points | 🧑‍💻 by mooreslaw
 
-### 4. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-💬 130 points | 🧑‍💻 by 1e1a
+### 4. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
+💬 218 points | 🧑‍💻 by gregsadetsky
 
-### 5. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-💬 184 points | 🧑‍💻 by jonesy827
+### 5. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+💬 560 points | 🧑‍💻 by Ariarule
 

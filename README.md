@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-24)
 
-### 1. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-💬 83 points | 🧑‍💻 by u1hcw9nx
+### 1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+💬 265 points | 🧑‍💻 by schlarpc
 
-### 2. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-💬 316 points | 🧑‍💻 by 0xedb
+### 2. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+💬 267 points | 🧑‍💻 by vanpra
 
-### 3. [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-💬 19 points | 🧑‍💻 by mooreslaw
+### 3. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+💬 220 points | 🧑‍💻 by naves
 
-### 4. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
-💬 218 points | 🧑‍💻 by gregsadetsky
+### 4. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
+💬 184 points | 🧑‍💻 by el1s7
 
-### 5. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-💬 560 points | 🧑‍💻 by Ariarule
+### 5. [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
+💬 164 points | 🧑‍💻 by ibobev
 

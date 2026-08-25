@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-25)
 
-### 1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-💬 265 points | 🧑‍💻 by schlarpc
+### 1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+💬 216 points | 🧑‍💻 by K7PJP
 
-### 2. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-💬 267 points | 🧑‍💻 by vanpra
+### 2. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+💬 723 points | 🧑‍💻 by tosh
 
-### 3. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-💬 220 points | 🧑‍💻 by naves
+### 3. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+💬 562 points | 🧑‍💻 by ComputerGuru
 
-### 4. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
-💬 184 points | 🧑‍💻 by el1s7
+### 4. [Moon (2024)](https://ciechanow.ski/moon/)
+💬 96 points | 🧑‍💻 by simonebrunozzi
 
-### 5. [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
-💬 164 points | 🧑‍💻 by ibobev
+### 5. [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+💬 343 points | 🧑‍💻 by centrosphere
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-26)
 
-### 1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-💬 216 points | 🧑‍💻 by K7PJP
+### 1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+💬 264 points | 🧑‍💻 by sunnynagra
 
-### 2. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-💬 723 points | 🧑‍💻 by tosh
+### 2. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+💬 962 points | 🧑‍💻 by interpol_p
 
-### 3. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-💬 562 points | 🧑‍💻 by ComputerGuru
+### 3. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
+💬 328 points | 🧑‍💻 by bmulholland
 
-### 4. [Moon (2024)](https://ciechanow.ski/moon/)
-💬 96 points | 🧑‍💻 by simonebrunozzi
+### 4. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+💬 704 points | 🧑‍💻 by interpol_p
 
-### 5. [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
-💬 343 points | 🧑‍💻 by centrosphere
+### 5. [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+💬 61 points | 🧑‍💻 by rbanffy
 

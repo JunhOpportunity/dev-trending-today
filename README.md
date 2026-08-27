@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-27)
 
-### 1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-💬 264 points | 🧑‍💻 by sunnynagra
+### 1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+💬 1036 points | 🧑‍💻 by mfiguiere
 
-### 2. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
-💬 962 points | 🧑‍💻 by interpol_p
+### 2. [Mechanical Turk shutting down September 30](https://www.mturk.com/)
+💬 331 points | 🧑‍💻 by tmp10423288442
 
-### 3. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
-💬 328 points | 🧑‍💻 by bmulholland
+### 3. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+💬 1015 points | 🧑‍💻 by Philpax
 
-### 4. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
-💬 704 points | 🧑‍💻 by interpol_p
+### 4. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
+💬 264 points | 🧑‍💻 by pizzaiolo
 
-### 5. [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
-💬 61 points | 🧑‍💻 by rbanffy
+### 5. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat)
+💬 568 points | 🧑‍💻 by nderjung
 

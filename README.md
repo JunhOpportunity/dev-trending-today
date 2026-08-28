@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-28)
 
-### 1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
-💬 1036 points | 🧑‍💻 by mfiguiere
+### 1. [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
+💬 70 points | 🧑‍💻 by luu
 
-### 2. [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-💬 331 points | 🧑‍💻 by tmp10423288442
+### 2. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+💬 782 points | 🧑‍💻 by TangerineDream
 
-### 3. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
-💬 1015 points | 🧑‍💻 by Philpax
+### 3. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+💬 665 points | 🧑‍💻 by tosh
 
-### 4. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
-💬 264 points | 🧑‍💻 by pizzaiolo
+### 4. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
+💬 149 points | 🧑‍💻 by eigenspace
 
-### 5. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat)
-💬 568 points | 🧑‍💻 by nderjung
+### 5. [507 Mechanical Movements](https://507movements.com/)
+💬 592 points | 🧑‍💻 by helloplanets
 

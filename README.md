@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-08-31)
 
-### 1. [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
-💬 70 points | 🧑‍💻 by luu
+### 1. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+💬 475 points | 🧑‍💻 by zdw
 
-### 2. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-💬 782 points | 🧑‍💻 by TangerineDream
+### 2. [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+💬 30 points | 🧑‍💻 by dbalatero
 
-### 3. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
-💬 665 points | 🧑‍💻 by tosh
+### 3. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+💬 1006 points | 🧑‍💻 by zdw
 
-### 4. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
-💬 149 points | 🧑‍💻 by eigenspace
+### 4. [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
+💬 68 points | 🧑‍💻 by vghaisas
 
-### 5. [507 Mechanical Movements](https://507movements.com/)
-💬 592 points | 🧑‍💻 by helloplanets
+### 5. [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
+💬 26 points | 🧑‍💻 by cdnsteve
 

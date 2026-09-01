@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-08-31)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-01)
 
-### 1. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
-💬 475 points | 🧑‍💻 by zdw
+### 1. [Fastpotify](https://fastpotify.rocks/)
+💬 74 points | 🧑‍💻 by nreece
 
-### 2. [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-💬 30 points | 🧑‍💻 by dbalatero
+### 2. [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)
+💬 45 points | 🧑‍💻 by simonpure
 
-### 3. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
-💬 1006 points | 🧑‍💻 by zdw
+### 3. [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+💬 413 points | 🧑‍💻 by speckx
 
-### 4. [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
-💬 68 points | 🧑‍💻 by vghaisas
+### 4. [Playa Phone](https://playaphone.com/)
+💬 552 points | 🧑‍💻 by cutoff
 
-### 5. [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
-💬 26 points | 🧑‍💻 by cdnsteve
+### 5. [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+💬 121 points | 🧑‍💻 by Anon84
 

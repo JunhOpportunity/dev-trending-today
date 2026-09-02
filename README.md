@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-02)
 
-### 1. [Fastpotify](https://fastpotify.rocks/)
-💬 74 points | 🧑‍💻 by nreece
+### 1. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+💬 1007 points | 🧑‍💻 by denysvitali
 
-### 2. [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)
-💬 45 points | 🧑‍💻 by simonpure
+### 2. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+💬 509 points | 🧑‍💻 by jatins
 
-### 3. [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
-💬 413 points | 🧑‍💻 by speckx
+### 3. [True Rate of Unemployment](https://www.lisep.org/tru)
+💬 25 points | 🧑‍💻 by ptrhvns
 
-### 4. [Playa Phone](https://playaphone.com/)
-💬 552 points | 🧑‍💻 by cutoff
+### 4. [WebFPGA](https://webfpga.io/)
+💬 4 points | 🧑‍💻 by gurjeet
 
-### 5. [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
-💬 121 points | 🧑‍💻 by Anon84
+### 5. [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+💬 62 points | 🧑‍💻 by philipkiely
 

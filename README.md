@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-04)
 
-### 1. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
-💬 443 points | 🧑‍💻 by bvaldivielso
+### 1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+💬 1467 points | 🧑‍💻 by kibae
 
-### 2. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-💬 878 points | 🧑‍💻 by bratao
+### 2. [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+💬 1496 points | 🧑‍💻 by pavel_lishin
 
-### 3. [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
-💬 299 points | 🧑‍💻 by donohoe
+### 3. [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+💬 33 points | 🧑‍💻 by andsoitis
 
-### 4. [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
-💬 86 points | 🧑‍💻 by ColinWright
+### 4. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+💬 491 points | 🧑‍💻 by altertable
 
-### 5. [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0)
-💬 66 points | 🧑‍💻 by Anon84
+### 5. [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+💬 22 points | 🧑‍💻 by johntfella
 

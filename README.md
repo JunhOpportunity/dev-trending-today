@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-07)
 
-### 1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-💬 1467 points | 🧑‍💻 by kibae
+### 1. [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+💬 50 points | 🧑‍💻 by sonicrocketman
 
-### 2. [.name Termination](https://neil.fraser.name/news/2026/09/03/)
-💬 1496 points | 🧑‍💻 by pavel_lishin
+### 2. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+💬 140 points | 🧑‍💻 by azhenley
 
-### 3. [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
-💬 33 points | 🧑‍💻 by andsoitis
+### 3. [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
+💬 37 points | 🧑‍💻 by torutofu
 
-### 4. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
-💬 491 points | 🧑‍💻 by altertable
+### 4. [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+💬 179 points | 🧑‍💻 by xena
 
-### 5. [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
-💬 22 points | 🧑‍💻 by johntfella
+### 5. [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
+💬 6 points | 🧑‍💻 by claytonwramsey
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-08)
 
-### 1. [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-💬 50 points | 🧑‍💻 by sonicrocketman
+### 1. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+💬 163 points | 🧑‍💻 by ahlCVA
 
-### 2. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-💬 140 points | 🧑‍💻 by azhenley
+### 2. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+💬 130 points | 🧑‍💻 by alixanderwang
 
-### 3. [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
-💬 37 points | 🧑‍💻 by torutofu
+### 3. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+💬 156 points | 🧑‍💻 by 0xC0ncord
 
-### 4. [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-💬 179 points | 🧑‍💻 by xena
+### 4. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+💬 245 points | 🧑‍💻 by rustywasm
 
-### 5. [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
-💬 6 points | 🧑‍💻 by claytonwramsey
+### 5. [John Margolies' photographs of roadside America](https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/)
+💬 46 points | 🧑‍💻 by duck
 

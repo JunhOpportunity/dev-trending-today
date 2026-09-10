@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-10)
 
-### 1. [Trees use a "muscle", tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
-💬 53 points | 🧑‍💻 by mdp2021
+### 1. [iPhone Duo](https://www.apple.com/iphone-duo/)
+💬 1013 points | 🧑‍💻 by thecosmicfrog
 
-### 2. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-💬 376 points | 🧑‍💻 by yks
+### 2. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+💬 80 points | 🧑‍💻 by dmitrybrant
 
-### 3. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-💬 1393 points | 🧑‍💻 by procedurecall
+### 3. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+💬 939 points | 🧑‍💻 by EdwinHoksberg
 
-### 4. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-💬 202 points | 🧑‍💻 by cat-whisperer
+### 4. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
+💬 431 points | 🧑‍💻 by evakhoury
 
-### 5. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
-💬 512 points | 🧑‍💻 by utiiiD
+### 5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
+💬 270 points | 🧑‍💻 by bookofjoe
 

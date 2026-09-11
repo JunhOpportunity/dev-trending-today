@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-10)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-11)
 
-### 1. [iPhone Duo](https://www.apple.com/iphone-duo/)
-💬 1013 points | 🧑‍💻 by thecosmicfrog
+### 1. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+💬 876 points | 🧑‍💻 by fnthawar2
 
-### 2. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-💬 80 points | 🧑‍💻 by dmitrybrant
+### 2. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+💬 95 points | 🧑‍💻 by rguiscard
 
-### 3. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-💬 939 points | 🧑‍💻 by EdwinHoksberg
+### 3. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+💬 743 points | 🧑‍💻 by pred_
 
-### 4. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
-💬 431 points | 🧑‍💻 by evakhoury
+### 4. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+💬 379 points | 🧑‍💻 by Brajeshwar
 
-### 5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
-💬 270 points | 🧑‍💻 by bookofjoe
+### 5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+💬 180 points | 🧑‍💻 by aquir
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-11)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-14)
 
-### 1. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-💬 876 points | 🧑‍💻 by fnthawar2
+### 1. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+💬 631 points | 🧑‍💻 by u1hcw9nx
 
-### 2. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-💬 95 points | 🧑‍💻 by rguiscard
+### 2. [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
+💬 96 points | 🧑‍💻 by zdw
 
-### 3. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
-💬 743 points | 🧑‍💻 by pred_
+### 3. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+💬 673 points | 🧑‍💻 by iamflimflam1
 
-### 4. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
-💬 379 points | 🧑‍💻 by Brajeshwar
+### 4. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+💬 137 points | 🧑‍💻 by Cider9986
 
-### 5. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-💬 180 points | 🧑‍💻 by aquir
+### 5. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+💬 59 points | 🧑‍💻 by contact9879
 

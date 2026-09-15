@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-14)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-15)
 
-### 1. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-💬 631 points | 🧑‍💻 by u1hcw9nx
+### 1. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+💬 472 points | 🧑‍💻 by throw0101d
 
-### 2. [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
-💬 96 points | 🧑‍💻 by zdw
+### 2. [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
+💬 62 points | 🧑‍💻 by arunbahl
 
-### 3. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
-💬 673 points | 🧑‍💻 by iamflimflam1
+### 3. [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+💬 331 points | 🧑‍💻 by lukaspetersson
 
-### 4. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
-💬 137 points | 🧑‍💻 by Cider9986
+### 4. [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+💬 152 points | 🧑‍💻 by thingsilearned
 
-### 5. [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-💬 59 points | 🧑‍💻 by contact9879
+### 5. [Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all](https://github.com/stoix-dev/sefaz-webservices-postman)
+💬 23 points | 🧑‍💻 by lestx
 

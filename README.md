@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-17)
 
-### 1. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-💬 964 points | 🧑‍💻 by albelfio
+### 1. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+💬 61 points | 🧑‍💻 by Ryan5453
 
-### 2. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-💬 65 points | 🧑‍💻 by imwally
+### 2. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+💬 444 points | 🧑‍💻 by nonmaskable
 
-### 3. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-💬 1422 points | 🧑‍💻 by arnemunthekaas
+### 3. [The Painful Truth: The RAM Crisis Is Only Just the Beginning](https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/)
+💬 18 points | 🧑‍💻 by perelin
 
-### 4. [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-💬 34 points | 🧑‍💻 by bananaboy
+### 4. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+💬 452 points | 🧑‍💻 by polyphilz
 
-### 5. [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
-💬 445 points | 🧑‍💻 by ChrisArchitect
+### 5. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
+💬 68 points | 🧑‍💻 by mfiguiere
 

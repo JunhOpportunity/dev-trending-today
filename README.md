@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-17)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-18)
 
-### 1. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
-💬 61 points | 🧑‍💻 by Ryan5453
+### 1. [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+💬 78 points | 🧑‍💻 by Handy-Man
 
-### 2. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-💬 444 points | 🧑‍💻 by nonmaskable
+### 2. [Astra for Law](https://openai.com/index/astra-for-law/)
+💬 391 points | 🧑‍💻 by vertigoruntime
 
-### 3. [The Painful Truth: The RAM Crisis Is Only Just the Beginning](https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/)
-💬 18 points | 🧑‍💻 by perelin
+### 3. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+💬 306 points | 🧑‍💻 by JonSchneider
 
-### 4. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-💬 452 points | 🧑‍💻 by polyphilz
+### 4. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
+💬 358 points | 🧑‍💻 by nicolas-siplis
 
-### 5. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
-💬 68 points | 🧑‍💻 by mfiguiere
+### 5. [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
+💬 514 points | 🧑‍💻 by bookofjoe
 

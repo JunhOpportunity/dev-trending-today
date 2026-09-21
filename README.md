@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-18)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-21)
 
-### 1. [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
-💬 78 points | 🧑‍💻 by Handy-Man
+### 1. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+💬 324 points | 🧑‍💻 by blazarquasar
 
-### 2. [Astra for Law](https://openai.com/index/astra-for-law/)
-💬 391 points | 🧑‍💻 by vertigoruntime
+### 2. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+💬 392 points | 🧑‍💻 by giuliomagnifico
 
-### 3. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
-💬 306 points | 🧑‍💻 by JonSchneider
+### 3. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+💬 693 points | 🧑‍💻 by lmbbuchodi
 
-### 4. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
-💬 358 points | 🧑‍💻 by nicolas-siplis
+### 4. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+💬 254 points | 🧑‍💻 by EXHades
 
-### 5. [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
-💬 514 points | 🧑‍💻 by bookofjoe
+### 5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+💬 547 points | 🧑‍💻 by jmillikin
 

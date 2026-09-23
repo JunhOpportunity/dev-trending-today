@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-23)
 
-### 1. [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-💬 671 points | 🧑‍💻 by volf_
+### 1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+💬 1318 points | 🧑‍💻 by OfficialTurkey
 
-### 2. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-💬 229 points | 🧑‍💻 by possibilistic
+### 2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+💬 1328 points | 🧑‍💻 by km144
 
-### 3. [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-💬 437 points | 🧑‍💻 by mooreds
+### 3. [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
+💬 79 points | 🧑‍💻 by 1659447091
 
-### 4. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
-💬 535 points | 🧑‍💻 by chmaynard
+### 4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+💬 601 points | 🧑‍💻 by sohkamyung
 
-### 5. [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
-💬 257 points | 🧑‍💻 by aray07
+### 5. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
+💬 488 points | 🧑‍💻 by spenvo
 

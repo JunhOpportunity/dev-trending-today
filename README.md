@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-28)
 
-### 1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-💬 1040 points | 🧑‍💻 by daveoc64
+### 1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+💬 310 points | 🧑‍💻 by Eric_Gullichsen
 
-### 2. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-💬 543 points | 🧑‍💻 by MitPitt
+### 2. [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
+💬 26 points | 🧑‍💻 by teleforce
 
-### 3. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-💬 235 points | 🧑‍💻 by sidharthkmenon
+### 3. [Ember-1](https://fireworks.ai/blog/ember-1)
+💬 395 points | 🧑‍💻 by gmays
 
-### 4. [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
-💬 319 points | 🧑‍💻 by jbotz
+### 4. [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+💬 28 points | 🧑‍💻 by mroche
 
-### 5. [2DWillNeverDie](https://2dwillneverdie.com/)
-💬 159 points | 🧑‍💻 by surprisetalk
+### 5. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+💬 979 points | 🧑‍💻 by sancho-panza
 

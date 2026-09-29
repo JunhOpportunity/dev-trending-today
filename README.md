@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-29)
 
-### 1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-💬 310 points | 🧑‍💻 by Eric_Gullichsen
+### 1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+💬 409 points | 🧑‍💻 by firelex
 
-### 2. [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
-💬 26 points | 🧑‍💻 by teleforce
+### 2. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
+💬 26 points | 🧑‍💻 by evakhoury
 
-### 3. [Ember-1](https://fireworks.ai/blog/ember-1)
-💬 395 points | 🧑‍💻 by gmays
+### 3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+💬 488 points | 🧑‍💻 by piotrgrabowski
 
-### 4. [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
-💬 28 points | 🧑‍💻 by mroche
+### 4. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
+💬 77 points | 🧑‍💻 by henrychannel
 
-### 5. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-💬 979 points | 🧑‍💻 by sancho-panza
+### 5. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+💬 192 points | 🧑‍💻 by logicallee
 

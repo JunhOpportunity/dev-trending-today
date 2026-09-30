@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-09-30)
 
-### 1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-💬 409 points | 🧑‍💻 by firelex
+### 1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+💬 398 points | 🧑‍💻 by bryan0
 
-### 2. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-💬 26 points | 🧑‍💻 by evakhoury
+### 2. [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
+💬 16 points | 🧑‍💻 by BurnerBurner
 
-### 3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-💬 488 points | 🧑‍💻 by piotrgrabowski
+### 3. [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
+💬 38 points | 🧑‍💻 by sparticle62
 
-### 4. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
-💬 77 points | 🧑‍💻 by henrychannel
+### 4. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+💬 517 points | 🧑‍💻 by alvis
 
-### 5. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
-💬 192 points | 🧑‍💻 by logicallee
+### 5. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+💬 198 points | 🧑‍💻 by ilamont
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-09-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-01)
 
-### 1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-💬 398 points | 🧑‍💻 by bryan0
+### 1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+💬 1188 points | 🧑‍💻 by bradleyg223
 
-### 2. [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
-💬 16 points | 🧑‍💻 by BurnerBurner
+### 2. [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
+💬 182 points | 🧑‍💻 by Bluestein
 
-### 3. [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
-💬 38 points | 🧑‍💻 by sparticle62
+### 3. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+💬 148 points | 🧑‍💻 by AnodicElegy
 
-### 4. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
-💬 517 points | 🧑‍💻 by alvis
+### 4. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
+💬 156 points | 🧑‍💻 by ibobev
 
-### 5. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-💬 198 points | 🧑‍💻 by ilamont
+### 5. [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+💬 188 points | 🧑‍💻 by iandinwoodie
 

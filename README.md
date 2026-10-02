@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-01)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-02)
 
-### 1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-💬 1188 points | 🧑‍💻 by bradleyg223
+### 1. [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+💬 968 points | 🧑‍💻 by sergiotapia
 
-### 2. [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
-💬 182 points | 🧑‍💻 by Bluestein
+### 2. [DeepSeek Harness](https://www.deepseek.com/en/harness/)
+💬 60 points | 🧑‍💻 by Kuyawa
 
-### 3. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
-💬 148 points | 🧑‍💻 by AnodicElegy
+### 3. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+💬 55 points | 🧑‍💻 by danielfoster
 
-### 4. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
-💬 156 points | 🧑‍💻 by ibobev
+### 4. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+💬 467 points | 🧑‍💻 by jasondavies
 
-### 5. [EDG C++ front-end goes public](https://edgcpp.org/#transition)
-💬 188 points | 🧑‍💻 by iandinwoodie
+### 5. [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
+💬 4 points | 🧑‍💻 by STRiDEX
 

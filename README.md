@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-05)
 
-### 1. [Pi 1.0](https://earendil.com/posts/pi-1-0/)
-💬 968 points | 🧑‍💻 by sergiotapia
+### 1. [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
+💬 145 points | 🧑‍💻 by llm_nerd
 
-### 2. [DeepSeek Harness](https://www.deepseek.com/en/harness/)
-💬 60 points | 🧑‍💻 by Kuyawa
+### 2. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+💬 679 points | 🧑‍💻 by snehesht
 
-### 3. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-💬 55 points | 🧑‍💻 by danielfoster
+### 3. [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+💬 79 points | 🧑‍💻 by rdmuser
 
-### 4. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
-💬 467 points | 🧑‍💻 by jasondavies
+### 4. [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+💬 27 points | 🧑‍💻 by shellpipe
 
-### 5. [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
-💬 4 points | 🧑‍💻 by STRiDEX
+### 5. [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild)
+💬 104 points | 🧑‍💻 by tobr
 

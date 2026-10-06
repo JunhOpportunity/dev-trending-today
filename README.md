@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-06)
 
-### 1. [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
-💬 145 points | 🧑‍💻 by llm_nerd
+### 1. [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
+💬 89 points | 🧑‍💻 by misterchocolat
 
-### 2. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-💬 679 points | 🧑‍💻 by snehesht
+### 2. [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+💬 386 points | 🧑‍💻 by Philpax
 
-### 3. [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-💬 79 points | 🧑‍💻 by rdmuser
+### 3. [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+💬 162 points | 🧑‍💻 by jgx0
 
-### 4. [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
-💬 27 points | 🧑‍💻 by shellpipe
+### 4. [Find the flattest route between any two points in SF](https://flattensf.com/)
+💬 157 points | 🧑‍💻 by ishan0102
 
-### 5. [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild)
-💬 104 points | 🧑‍💻 by tobr
+### 5. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+💬 285 points | 🧑‍💻 by outlier99
 

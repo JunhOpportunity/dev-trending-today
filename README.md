@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-06)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-07)
 
-### 1. [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
-💬 89 points | 🧑‍💻 by misterchocolat
+### 1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+💬 678 points | 🧑‍💻 by OfficialTurkey
 
-### 2. [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
-💬 386 points | 🧑‍💻 by Philpax
+### 2. [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+💬 98 points | 🧑‍💻 by gmays
 
-### 3. [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
-💬 162 points | 🧑‍💻 by jgx0
+### 3. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+💬 210 points | 🧑‍💻 by chiefstorm
 
-### 4. [Find the flattest route between any two points in SF](https://flattensf.com/)
-💬 157 points | 🧑‍💻 by ishan0102
+### 4. [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
+💬 25 points | 🧑‍💻 by nanochess
 
-### 5. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
-💬 285 points | 🧑‍💻 by outlier99
+### 5. [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
+💬 134 points | 🧑‍💻 by kavourias
 

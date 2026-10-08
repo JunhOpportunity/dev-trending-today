@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-07)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-08)
 
-### 1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-💬 678 points | 🧑‍💻 by OfficialTurkey
+### 1. [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
+💬 45 points | 🧑‍💻 by ent101
 
-### 2. [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
-💬 98 points | 🧑‍💻 by gmays
+### 2. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+💬 787 points | 🧑‍💻 by sfkgtbor
 
-### 3. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
-💬 210 points | 🧑‍💻 by chiefstorm
+### 3. [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
+💬 111 points | 🧑‍💻 by Muhammad523
 
-### 4. [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
-💬 25 points | 🧑‍💻 by nanochess
+### 4. [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
+💬 25 points | 🧑‍💻 by cachebag
 
-### 5. [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
-💬 134 points | 🧑‍💻 by kavourias
+### 5. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+💬 1137 points | 🧑‍💻 by muglug
 

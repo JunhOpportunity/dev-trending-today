@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-08)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-09)
 
-### 1. [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
-💬 45 points | 🧑‍💻 by ent101
+### 1. [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+💬 33 points | 🧑‍💻 by ilreb
 
-### 2. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
-💬 787 points | 🧑‍💻 by sfkgtbor
+### 2. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
+💬 77 points | 🧑‍💻 by signa11
 
-### 3. [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
-💬 111 points | 🧑‍💻 by Muhammad523
+### 3. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+💬 674 points | 🧑‍💻 by gmays
 
-### 4. [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
-💬 25 points | 🧑‍💻 by cachebag
+### 4. [Theranos.world](https://www.theranos.world/)
+💬 374 points | 🧑‍💻 by kbyatnal
 
-### 5. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-💬 1137 points | 🧑‍💻 by muglug
+### 5. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
+💬 570 points | 🧑‍💻 by ck2
 

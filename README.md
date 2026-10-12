@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-09)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-12)
 
-### 1. [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-💬 33 points | 🧑‍💻 by ilreb
+### 1. [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+💬 19 points | 🧑‍💻 by lukaslalinsky
 
-### 2. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-💬 77 points | 🧑‍💻 by signa11
+### 2. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+💬 230 points | 🧑‍💻 by royfish
 
-### 3. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-💬 674 points | 🧑‍💻 by gmays
+### 3. [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+💬 434 points | 🧑‍💻 by jttnr
 
-### 4. [Theranos.world](https://www.theranos.world/)
-💬 374 points | 🧑‍💻 by kbyatnal
+### 4. [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+💬 101 points | 🧑‍💻 by cainxinth
 
-### 5. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
-💬 570 points | 🧑‍💻 by ck2
+### 5. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+💬 57 points | 🧑‍💻 by subset
 

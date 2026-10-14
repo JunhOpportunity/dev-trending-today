@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-13)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-14)
 
-### 1. [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
-💬 122 points | 🧑‍💻 by sbulaev
+### 1. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+💬 1129 points | 🧑‍💻 by 737max
 
-### 2. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
-💬 194 points | 🧑‍💻 by jsomers
+### 2. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+💬 544 points | 🧑‍💻 by thm
 
-### 3. [GLM-Legal](https://z.ai/blog/glm-legal)
-💬 513 points | 🧑‍💻 by ilreb
+### 3. [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
+💬 45 points | 🧑‍💻 by mooreds
 
-### 4. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
-💬 500 points | 🧑‍💻 by prophittcorey
+### 4. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+💬 351 points | 🧑‍💻 by talccc
 
-### 5. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
-💬 158 points | 🧑‍💻 by hurricanepootis
+### 5. [Sound – Bartosz Ciechanowski](https://ciechanow.ski/sound/)
+💬 17 points | 🧑‍💻 by dverlaeckt80
 

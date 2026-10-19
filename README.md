@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-16)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-19)
 
-### 1. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-💬 681 points | 🧑‍💻 by bigwheels
+### 1. [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+💬 277 points | 🧑‍💻 by allinonai
 
-### 2. [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-💬 77 points | 🧑‍💻 by emot
+### 2. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+💬 100 points | 🧑‍💻 by Eric_Gullichsen
 
-### 3. [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
-💬 58 points | 🧑‍💻 by chanana
+### 3. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+💬 237 points | 🧑‍💻 by mdp2021
 
-### 4. [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
-💬 97 points | 🧑‍💻 by 0in
+### 4. [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+💬 24 points | 🧑‍💻 by iheatuchriswogu
 
-### 5. [Neural networks are clean](https://already-clean.goodfire.com/)
-💬 557 points | 🧑‍💻 by themgt
+### 5. [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
+💬 359 points | 🧑‍💻 by tosh
 

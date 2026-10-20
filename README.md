@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-19)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-20)
 
-### 1. [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-💬 277 points | 🧑‍💻 by allinonai
+### 1. [OpenBSD 8.0](https://www.openbsd.org/80.html)
+💬 61 points | 🧑‍💻 by privong
 
-### 2. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-💬 100 points | 🧑‍💻 by Eric_Gullichsen
+### 2. [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+💬 119 points | 🧑‍💻 by ds
 
-### 3. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
-💬 237 points | 🧑‍💻 by mdp2021
+### 3. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+💬 416 points | 🧑‍💻 by jtg
 
-### 4. [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-💬 24 points | 🧑‍💻 by iheatuchriswogu
+### 4. [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+💬 450 points | 🧑‍💻 by hakonjdjohnsen
 
-### 5. [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-💬 359 points | 🧑‍💻 by tosh
+### 5. [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
+💬 118 points | 🧑‍💻 by croes
 

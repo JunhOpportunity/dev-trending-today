@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-21)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-22)
 
-### 1. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-💬 88 points | 🧑‍💻 by soheilpro
+### 1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+💬 332 points | 🧑‍💻 by ahlCVA
 
-### 2. [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
-💬 651 points | 🧑‍💻 by pcai
+### 2. [Epic Games Inc v Apple Inc](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+💬 109 points | 🧑‍💻 by Mayzie
 
-### 3. [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-💬 38 points | 🧑‍💻 by unprovable
+### 3. [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+💬 48 points | 🧑‍💻 by craigcitro
 
-### 4. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-💬 136 points | 🧑‍💻 by Bender
+### 4. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+💬 277 points | 🧑‍💻 by zkldi
 
-### 5. [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
-💬 46 points | 🧑‍💻 by firloop
+### 5. [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+💬 368 points | 🧑‍💻 by passenger
 

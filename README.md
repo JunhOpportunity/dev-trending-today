@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-22)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-23)
 
-### 1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-💬 332 points | 🧑‍💻 by ahlCVA
+### 1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+💬 234 points | 🧑‍💻 by psxuaw
 
-### 2. [Epic Games Inc v Apple Inc](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
-💬 109 points | 🧑‍💻 by Mayzie
+### 2. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+💬 200 points | 🧑‍💻 by johnbender
 
-### 3. [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-💬 48 points | 🧑‍💻 by craigcitro
+### 3. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+💬 1062 points | 🧑‍💻 by farrokhi
 
-### 4. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-💬 277 points | 🧑‍💻 by zkldi
+### 4. [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)
+💬 55 points | 🧑‍💻 by surprisetalk
 
-### 5. [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-💬 368 points | 🧑‍💻 by passenger
+### 5. [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)
+💬 45 points | 🧑‍💻 by gumby
 

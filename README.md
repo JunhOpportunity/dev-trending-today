@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-23)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-26)
 
-### 1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-💬 234 points | 🧑‍💻 by psxuaw
+### 1. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+💬 30 points | 🧑‍💻 by davidbarker
 
-### 2. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-💬 200 points | 🧑‍💻 by johnbender
+### 2. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+💬 456 points | 🧑‍💻 by jumploops
 
-### 3. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-💬 1062 points | 🧑‍💻 by farrokhi
+### 3. [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+💬 13 points | 🧑‍💻 by vardhan1237
 
-### 4. [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)
-💬 55 points | 🧑‍💻 by surprisetalk
+### 4. [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
+💬 31 points | 🧑‍💻 by NotARoomba
 
-### 5. [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)
-💬 45 points | 🧑‍💻 by gumby
+### 5. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
+💬 196 points | 🧑‍💻 by speckx
 

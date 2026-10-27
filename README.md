@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-27)
 
-### 1. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
-💬 30 points | 🧑‍💻 by davidbarker
+### 1. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+💬 646 points | 🧑‍💻 by jonluca
 
-### 2. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
-💬 456 points | 🧑‍💻 by jumploops
+### 2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+💬 435 points | 🧑‍💻 by vok
 
-### 3. [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
-💬 13 points | 🧑‍💻 by vardhan1237
+### 3. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+💬 619 points | 🧑‍💻 by sgiannopoulos
 
-### 4. [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
-💬 31 points | 🧑‍💻 by NotARoomba
+### 4. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+💬 343 points | 🧑‍💻 by enlyth
 
-### 5. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
-💬 196 points | 🧑‍💻 by speckx
+### 5. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
+💬 43 points | 🧑‍💻 by doener
 

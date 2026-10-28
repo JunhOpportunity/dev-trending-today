@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-27)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-28)
 
-### 1. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-💬 646 points | 🧑‍💻 by jonluca
+### 1. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
+💬 135 points | 🧑‍💻 by alansaber
 
-### 2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-💬 435 points | 🧑‍💻 by vok
+### 2. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+💬 805 points | 🧑‍💻 by acossta
 
-### 3. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
-💬 619 points | 🧑‍💻 by sgiannopoulos
+### 3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
+💬 142 points | 🧑‍💻 by _Microft
 
-### 4. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-💬 343 points | 🧑‍💻 by enlyth
+### 4. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+💬 872 points | 🧑‍💻 by deaux
 
-### 5. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
-💬 43 points | 🧑‍💻 by doener
+### 5. [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+💬 244 points | 🧑‍💻 by figmert
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-28)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-29)
 
-### 1. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
-💬 135 points | 🧑‍💻 by alansaber
+### 1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+💬 257 points | 🧑‍💻 by csmantle
 
-### 2. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-💬 805 points | 🧑‍💻 by acossta
+### 2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+💬 985 points | 🧑‍💻 by hazebooth
 
-### 3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
-💬 142 points | 🧑‍💻 by _Microft
+### 3. [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
+💬 55 points | 🧑‍💻 by theanonymousone
 
-### 4. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
-💬 872 points | 🧑‍💻 by deaux
+### 4. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+💬 133 points | 🧑‍💻 by sashk
 
-### 5. [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-💬 244 points | 🧑‍💻 by figmert
+### 5. [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+💬 157 points | 🧑‍💻 by NikZaal
 

@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-29)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-10-30)
 
-### 1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-💬 257 points | 🧑‍💻 by csmantle
+### 1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+💬 997 points | 🧑‍💻 by Tiberium
 
-### 2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-💬 985 points | 🧑‍💻 by hazebooth
+### 2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+💬 1291 points | 🧑‍💻 by kuberwastaken
 
-### 3. [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
-💬 55 points | 🧑‍💻 by theanonymousone
+### 3. [Cuis: The Modern Smalltalk-80](https://cuis.st/)
+💬 47 points | 🧑‍💻 by theanonymousone
 
-### 4. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-💬 133 points | 🧑‍💻 by sashk
+### 4. [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
+💬 47 points | 🧑‍💻 by nvmdbljstm
 
-### 5. [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
-💬 157 points | 🧑‍💻 by NikZaal
+### 5. [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
+💬 46 points | 🧑‍💻 by surprisetalk
 

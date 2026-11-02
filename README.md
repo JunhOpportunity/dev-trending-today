@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-10-30)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-02)
 
-### 1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-💬 997 points | 🧑‍💻 by Tiberium
+### 1. [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
+💬 1140 points | 🧑‍💻 by roansh
 
-### 2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
-💬 1291 points | 🧑‍💻 by kuberwastaken
+### 2. [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+💬 61 points | 🧑‍💻 by joonehur
 
-### 3. [Cuis: The Modern Smalltalk-80](https://cuis.st/)
-💬 47 points | 🧑‍💻 by theanonymousone
+### 3. [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+💬 218 points | 🧑‍💻 by soheilpro
 
-### 4. [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
-💬 47 points | 🧑‍💻 by nvmdbljstm
+### 4. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+💬 2417 points | 🧑‍💻 by karpathy
 
-### 5. [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
-💬 46 points | 🧑‍💻 by surprisetalk
+### 5. [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
+💬 64 points | 🧑‍💻 by _Microft
 

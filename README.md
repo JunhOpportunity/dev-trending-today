@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-02)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-03)
 
-### 1. [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-💬 1140 points | 🧑‍💻 by roansh
+### 1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+💬 2339 points | 🧑‍💻 by dbreunig
 
-### 2. [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-💬 61 points | 🧑‍💻 by joonehur
+### 2. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+💬 158 points | 🧑‍💻 by polpenn
 
-### 3. [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
-💬 218 points | 🧑‍💻 by soheilpro
+### 3. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+💬 117 points | 🧑‍💻 by bpierre
 
-### 4. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
-💬 2417 points | 🧑‍💻 by karpathy
+### 4. [European RISC-V Industrial Computing Initiative](https://erici.eu)
+💬 33 points | 🧑‍💻 by ymz5
 
-### 5. [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
-💬 64 points | 🧑‍💻 by _Microft
+### 5. [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+💬 154 points | 🧑‍💻 by makeramen
 

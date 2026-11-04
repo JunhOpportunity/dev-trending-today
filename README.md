@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-03)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-04)
 
-### 1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-💬 2339 points | 🧑‍💻 by dbreunig
+### 1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+💬 189 points | 🧑‍💻 by thatxliner
 
-### 2. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
-💬 158 points | 🧑‍💻 by polpenn
+### 2. [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+💬 48 points | 🧑‍💻 by memalign
 
-### 3. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-💬 117 points | 🧑‍💻 by bpierre
+### 3. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+💬 40 points | 🧑‍💻 by gmays
 
-### 4. [European RISC-V Industrial Computing Initiative](https://erici.eu)
-💬 33 points | 🧑‍💻 by ymz5
+### 4. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+💬 202 points | 🧑‍💻 by ibobev
 
-### 5. [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
-💬 154 points | 🧑‍💻 by makeramen
+### 5. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+💬 705 points | 🧑‍💻 by xx_ns
 

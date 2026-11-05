@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-04)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-05)
 
-### 1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
-💬 189 points | 🧑‍💻 by thatxliner
+### 1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+💬 886 points | 🧑‍💻 by Rasbora
 
-### 2. [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
-💬 48 points | 🧑‍💻 by memalign
+### 2. [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+💬 26 points | 🧑‍💻 by MarkBlah
 
-### 3. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
-💬 40 points | 🧑‍💻 by gmays
+### 3. [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+💬 219 points | 🧑‍💻 by davidbarker
 
-### 4. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-💬 202 points | 🧑‍💻 by ibobev
+### 4. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+💬 256 points | 🧑‍💻 by dangelosaurus
 
-### 5. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
-💬 705 points | 🧑‍💻 by xx_ns
+### 5. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+💬 182 points | 🧑‍💻 by gmays
 

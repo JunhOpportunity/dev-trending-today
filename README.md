@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-05)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-20)
 
-### 1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
-💬 886 points | 🧑‍💻 by Rasbora
+### 1. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
+💬 144 points | 🧑‍💻 by JacobHenner
 
-### 2. [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-💬 26 points | 🧑‍💻 by MarkBlah
+### 2. [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)
+💬 176 points | 🧑‍💻 by mraniki
 
-### 3. [Images 2.6](https://openai.com/index/introducing-images-2-6/)
-💬 219 points | 🧑‍💻 by davidbarker
+### 3. [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
+💬 21 points | 🧑‍💻 by renehsz
 
-### 4. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
-💬 256 points | 🧑‍💻 by dangelosaurus
+### 4. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
+💬 55 points | 🧑‍💻 by craigkerstiens
 
-### 5. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
-💬 182 points | 🧑‍💻 by gmays
+### 5. [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
+💬 18 points | 🧑‍💻 by efren6
 

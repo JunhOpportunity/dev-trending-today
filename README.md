@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-20)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-23)
 
-### 1. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
-💬 144 points | 🧑‍💻 by JacobHenner
+### 1. [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+💬 397 points | 🧑‍💻 by SockThief
 
-### 2. [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)
-💬 176 points | 🧑‍💻 by mraniki
+### 2. [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
+💬 161 points | 🧑‍💻 by mmastrac
 
-### 3. [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
-💬 21 points | 🧑‍💻 by renehsz
+### 3. [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+💬 179 points | 🧑‍💻 by xiaoyu2006
 
-### 4. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
-💬 55 points | 🧑‍💻 by craigkerstiens
+### 4. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+💬 417 points | 🧑‍💻 by Retell15
 
-### 5. [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
-💬 18 points | 🧑‍💻 by efren6
+### 5. [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
+💬 28 points | 🧑‍💻 by measurablefunc
 

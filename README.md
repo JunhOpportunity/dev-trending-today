@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-24)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-25)
 
-### 1. [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
-💬 160 points | 🧑‍💻 by setheron
+### 1. [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+💬 536 points | 🧑‍💻 by E-Reverance
 
-### 2. [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-💬 1918 points | 🧑‍💻 by janvdberg
+### 2. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+💬 278 points | 🧑‍💻 by gaurang_tandon
 
-### 3. [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
-💬 459 points | 🧑‍💻 by shaunpud
+### 3. [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
+💬 184 points | 🧑‍💻 by gmays
 
-### 4. [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
-💬 70 points | 🧑‍💻 by zdw
+### 4. [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+💬 73 points | 🧑‍💻 by arkits
 
-### 5. [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-💬 2546 points | 🧑‍💻 by jaz
+### 5. [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+💬 429 points | 🧑‍💻 by b0m
 

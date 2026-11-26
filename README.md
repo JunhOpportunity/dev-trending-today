@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-25)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-26)
 
-### 1. [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
-💬 536 points | 🧑‍💻 by E-Reverance
+### 1. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
+💬 1381 points | 🧑‍💻 by Kotlopou
 
-### 2. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-💬 278 points | 🧑‍💻 by gaurang_tandon
+### 2. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+💬 1377 points | 🧑‍💻 by lxhrstn
 
-### 3. [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
-💬 184 points | 🧑‍💻 by gmays
+### 3. [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
+💬 58 points | 🧑‍💻 by joonehur
 
-### 4. [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
-💬 73 points | 🧑‍💻 by arkits
+### 4. [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real)
+💬 15 points | 🧑‍💻 by trakkstar
 
-### 5. [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-💬 429 points | 🧑‍💻 by b0m
+### 5. [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+💬 425 points | 🧑‍💻 by nb-t
 

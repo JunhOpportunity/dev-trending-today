@@ -8,20 +8,20 @@ node.js
 - 매일 업데이트 외에 매 달 트렌드 내용도 정리
 ---
 
-# 📰 오늘의 개발 트렌드 (Updated: 2026-11-26)
+# 📰 오늘의 개발 트렌드 (Updated: 2026-11-27)
 
-### 1. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
-💬 1381 points | 🧑‍💻 by Kotlopou
+### 1. [The group chat where your AI talks behind your back](https://construct22.com/)
+💬 74 points | 🧑‍💻 by utiiiD
 
-### 2. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
-💬 1377 points | 🧑‍💻 by lxhrstn
+### 2. [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+💬 100 points | 🧑‍💻 by todsacerdoti
 
-### 3. [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
-💬 58 points | 🧑‍💻 by joonehur
+### 3. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+💬 593 points | 🧑‍💻 by jlelse
 
-### 4. [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real)
-💬 15 points | 🧑‍💻 by trakkstar
+### 4. [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+💬 299 points | 🧑‍💻 by zdw
 
-### 5. [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
-💬 425 points | 🧑‍💻 by nb-t
+### 5. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+💬 363 points | 🧑‍💻 by iantongeorge
 
